@@ -1,0 +1,2177 @@
+naam,calorieen,eiwitten,koolhydraten,vetten,vezels,gewicht_per_stuk,ml_per_portie,standaard_eenheid
+Aardappelen,88,2,19,0,"1,8",135.0,0,stuk
+Aardappelen nieuwe,88,2,19,0,"1,8",135.0,0,stuk
+Aardappelen oude,88,2,19,0,"1,8",135.0,0,stuk
+Pasta witte,356,"12,3",72,"1,5",3,0.0,0,
+Rijst witte,352,7,78,1,"1,3",0.0,0,
+Andijvie,16,"1,5",1,"0,3","1,7",0.0,0,
+Asperge witte,22,1,3,"0,3","1,7",0.0,0,
+Aubergine,20,1,3,0,2,0.0,0,
+Biet rode,38,"1,7",6,"0,1","2,9",0.0,0,
+Kool bloem-,25,"1,9",3,"0,2","2,2",0.0,0,
+Cantharel,16,"1,8",1,0,"2,5",0.0,0,
+Champignon,18,"2,3","0,4","0,5","1,5",0.0,0,
+Kool Chinese,17,1,2,0,"2,5",0.0,0,
+Doperwten,65,4,10,0,"4,7",0.0,0,
+Kool groene,36,"2,4","4,1","0,2","4,1",0.0,0,
+Komkommer z schil,15,"0,6","2,5","0,2","0,3",400.0,0,stuk
+Paprika groene,19,"0,8","2,5","0,1","2,5",150.0,0,stuk
+Rozijnen gedroogd,325,"3,1","71,7","0,5","3,7",0.0,0,
+Peultjes,33,2,5,0,"2,5",0.0,0,
+Raapstelen,17,2,1,0,"2,3",0.0,0,
+Rabarber,23,1,2,0,"1,8",0.0,0,
+Kool rode,27,2,3,0,"3,6",0.0,0,
+Schorseneren,76,1,15,1,"1,7",0.0,0,
+Sla krop-,13,"1,4","0,3","0,4","1,2",0.0,0,
+Bonen snij-,22,"1,9",2,"0,1","2,7",0.0,0,
+Sperziebonen,25,"2,3","1,8","0,2","3,6",0.0,0,
+Spinazie,26,"3,2","0,9","0,6",2,0.0,0,
+Kool spits-,42,3,4,1,"2,5",0.0,0,
+Tauge,25,"2,2","3,2","0,1","1,2",0.0,0,
+Tomaat gewoon,20,"0,7","2,9","0,4","1,3",100.0,0,stuk
+Bonen tuin-,51,5,4,0,"7,3",150.0,0,stuk
+Ui,37,"1,3","6,3","0,2","2,7",150.0,0,stuk
+Sla veld-,18,"2,6","0,5","0,2","1,7",0.0,0,
+Witlof,19,"1,3","2,4","0,2","1,2",0.0,0,
+Kool witte,30,2,4,0,"2,8",0.0,0,
+Wortel  gem,32,"0,8","5,3","0,3","2,8",95.0,0,stuk
+Kool zuur-,13,"1,1","0,6",0,"3,2",0.0,0,
+Groente soep-,32,"1,5","4,6","0,2","3,2",0.0,250,kom
+Meel gries-,337,11,70,1,2,0.0,0,
+Bloem rijste-,352,7,78,1,"1,3",0.0,0,
+Vermicelli,354,12,71,2,2,0.0,0,
+Ei kippen-  gem,132,"12,3","0,2","9,1",0,0.0,0,
+Eidooier kippen-,361,"16,7","0,2","32,6",0,0.0,0,
+Eipoeder kippen-,574,46,3,42,0,0.0,0,
+Paardenvlees,99,"22,4",0,1,0,0.0,0,
+Schapenvlees >10 g vet  gem,293,17,0,25,0,0.0,0,
+Kalfshersenen,108,9,0,8,0,0.0,0,
+Eend m vel,388,"13,1",0,"37,3",0,0.0,0,
+Haas,115,22,0,3,0,0.0,0,
+Kip m vel,218,"18,3",0,16,0,0.0,0,
+Konijn tam,174,21,0,10,0,0.0,0,
+Konijn wild,125,20,0,5,0,0.0,0,
+Paling,372,14,0,"35,1",0,0.0,0,
+Haring pan-,199,16,0,15,0,0.0,0,
+Vis mager 0-5 g vet gem,92,"19,7",0,"1,5",0,0.0,0,
+Vis vet >5 g vet gem,242,"17,2","0,3","19,1",0,0.0,0,
+Bonen witte/bruine gedroogd,314,"20,1","44,2","2,4","18,1",150.0,0,stuk
+Erwten groene gedroogd,315,21,43,2,"20,4",0.0,0,
+Kapucijners gedroogd,305,20,43,"1,5","19,9",0.0,0,
+Linzen groene en bruine gedroogd,306,21,43,"1,5",18,150.0,0,stuk
+Aardappelpuree vers bereid m halfvolle melk en margarine,83,"2,2","13,9","1,8","1,2",135.0,200,glas
+Chips gem,538,"6,3","52,3","32,8",4,0.0,0,
+Radijs,22,1,4,0,"0,9",0.0,0,
+Rammenas,30,2,5,0,1,0.0,0,
+Sterkers,15,2,0,0,"3,3",0.0,0,
+kost gem,20,"0,9","2,5","0,4","1,3",0.0,0,
+Peterselie vers,37,4,1,"0,8",5,0.0,0,
+Asperge witte blik/glas,17,"1,4","1,9","0,3","1,2",0.0,0,
+Augurk zuur,10,1,1,0,"0,9",0.0,0,
+Augurk zoetzuur,27,"0,8","5,3",0,"0,9",0.0,0,
+Champignon blik/glas,19,"2,2","0,5","0,4","2,3",0.0,0,
+Doperwten middelfijn blik/glas,94,5,14,1,"4,5",0.0,0,
+Doperwten zeer fijn/extra fijn blik/glas,78,"5,6","9,9","0,8","4,5",0.0,0,
+Doperwten m wortelen blik/glas,56,"3,4",7,"0,5","4,8",95.0,0,stuk
+Olijven groen in water blik/glas,113,"0,9","0,5",11,4,0.0,200,glas
+Bonen snij- blik/glas,20,"1,1","2,3","0,3","2,1",0.0,0,
+Bonen sperzie- blik/glas,26,"1,6","2,9","0,3","2,6",0.0,0,
+Spinazie blik/glas,31,"3,2","1,3","0,9",3,0.0,0,
+Puree tomaten- geconcentreerd blik,87,"4,5","15,5",0,"3,7",0.0,0,
+Bonen tuin- blik/glas,73,"5,8","8,5","0,6","5,3",150.0,0,stuk
+Wortel blik/glas,29,"0,7","5,3","0,2","1,8",95.0,0,stuk
+Ui zilver- zoetzuur glas,34,"0,6","6,9","0,1","1,4",150.0,0,stuk
+Kool rode blik/glas,40,"0,8","7,9","0,2",2,0.0,0,
+Appel z schil gem,55,"0,2",12,"0,1","1,6",135.0,0,stuk
+Aardbeien,29,"0,7","5,1",0,"1,1",12.0,0,stuk
+Abrikozen m schil,44,"0,9",8,"0,1","1,7",40.0,0,
+Ananas,54,"0,5",12,"0,1","1,6",0.0,0,
+Banaan,92,"1,1",20,"0,3","1,9",150.0,0,stuk
+Bessen blauwe,52,"0,7",11,0,"2,4",0.0,0,
+Bessen rode,36,"1,1","4,4",0,"3,4",0.0,0,
+Bessen zwarte,53,"0,9",8,0,"3,6",0.0,0,
+Bessen bos-,30,"0,6",6,0,"1,8",0.0,0,
+Bessen vossen-,57,"0,8","8,8","1,2","3,7",0.0,0,
+Bramen,37,"0,9","5,1","0,2","3,1",5.0,0,
+Citroen,36,"0,8",3,"0,3",2,120.0,0,
+Cranberry vers,24,"0,4","3,4","0,1","3,6",0.0,0,
+Druiven m schil gem,78,"0,6","16,8","0,2","1,8",5.0,0,stuk
+Frambozen,37,"1,4","4,5","0,3","2,5",4.0,0,
+Grapefruit,37,"0,9","6,6",0,"1,4",150.0,0,stuk
+Kersen zoete,57,"0,9","11,5","0,4","0,9",8.0,0,
+Bessen kruis-,49,"0,9",9,0,"2,4",150.0,0,stuk
+Mandarijn,46,"0,7","9,9","0,1","0,9",100.0,0,stuk
+Meloen net-,27,"0,5",6,0,"0,4",0.0,0,
+Kersen zure,52,1,11,0,"2,1",8.0,0,
+Peer z schil,53,"0,3","11,7","0,2","1,6",140.0,0,stuk
+Perzik z schil,41,1,"7,9",0,"1,4",150.0,0,
+Pruimen m schil,40,"0,8","7,3",0,"2,2",150.0,0,stuk
+Sinaasappel,48,"0,8","7,9",1,2,130.0,200,stuk
+Fruit vers citrus- gem,48,"0,8","8,9","0,5","1,4",150.0,0,stuk
+Fruit vers excl citrus- gem,63,"0,7","13,5","0,2","1,8",150.0,0,stuk
+Aardbeien op siroop blik/glas,71,"0,5","16,9",0,"0,9",12.0,0,stuk
+Abrikozen gedroogd,285,5,59,0,"14,4",40.0,0,
+Abrikozen op siroop blik/glas,69,"0,4","16,1","0,1","1,2",40.0,0,
+Ananas op siroop blik/glas,69,"0,3","16,1","0,1",1,0.0,0,
+Appeltjes gedroogd,292,2,65,"0,5","9,6",135.0,0,stuk
+Appelmoes blik/glas,76,"0,2","17,6","0,1","1,9",135.0,0,stuk
+Bessen bos- op siroop blik/glas,66,"0,3","15,1","0,3",1,0.0,0,
+Dadels gedroogd,305,2,"70,5",0,"7,5",0.0,0,
+Frambozen op siroop blik/glas,71,"0,5","15,7","0,3","1,5",4.0,0,
+Fruitcocktail op siroop blik/glas,75,"0,4","17,3",0,2,150.0,0,stuk
+Kersen op siroop blik/glas,63,"0,6","14,2","0,3","0,5",8.0,0,
+Krenten gedroogd,326,2,75,0,9,0.0,0,
+Mandarijnen op siroop blik/glas,59,"0,5",14,0,"0,3",100.0,0,stuk
+Peren gedroogd,287,2,65,0,"9,6",0.0,0,
+Peren op siroop blik/glas,64,"0,3","14,7",0,2,0.0,0,
+Perziken op siroop blik/glas,62,"0,4","14,6",0,1,150.0,0,
+Pruimen gedroogd,199,"1,6","47,9","0,4","5,1",150.0,0,stuk
+Pruimen op siroop blik/glas,65,"0,3","15,5",0,1,150.0,0,stuk
+Tuttifrutti gedroogd,256,"2,7","56,1","0,3",9,0.0,0,
+Vijgen gedroogd,259,"3,3","54,1","0,9","9,8",0.0,0,
+Vruchten op siroop gem blik/glas,65,"0,3",15,"0,1","1,5",0.0,0,
+Babyvoeding fruit 8 mnd,74,"0,6","17,1","0,1","1,2",150.0,0,stuk
+Kapucijners blik/glas,108,"7,1","14,8","0,8","6,5",0.0,0,
+Bonen witte in tomatensaus blik/glas,101,"5,7","15,2","0,6","6,1",0.0,0,
+Noten amandelen z vliesje ongezouten,631,"21,7","7,1","55,8",7,0.0,0,handje
+Noten cashew- ongezouten,615,"21,2","20,8","48,9","3,8",0.0,0,handje
+Noten hazel- ongezouten,670,"16,4","4,8",63,9,0.0,0,handje
+Kastanje,189,4,35,"2,7","4,1",0.0,0,
+Kokosnootvlees,406,4,3,40,9,0.0,0,
+Noten para- ongezouten,687,"14,3","2,6","67,1","7,5",0.0,0,handje
+Pinda's ongezouten,627,"25,2","11,8","51,7","6,8",0.0,0,handje
+Studentenhaver,496,11,38,"32,1","5,6",0.0,0,
+Walnoten,706,"15,9","5,1","68,1","4,6",0.0,0,handje
+Noten gemengd ongezouten,658,"18,1","8,9","59,6","6,7",0.0,0,handje
+Meel boekweit-,353,9,72,2,"5,6",0.0,0,
+Ontbijtproduct Cornflakes Kellogg's,378,7,84,"0,9",3,0.0,0,
+Custardpoeder,350,"0,3",87,"0,1",0,0.0,0,
+Mout gorte-,332,10,65,2,"7,2",0.0,0,
+Gort parel-,339,9,67,2,"8,6",0.0,0,
+Mout haver-,373,"12,8","60,7","7,3","7,3",0.0,0,
+Mais pof- gedroogd,374,11,71,4,5,0.0,0,
+Maizena,353,0,88,"0,1",0,0.0,0,
+Puddingpoeder,341,0,85,0,"0,5",0.0,0,
+Bloem rogge- 60% uitmaling,343,8,73,1,5,150.0,0,stuk
+Meel rogge-,328,10,"60,2",2,"14,8",0.0,0,
+Tapioca,322,0,80,0,"0,9",0.0,0,
+Bloem tarwe- patent,335,"10,4",69,"1,2","3,2",0.0,0,
+Meel volkoren tarwe-,330,"14,4","58,4",2,"10,3",0.0,0,
+Bindmiddel gem,335,10,"69,5","1,2","3,1",0.0,0,
+Ontbijtproduct Olvarit pap fijne granen 6+ mnd,367,"12,4","69,6","2,1",10,0.0,0,
+Ontbijtproduct Brinta,344,11,65,"2,1","10,5",0.0,0,
+Meel aardappelzetmeel,320,0,80,0,0,135.0,0,stuk
+Beschuit naturel,408,"14,1","76,1","4,7","2,8",150.0,0,stuk
+Cracker cream-,448,"9,1","68,8","14,5",3,0.0,0,
+Knackebrod gem,376,"11,6","63,6","5,6","12,7",0.0,0,
+Tarwebroodje wit zacht,262,"9,7","45,9","3,6","3,8",0.0,0,
+Kiemen tarwe-,393,31,37,"9,9",16,0.0,0,
+Broodje koffie-,349,"5,8","48,4","14,1","2,7",0.0,125,kopje
+Tarwekrentenbrood wit,273,"7,8","53,3","2,4","3,3",0.0,0,
+Biscuit baby- Liga Baby 6-12 mnd,394,"6,5","73,5","7,6","2,9",150.0,0,stuk
+Biscuit dreumes- Liga Kind 12-36 mnd,411,"8,5",71,"9,4","4,2",150.0,0,stuk
+Tarwebrood bruin,236,"9,8","42,9","1,7",5,150.0,0,stuk
+Cracker Matzes,376,11,"78,8",1,4,0.0,0,
+Koek ontbijt-,308,3,"69,5","1,2","3,6",0.0,0,
+Tarwebrood wit melk,257,"9,6","47,9","2,4","2,6",0.0,200,glas
+Roggebrood volkoren,193,"5,6","35,6","1,3","8,3",0.0,0,
+Roggetarwebrood bruin,233,"8,2","42,8","1,5","7,7",150.0,0,stuk
+Tarwerozijnenbrood wit,272,"7,7","52,2","2,7",4,0.0,0,
+Tarwebrood volkoren gem v fijn en grof,234,"11,1",39,"2,3","6,7",0.0,0,
+Tarwebrood wit water,247,9,"47,8","1,6","2,5",0.0,200,glas
+Tarwemoutbrood bruin,249,"9,4","46,6","1,9",4,150.0,0,stuk
+Broodje amandel- (v bladerdeeg),391,7,"38,1",23,"1,8",0.0,0,
+Taart appel- v zandtaartdeeg z roomboter,225,"3,4","31,6",9,"1,5",135.0,0,stuk
+Biscuit,437,"7,6","75,5",11,"2,5",150.0,0,stuk
+Cake z roomboter,394,"5,7","42,2","22,4","0,8",0.0,0,
+Koek eier-,303,6,66,"1,5","1,2",0.0,0,
+Taart slagroom-,316,"4,6","31,4","18,9","0,8",0.0,0,
+Taart creme au beurre-,430,"3,7","43,8","26,6","0,3",0.0,0,
+Koek gevulde gem,411,"6,4","59,9","15,8",2,0.0,0,
+Koekje gem,475,"5,7","65,1","20,7","2,6",0.0,0,
+Kokosmakronen,455,4,59,"21,2","5,9",0.0,0,
+Lange vingers,402,"7,2","84,8","3,5",1,0.0,0,
+Speculaas gem,469,5,"65,1","20,3",3,0.0,0,
+Sprits m roomboter,489,"4,9","49,6","29,8","1,3",0.0,0,
+Biscuit tarwe-/volkoren-,459,"7,8","70,7","14,9","5,5",150.0,0,stuk
+Biscuit zoute,472,"8,1","56,7",23,"2,6",150.0,0,stuk
+"Bladerdeeg z roomboter, bereid",614,7,40,47,"1,4",0.0,0,
+Broodje saucijzen-,356,"7,2","28,5","23,4","1,4",0.0,0,
+Pepsels,382,"11,9","69,5","5,3","4,2",0.0,0,
+Kroepoek naturel,516,"3,5",62,28,1,0.0,0,
+Melk e,71,"3,4","4,4","4,4",0,0.0,200,glas
+Melk koffie- Becel,112,"7,1",11,"4,4",0,0.0,125,kopje
+Melk chocolade- volle,82,"3,3","10,7","2,8","0,5",0.0,200,glas
+Melk chocolade- magere,62,"3,3","11,4","0,3","0,5",0.0,200,glas
+Creamer koffie-,560,"2,1","58,4","35,3",0,0.0,125,kopje
+Vla chocolade- volle,88,"2,4","13,4","2,6","0,8",0.0,0,
+Yoghurt volle,56,"3,8","3,4","2,7",0,0.0,150,bakje
+Melk volle,61,"3,3","4,5","3,4",0,0.0,200,glas
+Melk koffie- volle,145,"7,5","11,4","7,7",0,0.0,125,kopje
+Melk gecondenseerde m suiker,330,"8,1","54,7","8,8",0,150.0,200,glas
+Vla vanille- volle,86,"2,3","12,8","2,8","0,4",0.0,0,
+Yoghurt vruchten- magere,67,3,"12,4","0,2","0,6",0.0,150,bakje
+Melk koffie- halfvolle,110,7,"11,2","4,1",0,0.0,125,kopje
+Melk halfvolle,45,"3,4","4,7","1,4",0,0.0,200,glas
+Pap havermout- bereid m volle melk ongezoet,95,"4,3","10,5","3,8","0,8",0.0,200,glas
+Melk karne-,30,3,"3,6","0,2",0,0.0,200,glas
+Pap karnemelkse bloem-,52,"3,7","7,8","0,5","0,1",0.0,200,glas
+Topping m suiker poeder Klop-Klop,535,"4,4","63,4","29,3",0,150.0,0,stuk
+Melk koffie- magere,57,"9,9","4,3",0,0,0.0,125,kopje
+Room koffie-,210,"3,3","3,8","20,2",0,0.0,125,kopje
+Melk magere,35,"3,7","4,9","0,1",0,0.0,200,glas
+Melkpoeder magere,349,"35,4","50,5","0,6",0,0.0,200,glas
+Melkpoeder volle,478,"23,9",37,26,0,0.0,200,glas
+Melk moeder-,66,"1,1","7,4","3,5",0,0.0,200,glas
+Pap rijste-,86,"3,1",12,"2,9","0,1",0.0,0,
+Room slag- onbereid,339,"2,3","3,1","35,3",0,0.0,0,
+Yoghurt Bulgaarse volle,77,"4,5","4,5","4,3",0,0.0,150,bakje
+Yoghurt magere,37,"4,1",4,"0,2",0,0.0,150,bakje
+IJs room/vanille- gem,216,"2,9","25,3","11,3","0,5",0.0,0,
+Kaas strooi- Zwitserse,228,55,0,"0,7",0,0.0,0,
+Kwark magere,51,"8,4","3,8",0,0,0.0,125,bakje
+Kwark halfvolle,77,"7,5",4,"3,2",0,0.0,125,bakje
+Kwark volle,118,"7,5","3,6",8,0,0.0,125,bakje
+Olie arachide-,900,0,0,100,0,0.0,0,
+Boter ongezouten,737,"0,7","1,1","81,2",0,0.0,0,
+Olie soja-,894,"0,3",0,"99,2",0,0.0,0,
+Vet varkens- uitgesmolten,900,0,0,100,0,150.0,0,stuk
+Vet rund- uitgesmolten,891,0,0,99,0,150.0,0,stuk
+Olie zonnebloem-,897,"0,3",0,"99,5",0,0.0,0,
+Cornedbeef,208,"24,3","0,9","11,9",0,0.0,0,
+Fazant,223,31,0,11,0,0.0,0,
+Frikandel bereid m vloeibaar frituurvet,251,"13,8","6,7","18,4","1,8",0.0,0,
+Kroket vlees- bereid m vloeibaar frituurvet,272,"8,9","20,9","16,6","1,9",0.0,0,
+Ham e,188,"24,6","1,2","9,5",0,0.0,0,
+Kalkoen,141,"21,8",0,6,0,0.0,0,
+Pastei lever-,318,"14,2","1,7","28,3",0,0.0,0,
+Luncheon meat blik,279,"12,9","3,3","23,8","0,2",0.0,0,
+Patrijs,248,35,0,12,0,0.0,0,
+Pekelvlees,184,"17,3","0,1","12,7",0,0.0,0,
+Ree wild,122,"22,4",0,"3,6",0,0.0,0,
+Runderrookvlees,108,22,"0,5",2,0,0.0,0,
+Spek rook- vet,678,5,0,"73,2",0,0.0,0,
+Vleeswaren gem,239,"16,6","2,7","17,9","0,2",0.0,0,
+Bokking gerookt,242,"20,8","0,3","17,5",0,0.0,0,
+Haringfilet in tomatensaus blik,201,12,"5,4","14,6","0,5",0.0,0,
+Haring gezouten,172,"17,6","2,8","10,1",0,0.0,0,
+Krab in water blik,85,"18,1",0,"1,4",0,0.0,200,glas
+Makreel,233,18,0,"17,9",0,0.0,0,
+Oesters,57,6,4,"1,9",0,0.0,0,
+Sardines in olie blik,231,"21,7",0,16,0,0.0,0,
+Lever schelvis- blik,409,7,0,"42,3",0,0.0,0,
+Stokvis geweekt,138,"32,5",0,"0,9",0,0.0,0,
+Eiwit kippenei,44,"10,5","0,4",0,0,0.0,0,
+Loempia gefrituurd in plantaardige olie,181,"7,1","18,6","8,2",2,0.0,0,
+Babyvoeding maaltijd 8 mnd,74,"3,4","9,7","2,1","1,7",0.0,0,
+Suiker basterd- bruine,396,0,99,0,0,150.0,0,stuk
+Suiker basterd- witte,396,0,99,0,0,150.0,0,stuk
+Suiker kristal-,400,0,100,0,0,150.0,0,stuk
+Stroop keuken-,328,0,82,0,0,0.0,0,
+Stroop suiker-,300,0,75,0,0,150.0,0,stuk
+Advocaat,236,"4,3","23,6","3,2",0,0.0,0,
+Sap appel-,46,"0,1","11,2",0,0,135.0,200,stuk
+Vruchtendrank rode bessen,57,0,14,0,"0,4",0.0,0,
+Jenever bessen-,184,0,18,0,0,0.0,0,
+Vruchtendrank zwarte bessen,61,0,15,0,"0,4",0.0,0,
+Sap rode bessen-,42,"0,2",10,0,"0,6",0.0,200,
+Bier oud bruin,38,"0,5","5,5",0,"0,2",150.0,250,glas
+Bier pils,44,"0,4",3,0,"0,3",0.0,250,glas
+Brandewijn,231,0,0,0,0,0.0,150,glas
+Campari,180,0,10,0,0,0.0,0,
+Jenever citroen-,180,0,3,0,0,120.0,0,
+Cognac,224,0,0,0,0,0.0,0,
+Frisdrank m suiker m cafeine,41,0,"10,4",0,0,150.0,200,stuk
+Sap druiven-,65,"0,2","15,9",0,"0,2",5.0,200,stuk
+Vruchtendrank frambozen,57,0,14,0,"0,4",4.0,0,
+Frisdrank m suiker z cafeine,37,0,"9,2",0,0,150.0,200,stuk
+Jenever jonge,196,0,0,0,0,0.0,0,
+Jenever oude,200,0,1,0,0,0.0,0,
+Likeur 15-25 vol% alc,242,0,29,0,0,0.0,0,
+Muskaatwijn,162,0,"13,7",0,0,0.0,150,glas
+Port,156,0,13,0,0,0.0,0,
+Rum,234,0,0,0,0,0.0,0,
+Sherry,111,0,"3,2",0,0,0.0,0,
+Sap sinaasappel- gepasteuriseerd,45,"0,6","9,5","0,1","0,3",130.0,200,stuk
+Sap tomaten-,16,"0,7","3,2",0,"0,4",0.0,200,
+Vermouth zoete,150,0,"16,5",0,0,0.0,0,
+Vieux,200,0,1,0,0,0.0,0,
+Limonade vruchten- m suiker,41,0,"10,3",0,0,150.0,0,stuk
+Whisky,245,0,0,0,0,0.0,0,
+Wijn rode,82,0,3,0,0,0.0,150,glas
+Wijn witte droge,67,"0,1","0,6",0,0,0.0,150,glas
+Frisdrank Rivella,4,0,1,0,0,0.0,200,
+Stroop appel-,280,"1,8","65,9",0,"4,6",135.0,0,stuk
+Saus barbecue-,95,"0,9","22,2","0,1",1,0.0,0,
+Bouillonblokje,273,"8,1","21,2","17,2","0,5",150.0,250,kom
+Cacaopoeder,379,"18,5","10,5","21,7",34,0.0,0,
+Chocolade melk-,548,7,52,"34,1","2,8",0.0,200,glas
+Chocolade puur,531,"6,5","46,7","33,7","7,2",0.0,0,
+Vlokken chocolade- melk,454,"5,8",72,15,"3,5",0.0,200,glas
+Boter chocolade-,515,"1,6","53,6","32,2","2,4",0.0,0,
+Vlokken chocolade- puur,444,"5,2",67,"15,5",7,0.0,0,
+Pasta chocolade- hazelnoot,562,"5,7","53,9","35,3","2,9",0.0,0,
+Saus cocktail/party/tafel- 25% olie,293,"0,7","13,7","26,1","0,2",0.0,0,
+Gelatine,352,88,0,0,0,0.0,0,
+Gember op siroop blik/glas,288,"1,8",69,0,"2,5",0.0,0,
+Gistextract Marmite,238,"38,4","19,2","0,1","3,1",0.0,0,
+Hagelslag vruchten-,393,"0,1","98,2",0,0,0.0,0,
+Honing,321,"0,3",80,0,0,0.0,0,
+Pasta chocolade- puur,575,3,"51,4","38,6","4,1",0.0,0,
+Jam,248,"0,3","60,8","0,1","1,2",0.0,0,
+Kauwgom,280,0,70,0,0,0.0,0,
+Kauwgom z suiker,171,"0,1","66,4","0,6","2,4",150.0,0,stuk
+Kokosbrood,426,"3,2","58,7","18,6","5,6",0.0,0,
+Zuurtjes,380,0,95,0,0,0.0,0,
+Mayonaise,664,"1,1","3,6","71,6","0,2",0.0,0,
+Pepermunt,395,"0,6","98,2",0,0,0.0,0,
+Piccalilly,53,"1,3","8,2","1,3","1,8",0.0,0,
+Pindakaas,654,"22,5",10,"56,4",8,0.0,0,handje
+Jam rozenbottel- m vit C,260,"1,8",62,"0,3",1,0.0,0,
+Saus sla- 25% olie,278,"0,4","8,9","26,7","0,2",0.0,0,
+Toffee,401,"0,6","85,6","6,2","0,1",0.0,0,
+Ketchup tomaten-,77,1,"17,7",0,"0,8",0.0,0,
+Siroop vruchtenlimonade-,233,0,"58,2",0,0,0.0,0,
+Broodbeleg zoet gem,422,3,"64,2","16,5","2,5",0.0,0,
+Saus frites- 25% olie,296,"0,5",12,"27,3","0,2",0.0,0,
+Saus frites- 35% olie,375,"0,7",12,36,0,0.0,0,
+Pannenkoek huishoudelijk bereid m margarine,203,"8,3","29,2","5,8","0,6",150.0,0,stuk
+Tompouce,315,"3,8","36,5","16,9","0,7",0.0,0,
+Babi pangang z rijst,131,"10,2","6,7",7,"0,4",0.0,0,
+Bami goreng z ei,168,"6,6","26,3","3,7","1,4",0.0,0,
+Nasi goreng m ei,144,"4,4","22,4","3,9","0,9",0.0,0,
+Tjap tjoi z rijst,61,"3,9","3,2","3,4","0,9",0.0,0,
+Foe yong hai z rijst,96,"4,8","4,6","6,2","1,3",0.0,0,
+Oliebol gevuld m krenten en rozijnen,256,6,"37,1","8,8","2,2",0.0,0,
+Lever kippen-,128,"19,1",1,"5,4",0,0.0,0,
+Melk karne- m vruchten,51,"3,3","8,2","0,5",0,0.0,200,glas
+Biscuit fourre omhuld m chocolade,500,"5,4","67,7","22,6","1,9",150.0,0,stuk
+Koek Bastogne,493,"4,9","72,2","20,1","1,9",0.0,0,
+Spekkie,334,"4,1","78,3","0,4","0,3",0.0,0,
+Spread fruit- minder suiker,118,"0,5","27,7","0,2","1,7",150.0,0,stuk
+IJs room/vanille- cornet m chocola en nootjes,302,"3,9","38,9","14,3","0,9",0.0,0,
+Vlaai vruchten-,228,"2,9","41,6","5,1","1,1",0.0,0,
+Candybar Mars,449,"4,1","70,2","16,6","1,3",0.0,0,
+Puddingpoeder chocolade instant,370,1,89,1,"0,5",0.0,0,
+Vlaai rijste-,211,"4,5","34,5",6,"0,7",0.0,0,
+Siroop vruchtenlimonade- vruchtenmix m rozenbottel,185,"0,3","45,6",0,"0,6",0.0,0,
+Siroop vruchtenlimonade- Roosvicee Fruitkracht Ferro,222,"0,2","55,2",0,"0,3",150.0,0,stuk
+Siroop vruchtenlimonade- Roosvicee Fruitkracht Pruimen,225,"0,2",56,0,"0,2",150.0,0,stuk
+Kaas Edammer 40+,324,"25,5",0,"24,3",0,0.0,0,
+Kaas Goudse 48+ gem,370,"22,9",0,"30,6",0,0.0,0,
+Kaas 20+ Leidse/Friese nagel-,240,"33,1",0,"11,9",0,0.0,0,
+Kaas smeer- volvet 48+,260,"13,4","2,1","21,7","0,5",0.0,0,
+Kaas smeer- 40+,227,16,2,17,0,0.0,0,
+Kaas smeer- 20+,137,"17,2","1,7","6,8",0,0.0,0,
+Drop zoute,330,"12,2","68,1","0,2","3,1",0.0,0,
+Drop dubbelzoute,330,"12,2","68,1","0,2","3,1",0.0,0,
+Drop zoete,333,"7,3","74,6","0,4",1,0.0,0,
+Stophoest,396,"0,6","98,4",0,0,0.0,0,
+Chocolade in krokant suikerlaagje M&M's,487,"4,6","68,6","20,7","2,7",150.0,0,stuk
+Candybar Milky Way,448,4,"71,9","15,9","0,6",0.0,0,
+Candybar Bounty,486,"3,7","58,3","26,1","1,5",0.0,0,
+Candybar Snickers,484,"8,7","60,2","22,9","1,3",0.0,0,
+Bakmix voor pannenkoeken,322,"10,6","65,4","1,2","3,8",0.0,0,
+Bakmix voor poffertjes,337,10,71,1,2,0.0,0,
+Pudding chocolade-,112,"3,4","19,3",2,"1,3",0.0,0,
+Cacaopoeder gezoet,376,"4,5","80,6","2,6",6,0.0,0,
+Rabarbermoes m suiker,82,"0,5",19,0,2,150.0,0,stuk
+Dessertsaus vruchten-,189,"0,3","46,3","0,1","0,7",0.0,0,
+Dessertsaus chocolade-,269,"2,1","60,8","1,9","0,5",0.0,0,
+Pindakaas m stukjes pinda,651,20,15,55,"7,9",0.0,0,handje
+Noten borrel-,532,"13,2","43,7","32,7","4,8",0.0,0,handje
+Saus schaschlik-,109,"0,8","25,9",0,"0,9",0.0,0,
+Topping m suiker opgeklopt Klop-Klop,111,"3,5","12,5","5,2",0,150.0,0,stuk
+Kaas Camembert 45+,306,25,0,"22,8",0,0.0,0,
+Selderij bleek-,14,1,2,0,"1,1",0.0,0,
+Selderij knol-,38,2,5,0,"4,9",0.0,0,
+Koolraap,30,"0,7",5,"0,1",3,0.0,0,
+Koolrabi,31,"0,9","4,7","0,3","2,8",0.0,0,
+Postelein,13,1,1,0,"2,5",0.0,0,
+Prei,28,"1,5","3,5","0,2",3,0.0,0,
+Snijbiet,29,3,3,0,"2,5",0.0,0,
+Spruitjes,46,"2,3","5,6","0,7","4,1",150.0,0,stuk
+Worst knak- blik/glas,201,12,"3,8","15,4","0,1",0.0,0,
+Worst boterham-,306,"11,6","3,5","26,9","0,2",0.0,0,
+Worst bloed-,386,"12,4","9,5","32,6","2,5",0.0,0,
+Candybar Nuts,497,"4,6","62,3","24,8","3,3",0.0,0,
+Spread sandwich- naturel,235,"1,6",14,19,"0,8",0.0,0,
+Salade huzaren-,149,"2,1","13,7","9,1","2,1",0.0,0,
+Ketchup hot chilli,101,"1,2","23,3","0,1","0,8",0.0,0,
+Ketchup curry-,129,"0,8","29,9","0,3","1,5",0.0,0,
+Zemelen tarwe-,286,"17,4",20,"5,1",45,0.0,0,
+Ontbijtproduct All-Bran Plus Kellogg's,334,14,48,"3,5",27,0.0,0,
+Kaas Brie 50+,318,23,0,"25,1",0,0.0,0,
+Cacaoproduct poeder Ovomaltine,370,"11,2",75,"1,7","4,9",0.0,0,
+Knackebrod goudbruin,410,"12,3","72,3","6,6","5,8",150.0,0,stuk
+Water 0-50 mg calcium p liter,0,0,0,0,0,0.0,200,glas
+Water 50-100 mg calcium p liter,0,0,0,0,0,0.0,200,glas
+Water >100 mg calcium p liter,0,0,0,0,0,0.0,200,glas
+Olie olijf-,900,0,0,100,0,0.0,0,
+Zalm blik,146,"20,4",0,"7,2",0,0.0,0,
+Paling gerookt,351,"19,1",0,"30,5",0,0.0,0,
+Makreel gestoomd,315,"19,5","0,5","26,1",0,0.0,0,
+Krentjebrij Bessola,73,"0,5",17,"0,1",1,0.0,0,
+Olie Becel Blend Classic,900,0,0,100,0,0.0,0,
+Olie saffloer-,900,0,0,100,0,0.0,0,
+Olie mais/maiskiem-,900,0,0,100,0,0.0,0,
+Nasischijf diepvries gefrituurd in plantaardige olie,298,"5,8","30,7","16,7","0,7",0.0,0,
+Bamibal gefrituurd in plantaardige olie,275,7,30,14,"0,7",0.0,0,
+Saus sate- kant-en-klaar bereid,247,"7,5","23,5","13,2","2,4",0.0,0,
+Zoutje luchtig aardappelbasis Nibb-it,482,"3,3",65,"22,5","3,3",135.0,0,stuk
+Zoutje aardappel- Wokkels,493,"3,4",69,22,"2,8",135.0,0,stuk
+Fritessticks gem,522,"6,5","60,5","27,5","3,3",0.0,0,
+Pinda's omhuld m chocolade in krokant suikerlaagje M&M's,511,"9,8","59,1","25,3","3,9",150.0,0,handje
+Puddingpoeder overige smaken instant,377,0,94,0,"0,3",0.0,0,
+Popcorn naturel gepoft z olie,386,13,72,4,5,0.0,0,
+Bokkenpootje,454,"5,5","61,6","20,3","1,5",0.0,0,
+Koek kokos-,518,6,53,"30,8",2,0.0,0,
+Koekje krakeling,497,"6,7","61,1","24,8","1,3",0.0,0,
+Koek muesli-,394,"6,5","54,1","16,1","3,3",0.0,0,
+Worst cervelaat-,375,"17,8","1,3",33,"0,7",0.0,0,
+Spek ontbijt-,312,"15,7","0,5","27,5",0,0.0,0,
+Worst lever-,294,"14,5","1,8","25,3","0,5",0.0,0,
+Bacon,188,"18,5","0,5","12,4",0,0.0,0,
+Pate room-,360,"9,6","5,7",33,"1,1",0.0,0,
+Koffie bereid,1,"0,2","0,1",0,0,0.0,125,kopje
+Thee bereid,0,0,0,0,0,0.0,125,kopje
+Ontbijtproduct Rice Krispies Kellogg's,383,6,87,1,1,0.0,0,
+Kaas huttenkase,92,"11,2","2,3","3,9",0,0.0,0,
+Beschuit volkoren/meergranen,394,14,69,5,"8,5",150.0,0,stuk
+Yoghurtdrank,57,"1,6",12,"0,1","0,5",0.0,150,bakje
+Bonen bruine blik/glas,120,"6,5",18,"0,7","7,9",150.0,0,stuk
+Sap grapefruit-,34,"0,5","7,3",0,"0,4",150.0,200,stuk
+Banaan bak- rijp,138,"1,3",32,0,"2,3",150.0,0,stuk
+Cassave,142,"0,6","33,5","0,2","1,7",0.0,0,
+Taro,119,"1,4","26,2","0,2","3,5",0.0,0,
+Yam,124,"1,5","28,2","0,3","1,3",0.0,0,
+Pomtajer,136,2,31,0,2,0.0,0,
+Aardappel zoete,91,"1,2","19,7","0,3","2,4",135.0,0,stuk
+Agoemawiwiri,60,5,7,1,"1,4",0.0,0,
+Amsoi,32,"2,5","3,2","0,3","3,2",0.0,0,
+Antroewa,30,1,6,0,"1,2",0.0,0,
+Dagoeblad,34,3,5,0,"1,1",0.0,0,
+Kaisoi,32,3,5,0,"0,1",0.0,0,
+Klaroen,56,4,7,1,"1,5",0.0,0,
+Kousenband,43,3,7,0,"1,3",0.0,0,
+Okra,23,"1,9","1,8","0,2","3,2",0.0,0,
+Poeng,31,1,6,0,"1,5",0.0,0,
+Pompoen,14,"0,7",2,"0,2",1,0.0,0,
+Sopropo,15,1,"0,9","0,2","2,8",0.0,0,
+Tajerblad,19,2,2,0,"1,4",0.0,0,
+Bonen black eyed gedroogd,367,23,62,2,"4,4",0.0,0,
+Erwten split- gele/groene gedroogd,359,22,61,2,"4,7",0.0,0,
+Avocado,186,2,"1,8","18,4","3,1",200.0,0,stuk
+Guave (met roze vruchtvlees),75,"2,6","10,9",1,"5,3",0.0,0,
+Limoen,41,"0,7","7,7","0,2","2,8",80.0,0,
+Mango,66,"0,6","14,3","0,2","1,6",200.0,0,stuk
+Papaja,39,"0,5","7,8","0,3","1,7",0.0,0,
+Tamarinde,301,3,72,0,"0,3",0.0,0,
+Meel cassave-,336,2,81,0,"1,8",0.0,0,
+Meel mais-,361,"6,8","75,5","2,8","3,2",0.0,0,
+Bojo cassavetaart Surinaams,214,"1,9",31,"8,6","2,3",0.0,0,
+Rundvlees gezouten  Surinaams,201,"14,5",0,"15,8","0,2",0.0,0,
+Rundvlees gezouten gedroogd Surinaams,305,65,0,5,0,0.0,0,
+Garnalen gezouten gedroogd,274,63,1,2,0,0.0,0,
+Bakkeljauw (gedroogde gezouten kabeljauw),355,82,0,3,0,0.0,0,
+Garnalenpasta trassie,208,37,"2,5",5,"2,7",0.0,0,
+Rijst zilvervlies-,357,"8,3","73,5","2,6",3,0.0,0,
+Wafel stroop- gem,473,"3,8","70,2","19,3","1,6",0.0,0,
+Kaas blauwschimmel Roquefort,357,19,0,31,0,0.0,0,
+Kaas Saint Paulin/Port Salut,341,"21,5",0,"28,2",0,0.0,0,
+Chocolade melk- m hazelnoten,562,"7,7","50,2","35,9","3,7",0.0,200,handje
+Kaas Parmezaanse,404,40,0,27,0,0.0,0,
+Kaas room- zachte Mon Chou,316,"6,8","2,4",31,0,0.0,0,
+Kaas Limburgse,283,21,2,21,0,0.0,0,
+Kaas Gruyere,433,29,"1,4","34,5",0,0.0,0,
+Kaas Emmentaler,387,29,0,30,0,0.0,0,
+Kaas Cheddar,415,"25,5","0,1","34,4",0,0.0,0,
+Kaas blauwschimmel Bluefort,405,"17,9",0,37,0,0.0,0,
+Bonbon m likeur,383,"3,3","49,2","16,6","3,6",0.0,0,
+Kaas room- zachte Boursin,411,"7,5",3,41,0,0.0,0,
+Halvanaise,400,1,9,40,"0,2",0.0,0,
+Pudding vanille-,89,"3,9","13,8",2,0,0.0,0,
+Aardappelpuree instant- gem bereid,83,"2,9","14,1","1,5","1,1",135.0,0,stuk
+Mineraalwater m en z koolzuur gem,0,0,0,0,0,0.0,200,glas
+Vlaaivulling blik,99,"0,5",23,"0,1","1,3",0.0,0,
+Marshmallows,329,"4,6","77,3","0,1","0,2",0.0,0,
+Drop Engelse,394,"3,7",82,"5,2",2,0.0,0,
+Winegum/fruitgom,319,5,"74,2","0,2","0,2",150.0,0,stuk
+Soep heldere m soepgroente en vermicelli,17,"0,7","2,5","0,4","0,6",0.0,250,kom
+Soep heldere m vlees (rund/kip),39,"4,9","0,3",2,0,0.0,250,kom
+Soep heldere m soepgroente,10,"0,4",1,"0,3","0,6",0.0,250,kom
+Soep heldere m vlees (rund/kip) en vermicelli,46,"5,1","1,9",2,"0,1",0.0,250,kom
+Soep heldere m vlees (rund/kip) en soepgroente,36,"4,1","0,9","1,7","0,5",0.0,250,kom
+"Soep heldere m vlees (rund/kip), soepgroente en vermicelli",42,"4,4","2,1","1,7","0,5",0.0,250,kom
+Soep gebonden m soepgroente,36,"0,7","2,7","2,4","0,6",0.0,250,kom
+Soep gebonden m vlees (rund/kip),64,"4,9","2,1","3,9","0,1",0.0,250,kom
+Soep maaltijd- m peulvruchten z vlees,58,"3,3",7,1,"3,8",0.0,250,kom
+Soep maaltijd- m peulvruchten en vlees,99,"6,3","9,3","3,3","3,4",0.0,250,kom
+Mousse chocolade- huishoudelijk bereid,301,"8,9","27,4","16,8","2,6",150.0,0,stuk
+Worst thee-,329,12,"0,5",31,0,0.0,125,kopje
+Worst paling-,308,13,4,"26,6","0,1",0.0,0,
+Ham achter-,134,18,"2,5","5,7","0,1",0.0,0,
+Ham schouder-,133,"16,4","2,4","6,2","0,4",0.0,0,
+Ragout m vlees,100,"8,4","3,7","5,7","0,2",0.0,0,
+Goulash,112,"10,5","2,5","6,6","0,7",0.0,0,
+Koek boter-,452,"4,7",49,"26,2","1,1",0.0,0,
+Amandelspijs m ei,446,"10,3","45,1","24,2","2,9",0.0,0,
+Soep heldere m vermicelli,15,"0,5","2,4","0,4","0,1",0.0,250,kom
+Soep gebonden m vlees (rund/kip) en soepgroente,55,"2,9","3,2","3,3","0,5",0.0,250,kom
+Worst incl leverproducten gem,343,"15,7","2,5","29,9","0,3",0.0,0,
+Soep op groentebasis bereid pakje,23,"0,5","3,3","0,8","0,1",0.0,250,kom
+Soep op vleesbasis bereid pakje,13,"0,7",2,"0,2","0,4",0.0,250,kom
+Soep op peulvruchtenbasis bereid pakje,45,"2,7","6,2","0,5","2,5",0.0,250,kom
+Soep op groentebasis kant-en-klaar blik/zak/pak,47,"1,3","5,7","1,9","0,8",0.0,250,kom
+Soep op vleesbasis kant-en-klaar blik/zak/pak,25,2,"2,5","0,7","0,2",0.0,250,kom
+Soep op peulvruchtenbasis kant-en-klaar blik/zak/pak,80,4,"9,5","2,3",3,0.0,250,kom
+Kaas schapen- vers,238,17,0,"18,8",0,0.0,0,
+Kruidenbitter Jagermeister,294,0,14,0,0,150.0,0,stuk
+Spread fruit- m zoetstof,156,"0,4","59,2","0,2","1,2",150.0,0,stuk
+Santen kokoscreme vast,686,"6,8","12,9","67,3","0,5",0.0,0,
+Filet americain,240,"14,2",3,"18,8","0,9",0.0,0,
+Pasta volkoren,348,13,66,2,"6,9",0.0,0,
+Room zure,134,3,"3,4",12,0,0.0,0,
+Schol,76,"16,4",0,"1,2",0,0.0,0,
+Vissticks gebakken in zonnebloemolie,239,"16,4","13,9",13,"0,4",0.0,0,
+Vissticks onbereid,194,13,17,8,"0,8",0.0,0,
+Schol gebakken,194,22,2,"10,9",0,0.0,0,
+Lekkerbekje gefrituurd in plantaardige olie,210,19,"8,2","11,2","0,2",0.0,0,
+Kabeljauw,75,"17,5",0,"0,6",0,0.0,0,
+Bokking bak- gebakken,299,"21,6",3,"22,2","0,1",0.0,0,
+Peper zwarte/witte,332,11,52,3,"26,4",0.0,0,
+Mosterd,129,"6,7","6,6","7,8",3,0.0,0,
+Nootmuskaat,536,6,45,36,4,0.0,0,
+Kaneel,316,4,56,3,"24,4",0.0,0,
+Komijnzaad gedroogd,427,18,34,22,"10,5",0.0,0,
+Kruidnagel,431,6,52,20,"9,6",150.0,0,stuk
+Bieslook vers,62,4,8,1,"2,3",0.0,0,
+Knoflook,158,"6,4",31,"0,5","2,1",0.0,0,teentje
+Kervel vers,44,4,"3,6",1,"2,4",0.0,0,
+Gemberwortel,81,"1,8","15,7","0,8",2,95.0,0,stuk
+Appelcarre,278,"3,7","38,6","11,7","1,5",135.0,0,stuk
+Taart kwark-,218,"5,5","21,4","12,2","0,5",0.0,125,bakje
+Koekje zand-,475,"4,7","52,5",27,"1,4",0.0,0,
+Sesamzaad,632,"22,7","1,8","57,4","8,9",0.0,0,
+Bonen soja- gedroogd,418,"35,9","15,8","18,6",22,0.0,0,
+Zout m toegevoegd jodium,0,0,0,0,0,0.0,0,
+Bouillonpoeder,197,"20,2","17,8","5,1",0,150.0,250,kom
+Broodje worsten- diepvries bereid in oven,369,11,38,19,"0,9",0.0,0,
+Dressing naturel z olie,32,0,"7,9",0,0,0.0,0,
+Candybar Twix,495,"4,5","64,6","23,9","1,5",0.0,0,
+Gierst,370,11,71,4,3,0.0,0,
+Grapefruit op siroop blik/glas,66,"0,5","15,5",0,"0,9",150.0,0,stuk
+Venkel,17,1,2,0,"2,4",0.0,0,
+Groente zoetzuur atjar tjampoer glas,42,1,"7,6","0,2","2,4",0.0,0,
+Paprika zoetzuur glas,16,"0,9",2,"0,1","1,7",150.0,0,stuk
+Salade selderij- lunch/borrel,206,1,"9,1","17,6","3,2",0.0,0,
+Gado gado z rijst en z ei,103,"3,7","5,1",7,"2,3",0.0,0,
+Taart vruchten- v biscuitdeeg m slagroom,228,"3,1","21,7","14,1","0,7",150.0,0,stuk
+Speculaas gevulde,436,"7,3",47,"23,9","1,8",0.0,0,
+Rosti onbereid,123,"2,5","21,5","2,5","2,2",0.0,0,
+Madeira,166,0,10,0,0,0.0,0,
+Juspoeder,342,"10,8","55,2","8,2","2,4",0.0,0,
+Aroma vloeibaar,70,"10,6","6,4","0,1","0,5",0.0,0,
+Aroma strooi-,176,"9,9",25,"3,9","0,6",0.0,0,
+Sap bieten-,34,"0,9","7,7",0,0,0.0,200,
+Milkshake m vers fruit,97,"2,4","17,2","1,9","0,4",150.0,0,stuk
+Yoghurt vruchten- volle,97,"3,7","12,7","3,1","0,6",0.0,150,bakje
+Sate kip- m saus bereid,175,"13,1","9,1","9,3","1,2",0.0,0,
+Fruitgom pectine gesuikerd,341,"0,3","84,2","0,3","0,7",150.0,0,stuk
+Lijnzaad,477,19,13,31,"34,8",0.0,0,
+Meel soja- ontvet,372,50,30,"2,5","14,5",0.0,0,
+Meel soja- volvet,478,38,24,23,"11,5",0.0,0,
+Drink soja- z suiker,35,"3,4",1,"1,8","0,6",150.0,0,stuk
+Sojapasta miso,130,"11,7","6,2",5,"6,6",0.0,0,
+Zonnebloempitten,647,18,13,"56,5","7,4",0.0,0,
+Biscuit meergranen- Liga Evergreen krenten,390,"6,9",67,"9,1","6,3",150.0,0,stuk
+Appel m schil gem,56,"0,3",12,"0,2",2,135.0,0,stuk
+Pinda's gezouten,620,"24,8","13,2","50,5","6,8",0.0,0,handje
+Croissants uit blik afgebakken,420,7,46,"22,6","2,5",150.0,0,stuk
+Boter gezouten,737,"0,7","1,1","81,2",0,0.0,0,
+Smeltjus onbereid pakje,650,1,4,70,0,0.0,0,
+Kaas Kernhemmer 60+,443,"18,6",0,"40,6",0,0.0,0,
+Kaas Old Amsterdam 48+,404,26,0,33,0,0.0,0,
+Paprika rode,25,"0,8","4,3","0,1","1,8",150.0,0,stuk
+Sate varkens- m saus bereid,158,"11,9","9,3","7,9","1,2",0.0,0,
+Pasteibakje roomboter-,570,"8,9","43,4","39,6","2,4",0.0,0,
+Pasteibakje z roomboter,566,"8,4","43,9","39,1","2,5",0.0,0,
+Broodje worsten-,382,"11,8","34,2","21,8","0,9",0.0,0,
+Soepballetjes blik,189,10,"3,5",15,"0,2",0.0,250,kom
+Pudding frambozen- m rode bessensaus,104,"3,4","17,6","2,2",0,4.0,0,
+Kwark vruchten- halfvolle,109,"5,9","12,8","3,5","0,8",0.0,125,bakje
+Broccoli,27,"2,9","0,7","0,7","3,1",0.0,0,
+Courgette,18,"1,3","2,3","0,2","0,9",0.0,0,
+Sap peren-,39,"0,1","9,5",0,"0,1",0.0,200,
+Koek ontbijt- volkoren,308,"3,1","67,7","1,7","4,5",0.0,0,
+Kaas 20+ natriumarm,264,"36,7",0,13,0,0.0,0,
+Kaas 40+ natriumarm,339,"29,4",0,"24,6",0,0.0,0,
+Chocolade melk- suikervrij,485,"7,1","47,8","34,7","6,7",150.0,200,glas
+Wijn pleegzusterbloed-,154,0,14,0,0,0.0,150,glas
+Kwark vruchten- magere,80,"8,6","10,3","0,2","0,3",0.0,125,bakje
+Pudding griesmeel- m rode bessensaus,113,"2,8","20,5","2,2","0,1",0.0,0,
+Pudding vanille- m aardbeiensaus,112,"4,1","18,8","2,3",0,12.0,0,stuk
+Bitterbal bereid in oven,302,11,23,18,"1,9",0.0,0,
+Kroket vlees- bereid in oven,204,"8,9","20,9",9,"1,9",0.0,0,
+Rosti bereid z vet,149,"1,9","22,8","5,1","2,2",0.0,0,
+Gist vers,66,"11,4",1,"0,4","6,2",0.0,0,
+Kool boeren-,33,3,"1,6","0,6","4,7",0.0,0,
+Knackebrod sesam,421,"12,8","67,8","9,8","5,1",0.0,0,
+Knackebrod lichtgewicht,334,10,59,"1,5",22,0.0,0,
+Sportvoeding reep Isostar Energy Bar,399,5,"72,5","9,3",3,0.0,0,
+Soep op groentebasis natriumarm bereid,22,"0,8",4,"0,2","0,7",0.0,250,kom
+Granaatappel,91,1,17,1,"3,4",135.0,0,stuk
+Toetje m room,105,"2,5","15,3","3,8","0,2",0.0,0,
+Vijgen vers,84,1,19,0,2,0.0,0,
+Roggebrood volkoren natriumarm,201,"5,6","37,6","1,3","8,3",0.0,0,
+Paneermeel,378,13,"71,3","3,5","4,6",0.0,0,
+Tarwe gebroken bulgur,340,"12,3","63,4","1,3","12,5",0.0,0,
+Tarweroggebrood volkoren,234,"9,7","40,9","1,9","7,2",0.0,0,
+Vlokken rogge- geplet,352,12,69,2,5,0.0,0,
+Grutten boekweit-,357,8,74,2,"5,6",0.0,0,
+Meel bak- zelfrijzend,339,"10,3",71,"1,1",2,0.0,0,
+Artisjok,49,2,"9,5",0,"1,5",0.0,0,
+Beschuit natriumarm,399,14,71,6,"2,3",150.0,0,stuk
+Bloem rijste- Olvarit,385,"7,8","85,6","1,2","0,5",0.0,0,
+Gort vlug-,355,8,77,1,3,0.0,0,
+Gist gedroogd,390,48,36,6,0,0.0,0,
+Kiwi groene,62,"0,9","10,8","0,8","2,3",75.0,0,stuk
+Kaki / Sharonvrucht,77,"0,5","18,6",0,"0,5",0.0,0,
+Glucosepoeder,364,0,91,0,0,0.0,0,
+Orisel-Junior p 100 ml Nutricia,9,0,"2,2",0,0,0.0,0,
+Orisel p 100 ml Nutricia,9,0,"2,2",0,0,0.0,0,
+Passievrucht,52,"2,6","5,7","0,4","3,3",0.0,0,
+Kefir,40,"3,5","3,1","1,5",0,0.0,0,
+Sla mol-,55,3,8,1,"1,2",0.0,0,
+Lychee,72,"0,9","16,1","0,1",1,0.0,0,
+Pate/smeerworst vegetarisch obv voedingsgist,218,"4,6","9,3","17,5","2,8",0.0,0,
+Zalm gerookt,188,"21,8","0,8","10,8",0,0.0,0,
+Kaviaar,281,24,0,"20,5",0,0.0,0,
+Inktvis,73,16,0,1,0,0.0,0,
+Kumquat,52,"0,9","9,1","0,5","3,8",0.0,0,
+Haring in (zoet)zuur,208,16,0,16,0,0.0,0,
+Slakken wijngaard-,85,16,2,"1,4",0,0.0,150,glas
+Kaas rook- 45+,331,"21,2","1,8","26,2","0,1",0.0,0,
+Meloen water-,36,"0,5",8,0,"0,6",0.0,200,glas
+Meloen suiker-,30,"0,9","6,3",0,"0,6",150.0,0,stuk
+Kaas Rambol,291,"13,6","2,3",25,"0,7",0.0,0,
+Kaas smeer- 60+ Kiri,330,"8,5",2,32,0,0.0,0,
+Kaas Stilton,388,"21,3","0,1","33,4",0,0.0,0,
+Kaas Camembert 30+,223,24,0,14,0,0.0,0,
+Kaas melkse 48+,392,26,0,32,0,0.0,200,glas
+Kaas 48+ natriumarm,381,"26,1",0,"30,7",0,0.0,0,
+Meloen op siroop blik/glas,80,"0,5",19,0,1,0.0,0,
+Puree aardbeien- blik/glas,84,"0,5",20,0,"0,9",12.0,0,stuk
+Doperwten extra fijn natriumarm blik/glas,51,4,"6,5",0,"4,7",0.0,0,
+Sap citroen- vers,47,"0,4",8,0,"0,3",120.0,200,
+Sap tomatengroenten-,21,1,4,0,"0,4",0.0,200,
+Champignon natriumarm blik/glas,18,"2,1","0,2","0,4","2,8",0.0,0,
+Kruidenbitter Berenburg,189,0,0,0,0,150.0,0,stuk
+Andijvie diepvries onbereid,9,1,"0,3",0,"1,7",0.0,0,
+Doperwten m wortelen diepvries onbereid,58,"3,8","7,1","0,4","5,2",95.0,0,stuk
+Groente erwtensoep- diepvries onbereid,17,2,1,0,"2,6",0.0,250,kom
+Groentemix Mexico Melange diepvries onbereid,85,"4,5",12,"0,9","5,3",0.0,0,
+Bonen snij- diepvries onbereid,28,"1,9","3,6","0,1","2,7",0.0,0,
+Groente soep- diepvries onbereid,25,2,3,0,"2,6",0.0,250,kom
+Spinazie gesneden diepvries onbereid,20,"2,3","1,1","0,3","2,1",0.0,0,
+Bonen tuin- diepvries onbereid,87,"7,5","9,3","0,6","7,3",150.0,0,stuk
+Aardappelschijfjes/-partjes ed diepvries onbereid,134,"2,5","21,2","3,8","2,5",135.0,0,stuk
+Vleeswaren >30 g vet gem,393,"16,4","2,6","35,1","0,5",0.0,0,
+Worst salami,392,"18,7","0,9","34,8",0,0.0,0,
+Gehakt gebraden (vleeswaar),304,"12,8","5,6","25,6","0,3",0.0,0,
+Sap tomatengroenten- natriumarm,21,1,4,0,"0,4",0.0,200,
+Augurk zoetzuur natriumarm,17,"1,1","2,8",0,"0,9",0.0,0,
+Ui zilver- zoetzuur natriumarm glas,21,1,3,0,"2,7",150.0,0,stuk
+Ui zilver- zoetzuur z suiker glas,21,1,3,0,"2,7",150.0,0,stuk
+Augurk zoetzuur z suiker,14,"1,2","1,1","0,3","1,2",150.0,0,stuk
+Komkommerschijven zoetzuur glas,9,"0,7",1,0,"0,9",400.0,0,stuk
+Vleeswaren 20-30 g vet gem,310,"13,7","2,9","26,9","0,2",0.0,0,
+Vleeswaren 10-20 g vet gem,213,"14,9","3,2","15,5","0,3",0.0,0,
+Appelmoes z suiker blik/glas,48,"0,2","10,7",0,"1,4",150.0,0,stuk
+Bamboespruiten blik/glas,33,2,6,0,"0,5",150.0,0,stuk
+Vleeswaren <10 g vet gem,144,"18,4","2,5","6,5","0,2",0.0,0,
+Zout mineraal- natriumarm LoSalt,0,0,0,0,0,0.0,0,
+Ketjap zout,211,"2,8",50,0,0,0.0,0,
+Ketjap zoet natriumarm,238,"4,5",55,0,"0,1",0.0,0,
+Ketjap zoet,234,"3,5",55,0,0,0.0,0,
+Smaakversterker mononatriumglutamaat Ve-tsin,0,0,0,0,0,0.0,0,
+Basilicum gedroogd,244,23,"10,1","4,1","37,7",0.0,0,
+Chilipoeder,373,12,32,17,22,0.0,0,
+Kerrie djawa,370,12,"36,5",14,25,0.0,0,
+Kervel gedroogd,303,23,38,4,"11,3",0.0,0,
+Peper cayenne- rood,379,12,32,17,"24,9",0.0,0,
+Majoraan gedroogd,319,13,42,7,"18,1",0.0,0,
+Mosterd natriumarm,126,"6,5","3,1","9,5",1,0.0,0,
+Oregano gedroogd,360,11,49,10,15,0.0,0,
+Paprikapoeder,359,15,35,13,"20,9",150.0,0,stuk
+Peterselie gedroogd,309,22,41,4,"10,3",0.0,0,
+Rozemarijn gedroogd,374,5,46,15,"17,6",0.0,0,
+Sambal oelek,36,"1,6","4,9","0,7","1,9",0.0,0,
+Sambal oelek natriumarm,50,3,4,2,"1,9",0.0,0,
+Sambal gebakken,250,"4,4","15,5","18,5","1,9",0.0,0,
+Selderij blad- vers,16,1,2,0,"1,8",0.0,0,
+Serehpoeder,216,5,30,3,"24,4",0.0,0,
+Worst lever- hausmacher,266,"15,4","5,2","20,4",0,0.0,0,
+Worst smeerlever-,319,"12,3",3,"28,6","0,3",0.0,0,
+Vruchten op eigen sap blik/glas,48,"0,6","10,3","0,1","1,7",0.0,200,
+Knackebrod vezelrijk,350,13,48,"6,5","23,9",0.0,0,
+Makreel in water blik,257,"18,6",0,"20,3",0,0.0,200,glas
+Marsepein,420,"5,3","64,2","15,3","2,2",0.0,0,
+Mayonaiseproduct m yoghurt,281,"0,9",13,25,"0,3",0.0,150,bakje
+Zuigelingenvoeding Nutrilon 1 p 100 ml,66,"1,3","7,3","3,4","0,6",150.0,0,stuk
+Babyvoeding maaltijd 6 mnd,72,"3,3","8,7","2,3","1,9",0.0,0,
+Kindervoeding maaltijd 15 mnd,70,"3,6",9,"1,9","1,5",0.0,0,
+Babyvoeding fruit 4 mnd,58,"0,5",13,"0,1","1,8",150.0,0,stuk
+Babyvoeding groente 4 mnd,50,"1,3","9,7","0,2","2,3",0.0,0,
+Vruchtendrank m zuivel Taksi m suiker,32,"0,1","7,9",0,0,150.0,0,stuk
+Spek rook- vet bereid,505,25,0,45,0,0.0,0,
+Kaas room- zachte Paturain,354,7,"2,3","35,3",0,0.0,0,
+Kip z vel,139,"20,5",0,"6,3",0,0.0,0,
+Kip soep- m vel,247,19,0,19,0,0.0,250,kom
+Scholfilet gebakken/gestoofd,112,"18,9","0,5","3,8",0,0.0,0,
+Hagelslag chocolade- gem,449,"5,7","69,3","15,3","5,2",0.0,0,
+Cracker luchtige Cracottes natural,381,12,75,"2,8","4,1",0.0,0,
+Ei kippen- gebakken,220,"14,4","0,9","17,6",0,0.0,0,
+Kabeljauwfilet gebakken/gestoofd,118,"21,5","0,6","3,3",0,0.0,0,
+Kip/bout z vel gegrild,188,"28,5","0,6","7,9",0,0.0,0,
+Biscuit haver- Liga HaverKick,397,5,65,12,"4,7",150.0,0,stuk
+Cracker luchtige Cracottes volkoren,376,11,70,4,8,0.0,0,
+Gehakt hoh rul gebakken,317,"30,1","0,4","21,6","0,6",0.0,0,
+Ontbijtproduct Olvarit pap licht volkoren 8+ mnd,376,"11,6",72,"2,1","11,1",0.0,0,
+Biscuit meergranen- Liga Evergreen ov smaken,387,"6,4",68,"8,6","6,3",150.0,0,stuk
+Tarwebrood wit Turks,250,"8,5","49,3","1,5",3,0.0,0,
+Turks fruit,372,0,"92,9",0,"0,3",150.0,0,stuk
+Baklava,461,"10,4","49,2","24,5",1,0.0,0,
+Tulumba tatlisi gefrituurde soesjes Turks,391,"4,4","54,8","16,9","1,1",0.0,0,
+Worst droge sucuk Turks,446,"20,4","6,7","37,5",0,0.0,0,
+Worst droge salam Turks,271,"14,8","6,5","20,6",0,0.0,0,
+Kikkererwten geroosterd leblebi Turks,400,"21,3","53,6","8,1","13,7",0.0,0,
+Druivenblad glas,33,"3,3","1,8",0,"6,3",5.0,0,stuk
+Tafelzuur tursu Turks,24,"0,6","3,9",0,"2,9",0.0,0,
+Gehakt runder- kofte Turks bereid,251,"25,8","8,2","12,6","0,7",0.0,0,
+Gehakt schapen- kofte Turks bereid,203,"22,6","3,8","10,6","0,9",0.0,0,
+Groenteschotel m vlees turlu Turks bereid,74,"4,1","6,8","2,9","1,9",0.0,0,
+Dessert soja- verrijkt m calcium en vitamines,85,"3,1","13,4","1,9","0,9",0.0,0,
+Drink soja- m suiker verrijkt m calcium en vitamines,37,3,3,"1,4","0,4",150.0,0,stuk
+Kaas 30+ gem,280,"30,1",0,"17,7",0,0.0,0,
+Drop gem,333,"8,4","73,2","0,4","1,5",0.0,0,
+Gehaktbal runder- m ei gebakken,308,27,"5,2","19,8","0,6",0.0,0,
+Spek mager bereid,424,"25,7","0,3","35,5",0,0.0,0,
+Kipfilet bereid,158,"30,9",0,"3,8",0,0.0,0,
+Ui gebakken in plantaardige olie,58,"1,3","5,4",3,"2,2",150.0,0,stuk
+Champignon gebakken m zout,54,"2,6","0,5","4,1","2,3",0.0,0,
+Roggebrood volkoren/roggetarwebrood bruin gem,196,"5,8","36,1","1,3","8,2",150.0,0,stuk
+Tomaat gestoofd,59,"0,9","1,9","5,1","1,3",100.0,0,stuk
+Kool boeren- glas,25,"2,4","0,9","0,6",3,0.0,0,
+Sla ijsberg-,14,1,"1,4","0,2","1,2",0.0,0,
+Runderbiefstuk,108,"22,9",0,"1,8",0,0.0,0,
+Runderbiefstuk v de haas,116,"23,7",0,"2,3",0,0.0,0,
+Runderentrecote,165,23,0,"8,1",0,0.0,0,
+Runderbaklappen,103,"21,2",0,2,0,0.0,0,
+Gehakt runder-,225,"18,9","0,2","16,5","0,3",0.0,0,
+Runderklapstuk,137,"19,8",0,"6,4",0,0.0,0,
+Lever runder-,129,21,"1,9","4,2",0,0.0,0,
+Runderpoulet,106,"22,1",0,2,0,0.0,0,
+Runderrollade,109,"23,2","0,2","1,7","0,3",0.0,0,
+Runderrosbief,122,"22,9",0,"3,4",0,0.0,0,
+Runderschenkel,117,"22,6",0,3,0,0.0,0,
+Runderriblappen,166,"20,1",0,"9,5",0,0.0,0,
+Runder doorregen lappen,147,"20,6",0,"7,2",0,0.0,0,
+Rundersukadelappen,135,"21,3",0,"5,5",0,0.0,0,
+Rundertartaar,137,"21,1","0,3","5,7","0,1",0.0,0,
+Rundertong,188,"17,3",0,"13,2",0,0.0,0,
+Varkensbraadworst,226,"16,8","0,6","17,2","0,3",0.0,0,
+Varkensfiletlappen,128,"23,3",0,"3,9",0,0.0,0,
+Varkensfricandeau,120,"22,9",0,"3,2",0,0.0,0,
+Varkenshamlappen,114,"22,2",0,"2,8",0,0.0,0,
+Gehakt varkens-,177,"20,1","0,3","10,7",0,0.0,0,
+Varkenshaas,105,"22,4",0,"1,7",0,0.0,0,
+Varkenshamschijf,191,"19,8",0,"12,4",0,0.0,0,
+Varkenshaaskarbonade,156,"23,2",0,7,0,0.0,0,
+Varkensschouderkarbonade,186,"19,1",0,"12,2",0,0.0,0,
+Lever varkens-,129,"21,3","0,2","4,8",0,0.0,0,
+Varkenskrabbetjes,250,"18,3",0,"19,6",0,0.0,0,
+Varkensoester,115,"23,5",0,"2,4",0,0.0,0,
+Varkensschouderlappen,133,"20,7",0,"5,5",0,0.0,0,
+Vink sla-,266,"15,3","3,3","21,2","0,4",0.0,0,
+Speklap,320,"16,5",0,"28,2",0,0.0,0,
+Gehakt hoh,233,"19,2","0,3","17,2","0,3",0.0,0,
+Hamburger,239,"16,8","2,2",18,"0,6",0.0,0,
+Kalfsentrecote,150,"21,4",0,"7,2",0,0.0,0,
+Vink kalfs-,159,"20,7",0,"8,5",0,0.0,0,
+Kalfsfricandeau,111,22,0,"2,6",0,0.0,0,
+Lever kalfs-,108,"17,7",2,"3,3",0,0.0,0,
+Kalfsschenkel,112,"21,3",0,"2,9",0,0.0,0,
+Kalfstong,168,"17,6",0,"10,9",0,0.0,0,
+Kalfszwezerik,89,"18,4",0,"1,7",0,0.0,0,
+Lamsbout,174,"19,2",0,"10,8",0,0.0,0,
+Gehakt lams-/schapen-,218,"19,3",0,"15,7",0,0.0,0,
+Lamskarbonade,223,"19,2",0,"16,3",0,0.0,0,
+Lamszadel,256,"18,6",0,"20,2",0,0.0,0,
+Lamsschouder,187,20,0,"11,9",0,0.0,0,
+Chocolade puur suikervrij,454,"5,3","42,1",33,"14,7",150.0,0,stuk
+Chocolade melk- m hazelnoten z suiker,498,"8,9","46,5","35,4",8,150.0,200,handje
+Biet rode zoetzuur glas,37,"0,5","7,6","0,1","1,8",0.0,0,
+Aardappelpureepoeder gem,368,"8,6","70,2","4,6","6,3",135.0,0,stuk
+Frites voorgebakken diepvries onbereid,146,"2,3","24,4","3,8","2,5",0.0,0,
+Aardappelen gebakken,119,"1,8","16,5","4,8","1,5",135.0,0,stuk
+Seitan,198,"28,4",4,"7,2","2,1",0.0,0,
+Tarwekrentenbrood volkoren,253,"9,3","46,2","1,8","7,2",0.0,0,
+Koek ontbijt- gember,318,"2,7","70,7","2,1","2,6",0.0,0,
+Pasta sesam- tahin m toegevoegd zout,585,"21,9","1,8","51,7","12,4",0.0,0,
+Sap ananas-,47,"0,5","11,2",0,"0,3",0.0,200,
+Vruchtendrank 2 of meer vruchten,43,"0,2","10,7",0,"0,1",0.0,0,
+Melk chocolade- halfvolle,76,"3,3","11,9","1,6","0,5",0.0,200,glas
+Likeur <15 vol% alc,200,0,29,0,0,0.0,0,
+Likeur >25 vol% alc,291,0,29,0,0,0.0,0,
+Bier zwaar >7 vol% alcohol,64,"0,5","4,3",0,"0,3",0.0,250,glas
+Room banketbakkers-,142,"3,6","22,8",4,"0,1",0.0,0,
+Berliner bol,289,"5,4","43,7",10,"1,4",0.0,0,
+Biscuit m chocolade,479,"7,3","65,8",20,"3,2",150.0,0,stuk
+Creme au beurre,567,"0,6","40,4","44,8",0,0.0,0,
+Donut ongevuld,358,6,"35,5","21,1","1,1",0.0,0,
+IJs water-,75,"0,2",18,"0,2","0,2",0.0,200,glas
+Soes slagroom-,283,"4,1","14,9","22,9","0,3",0.0,0,
+Taart schuim- m creme au beurre,391,"4,6","50,7","18,7",1,150.0,0,stuk
+Koekje suikervrij,433,"6,6","63,7","21,4","3,4",150.0,0,stuk
+Vlaai kruimel- m vruchten,197,"3,3","30,4","6,4","1,5",150.0,0,stuk
+Taart Mon Chou-,330,"2,5","33,2","20,5","1,2",0.0,0,
+Koekje PiM's sinaasappel,373,"3,6",60,"12,5","2,9",130.0,200,stuk
+Wafel rijst- naturel m (zee)zout,392,"7,8","81,3","3,2","3,5",0.0,0,
+Stamppot boerenkool z vlees bereid,82,"1,9","11,6","2,6",2,0.0,0,
+Stamppot wortel/ui z vlees bereid,63,"1,1",10,"1,6","1,9",150.0,0,stuk
+Stamppot zuurkool z vlees bereid,68,"1,5","10,1",2,"1,8",0.0,0,
+Kaas Brie 60+,369,17,1,33,0,0.0,0,
+Kaassouffle diepvries onbereid,304,"8,1","32,8","15,4","1,1",0.0,0,
+Kaas verse light 8% vet,132,"11,3","2,5","8,5",0,0.0,0,
+Lasagne bolognese koelverse maaltijd,161,9,"11,9","8,4","0,9",0.0,0,
+Jus gem ongebonden bereid z juspoeder,340,"0,2","0,3","37,6",0,0.0,0,
+Taart hartige v brooddeeg m groente/kaas/ei,158,"7,9","13,1","7,8","1,2",0.0,0,
+Salade vis- lunch/borrel,304,"8,6","6,9","26,8","0,3",0.0,0,
+Salade ham-prei- lunch/borrel,243,"3,6",7,"21,9","1,9",0.0,0,
+Salade kip-kerrie- lunch/borrel,285,"8,8","6,9","24,3","1,8",0.0,0,
+Salade ei- lunch/borrel,255,"7,3","5,6","22,3","1,3",0.0,0,
+Mix kruiden- m gedroogde groente onbereid,311,"9,5",57,"3,8","5,2",150.0,0,stuk
+Yoghurt halfvolle,50,"4,2","4,3","1,5",0,0.0,150,bakje
+Chips light naturel,490,"7,3","63,5",22,"4,2",0.0,0,
+Soesje kaas-,315,6,"8,3","28,5","0,4",0.0,0,
+Borstplaat room-,346,"0,7",79,"3,1",0,0.0,0,
+Bonbon,512,"5,5","51,8","30,7","3,3",0.0,0,
+Mueslireep m chocolade,472,"7,9","61,7","20,2","5,8",0.0,0,
+Schnitzel vegetarisch obv soja/tarwe onbereid verrijkt m ijzer en vit B12,192,"15,5","14,5",7,"4,7",0.0,0,
+Saus op basis roux bereid,83,"2,5","6,4","5,3","0,2",0.0,0,
+Saus op basis groentenat/melk bereid z vet,45,"2,2","7,2","0,9","0,1",0.0,200,glas
+Saus op basis pakje <3% vet bereid,62,"1,7","10,6","1,4","0,2",0.0,0,
+Saus op basis pakje >3% vet bereid,76,"1,2","7,8","4,4","0,2",0.0,0,
+"Bier alcoholvrij <0,1 vol% alcohol",26,"0,3","6,1",0,"0,1",0.0,250,glas
+"Bier alcoholarm 0,1-1,2 vol% alcohol",22,"0,3","4,5",0,"0,3",0.0,250,glas
+Limonade vruchten- light,3,0,"0,7",0,0,0.0,0,
+Frisdrank light z cafeine,0,0,0,0,0,0.0,200,
+Frisdrank light m cafeine,0,0,0,0,0,0.0,200,
+Saus tomaten- kant-en-klaar glas,68,"1,6","6,9","3,3","1,8",0.0,0,
+Bouillon v blokje bereid,5,"0,1","0,3","0,3",0,150.0,250,kom
+Boterproduct halfvolle,337,"0,3","0,7",37,0,0.0,0,
+Stamppot e andijvie z vlees bereid,65,"1,9","12,7","0,4","1,5",0.0,0,
+Taart hartige v bladerdeeg m groente/kaas/ei,243,"8,5","11,2",18,"1,1",0.0,0,
+Runderbiefstuk bereid,146,"29,3",0,"3,2",0,0.0,0,
+Runderentrecote bereid,192,31,0,"7,5",0,0.0,0,
+Runderbaklappen bereid,140,"27,5",0,"3,3","0,2",0.0,0,
+Gehakt runder- rul gebakken,331,"30,4","0,3","23,1",0,0.0,0,
+Runderklapstuk bereid,187,"29,6",0,"7,6","0,1",0.0,0,
+Lever runder- bereid,161,"28,1",0,"5,4","0,2",0.0,0,
+Runderpoulet bereid,216,"30,9",0,"10,2","0,1",0.0,0,
+Runderrollade gebakken,157,"33,5","0,2","2,3","0,5",0.0,0,
+Runderrosbief bereid,156,"27,2","0,2","5,1",0,0.0,0,
+Runderschenkel bereid,140,"27,5",0,"3,3","0,2",0.0,0,
+Runderriblappen bereid,230,"34,1",0,"10,4",0,0.0,0,
+Runder doorregen lappen bereid,212,"34,6",0,"8,2",0,0.0,0,
+Rundersukadelappen bereid,189,"33,4",0,"6,1",0,0.0,0,
+Rundertartaar bereid,186,"30,1","0,3","7,2",0,0.0,0,
+Varkensbraadworst bereid,246,"22,4","0,6","17,1",0,0.0,0,
+Varkensfiletlappen bereid,157,"28,7",0,"4,7","0,1",0.0,0,
+Varkensfricandeau bereid,158,"31,2",0,"3,7",0,0.0,0,
+Varkenshamlappen bereid,167,"31,1",0,"4,7",0,0.0,0,
+Gehakt varkens- gebakken,243,"26,4","0,2","15,2","0,1",0.0,0,
+Varkenshaas bereid,142,"28,7",0,3,"0,1",0.0,0,
+Varkenshamschijf bereid,308,"37,1",0,"17,7",0,0.0,0,
+Varkenshaaskarbonade bereid,179,"28,5",0,"7,3","0,1",0.0,0,
+Varkensschouderkarbonade bereid,308,"37,1",0,"17,7",0,0.0,0,
+Lever varkens- bereid,164,"27,9",0,"5,8","0,1",0.0,0,
+Varkenskrabbetjes bereid,246,"22,4","0,6","17,1",0,0.0,0,
+Varkensoester bereid,142,"28,7",0,3,"0,1",0.0,0,
+Varkensschouderlappen bereid,170,"27,6",0,"6,6",0,0.0,0,
+Vink sla- gebakken,277,"20,7",1,"21,1",0,0.0,0,
+Gehaktbal hoh m ei gebakken,262,"20,5","5,3","17,4","1,1",0.0,0,
+Hamburger bereid,255,"22,5","0,9","17,9","0,1",0.0,0,
+Kalfsentrecote bereid,166,"27,5",0,"6,3",0,0.0,0,
+Vink kalfs- gebakken,186,"30,1","0,3","7,2",0,0.0,0,
+Kalfsfricandeau bereid,121,"25,2",0,"2,2",0,0.0,0,
+Lever kalfs- bereid,172,"27,9",2,"5,8","0,1",0.0,0,
+Kalfsschenkel bereid,140,"27,5",0,"3,3","0,2",0.0,0,
+Lamsbout bereid,256,"25,6",0,"17,1",0,0.0,0,
+Gehakt lams- gebakken,252,"30,4","0,3","14,4",0,0.0,0,
+Lamskarbonade bereid,350,"25,8",0,"27,5",0,0.0,0,
+Lamszadel bereid,308,"24,7",0,"23,2",0,0.0,0,
+Lamsschouder bereid,284,"27,9",0,"19,1",0,0.0,0,
+Mosselen gebakken/gefrituurd in plantaardige olie,268,"17,2","7,2",19,0,0.0,0,
+Inktvisringen gefrituurd in plantaardige olie,440,"26,2","13,8","31,1","0,2",0.0,0,
+Heilbot gerookt,211,"19,4",0,"14,8",0,0.0,0,
+Makreelfilet gerookt,301,"21,1",0,"24,1",0,0.0,0,
+Zalm kweek-,179,20,0,11,0,0.0,0,
+Ansjovis in olie blik,208,25,"0,1","11,9","0,1",0.0,0,
+Tonijn in olie blik,206,27,"0,1","10,8","0,1",0.0,0,
+Tonijn in water blik,109,"24,9",0,1,0,0.0,200,glas
+Chili con carne,134,"8,3","10,5","5,6","4,3",0.0,0,
+Fructosepoeder,396,0,99,0,0,0.0,0,
+Gehaktbal runder- z ei gebakken,303,"26,5","5,4","19,4","0,6",0.0,0,
+Bokking gestoomd,231,"20,8","0,5","16,2",0,0.0,0,
+Sprotfilet gerookt,212,"19,9",0,"14,8",0,0.0,0,
+Makreel bereid in magnetron z toev,248,"24,4",0,"16,7",0,0.0,0,
+Makreel in olie blik,267,20,"0,1","20,7","0,1",0.0,0,
+Zalm kweek- bereid in magnetron z toev,220,"25,2",0,"13,2",0,0.0,0,
+Forel bereid in magnetron z toev,140,"24,5",0,"4,6",0,0.0,0,
+Forel regenboog- bereid in magnetron z toev,167,"23,7",0,8,0,0.0,0,
+Kabeljauw bereid in magnetron z toev,98,"23,5",0,"0,4",0,0.0,0,
+Schelvis bereid in magnetron z toev,100,"22,3",0,"1,2",0,0.0,0,
+Koolvis (Atlantisch) bereid in magnetron z toev,108,"24,5",0,"1,2",0,0.0,0,
+Wijting bereid in magnetron z toev,101,"22,1",0,"1,4",0,0.0,0,
+Schol bereid in magnetron z toev,140,29,0,"2,6",0,0.0,0,
+Schar/tongschar bereid in magnetron z toev,119,"23,9",0,"2,6",0,0.0,0,
+Tong bereid in magnetron z toev,116,"24,5",0,"2,1",0,0.0,0,
+Bot bereid in magnetron z toev,106,"21,9",0,2,0,0.0,0,
+Poon bereid in magnetron z toev,171,"26,1",0,"7,4",0,0.0,0,
+Baars rood- bereid in magnetron z toev,128,"22,3",0,"4,3",0,0.0,0,
+Zeewolf bereid in magnetron z toev,127,"25,2",0,"2,9",0,0.0,0,
+Paling bereid in magnetron z toev,207,"24,3",0,"12,2",0,0.0,0,
+Paling zee- bereid in magnetron z toev,199,"24,3",0,"11,4",0,0.0,0,
+Kuit/hom gebakken,262,"13,9","3,9","21,2","0,2",150.0,0,stuk
+Kuit/hom v bokking,155,"24,5",0,"6,3",0,150.0,0,stuk
+Kuit vis- gekleurd glas,126,19,0,"5,5",0,150.0,0,stuk
+Mosselen in zuur glas,106,"17,2","2,2","3,1",0,0.0,0,
+Garnalen in water blik,115,"24,3","0,1","1,9",0,0.0,200,glas
+Inktvis pijl- bereid in magnetron z toev,146,"25,8",0,"4,7",0,0.0,0,
+Kip m vel bereid,226,"25,3",0,"13,8",0,0.0,0,
+Kipfilet,109,"23,3",0,"1,8",0,0.0,0,
+Kip z vel bereid,183,"27,3",0,"8,2",0,0.0,0,
+Kiprollade bereid,166,24,"1,7",7,0,0.0,0,
+Kiprollade,175,"20,6","0,2","10,3",0,0.0,0,
+Kipnuggets bereid in oven,259,"14,4","18,4","13,7","2,5",0.0,0,
+Kipnuggets bereid m frituurvet,277,"17,5","12,2","17,1","2,5",0.0,0,
+Kipburger gepaneerd bereid,307,"14,5","9,9","23,2",0,0.0,0,
+Varkenslappen bereid,204,"29,8","0,4","9,2",0,0.0,0,
+Varkensribkarbonade bereid,177,"28,4",0,"7,1","0,1",0.0,0,
+Kaas geiten- verse,207,"13,4",1,"16,6",0,0.0,0,
+Stroop gerstemout-,283,"4,4","66,4",0,0,0.0,0,
+Stroop maismout-,287,"2,3","69,4",0,0,0.0,0,
+Stroop rijstmout-,292,"0,3","72,6",0,0,0.0,0,
+Diksap geconcentreerd,280,"0,2","69,5",0,"0,4",0.0,200,
+Sap wortel-,29,"0,4","6,4","0,2",0,95.0,200,stuk
+Sap zuurkool-,7,"0,7","1,1",0,0,0.0,200,
+Rundvlees <5 g vet  gem,108,"22,6",0,2,0,0.0,0,
+Rundvlees >5 g vet  gem,218,"18,5","1,5","15,3","0,4",0.0,0,
+Rundvlees <10 g vet bereid gem,163,"30,2",0,"4,7",0,0.0,0,
+Rundvlees >10 g vet bereid gem,290,"26,9","1,2","19,7","0,1",0.0,0,
+Varkensvlees <5 g vet  gem,126,"21,8","2,8",3,"0,3",0.0,0,
+Varkensvlees 5-14 g vet  gem,165,20,"0,5","9,1","0,3",0.0,0,
+Varkensvlees >15 g vet  gem,283,"16,1","0,5",24,"0,2",0.0,0,
+Varkensvlees <10 g vet bereid gem,158,"28,8",0,"4,7","0,1",0.0,0,
+Varkensvlees 10-19 g vet bereid gem,260,"28,4","0,3","16,1",0,0.0,0,
+Varkensvlees >19 g vet bereid gem,365,"21,2","1,1","30,5","0,2",0.0,0,
+Kalfsvlees <5 g vet gem,105,22,0,"1,8",0,0.0,0,
+Kalfsvlees >5 g vet gem,159,"20,4",0,"8,6",0,0.0,0,
+Lamsvlees >10 g vet  gem,221,"19,3",0,16,0,0.0,0,
+Vlees <5 g vet excl lever  gem,113,"22,8","0,7","2,1","0,1",0.0,0,
+Vlees >5 g vet excl lever  gem,211,"18,6","1,1","14,7","0,2",0.0,0,
+Aardappelschijfjes diepvries gefrituurd in plantaardige olie,229,"3,1",28,"10,9","3,2",135.0,0,stuk
+Frites oven- diepvries bereid in oven,291,"5,8",46,"8,8","2,5",0.0,0,
+Aardappelkroketten diepvries bereid,238,"3,4","28,2",12,"1,7",135.0,0,stuk
+Opvolgmelk Nutrilon 2 p 100 ml,68,"1,4","8,6",3,"0,6",0.0,200,glas
+Koekje kaas-,495,"13,3","41,9","30,1","1,8",0.0,0,
+Melk halfvolle verrijkt m calcium,46,"3,4","4,9","1,5",0,0.0,200,glas
+Vla volle overige smaken,87,"2,1","13,6","2,6","0,5",0.0,0,
+Yoghurt vanille- halfvolle,72,"2,9","11,4","1,3","0,3",0.0,150,bakje
+Pap griesmeel-,93,3,14,"2,9","0,1",0.0,0,
+Kaas 20+,246,"34,5",0,12,0,0.0,0,
+Kaas 50+,380,"22,9",0,"32,1",0,0.0,0,
+Kaas gaten- Hollandse 45+,370,"27,6",0,"28,5",0,0.0,0,
+Kaas 40+ Leidse/Friese nagel-,341,"27,3",0,"25,7",0,0.0,0,
+Babyvoeding fruit 12 mnd,64,"0,6","14,4","0,1","1,6",150.0,0,stuk
+Kindervoeding maaltijd 18 mnd,82,"3,3","10,5","2,6","1,6",0.0,0,
+Leverkaas/Berliner leverworst,319,"12,3","4,5","27,6","0,2",0.0,0,
+Varkensfricandeau gebraden (vleeswaar),117,"21,6","1,3","2,8","0,4",0.0,0,
+Zult zure,264,"12,5","1,7",23,0,0.0,0,
+Worst tongen-,247,"17,2",2,"18,8","0,1",0.0,0,
+Spek ontbijt- gegrild,261,"15,2","0,5","22,1",0,0.0,0,
+Ham achter- gegrild,119,"18,9","1,8","3,9","0,1",0.0,0,
+Ham been-,127,"18,3","2,2",5,"0,1",0.0,0,
+Knackebrod volkoren,363,"10,9",64,4,"13,7",0.0,0,
+Varkensribkarbonade,150,"22,6",0,"6,6",0,0.0,0,
+Varkensschnitzel ongepaneerd bereid,142,"28,3",0,"3,2","0,1",0.0,0,
+Varkensschnitzel ongepaneerd,109,"22,6",0,2,0,0.0,0,
+Room spuitbus m suiker,305,"2,3",11,28,0,150.0,0,stuk
+Maaltijdvervanger Modifast Intensive Muesli,358,35,38,"5,8","6,7",0.0,0,
+Knackebrod Sandwich Wasa,476,"10,7","46,8",25,"10,3",0.0,0,
+Saus oosterse kant-en-klaar glas/zak,64,"1,5","13,3","0,4","0,7",0.0,0,
+Creme fraiche,293,"2,6","2,8",30,0,0.0,0,
+Kaas 45+,357,"25,4",0,"27,3",0,0.0,0,
+Siroop vruchtenlimonade- Karvan Cevitam,177,"0,1",44,0,"0,1",0.0,0,
+Nectarine,36,1,"6,5","0,1","1,1",150.0,0,
+Melkdrank Yakult original,66,"1,3",15,0,0,0.0,200,glas
+Yoghurtdrank Vifit vruchten,55,"3,1","8,3","0,8",1,0.0,150,bakje
+Salade komkommer- lunch/borrel,238,"0,8","6,5",23,"0,5",400.0,0,stuk
+Salade vlees- lunch/borrel,286,5,"8,2","25,7","0,4",0.0,0,
+Vruchtendrank Roosvicee Multivit,36,"0,1","8,6","0,1",0,0.0,0,
+Aroma strooi- natriumarm,235,"22,1","27,9","3,6","1,1",0.0,0,
+Siroop vruchtenlimonade- Roosvicee Multivit,183,"0,1","45,2","0,1","0,3",0.0,0,
+Bouillonpoeder natriumarm,348,"5,3","67,4","6,3","0,6",150.0,250,kom
+Water gem,0,0,0,0,0,0.0,200,glas
+Chutney mango-,215,"0,7",52,"0,1","1,4",200.0,0,stuk
+Dadels vers,139,"1,5","31,3","0,1","3,6",0.0,0,
+Carambola,37,"0,5","7,2","0,3","1,7",0.0,0,
+Couscous,363,12,"72,1","2,1","3,7",0.0,0,
+Gerst hele korrel,330,"10,6","59,7","2,1","14,8",0.0,0,
+Mierikswortel,80,"4,5",11,"0,3","7,5",95.0,0,stuk
+Paksoi,14,1,"1,4","0,2","1,2",0.0,0,
+Kaas Bel Paese,374,"25,4","0,1","30,2",0,0.0,0,
+Bonen kidney- rode gedroogd,295,"22,1","36,9","1,4","23,4",0.0,0,
+Noten pecan- ongebrand ongezouten,721,"9,2","4,4",72,"9,6",0.0,0,handje
+Noten pistache- gezouten,592,"23,8","10,8","48,3","9,5",0.0,0,handje
+Zeewier kelp,47,"1,7","8,3","0,6","1,3",0.0,0,
+Zeewier agar agar gedroogd,336,"6,2","73,2","0,3","7,7",0.0,0,
+Jacobsschelpen,83,"16,8","2,4","0,8",0,0.0,0,
+Geitenvlees  gem,103,"20,6",0,"2,3",0,0.0,0,
+Nier varkens-,86,"15,5",0,"2,7",0,0.0,0,
+Nier runder-,88,"17,2",0,"2,1",0,0.0,0,
+Nier lams-,91,17,0,"2,6",0,0.0,0,
+Groenten  gem,20,1,"2,6","0,4","1,4",0.0,0,
+Fruit vers incl citrus- gem,61,"0,7","12,8","0,2","1,7",150.0,0,stuk
+Vleeswaren excl leverproducten gem,230,"16,9","2,6","16,7","0,2",0.0,0,
+Vleeswaren <10 g vet excl leverprod gem,133,"18,4","2,5","5,3","0,1",0.0,0,
+Worst excl leverproducten gem,352,"16,3","2,5","30,7","0,3",0.0,0,
+Vleeswaren 20-30 g vet excl leverprod gem,311,"13,8","3,2","26,9","0,1",0.0,0,
+Vleeswaren >30 g vet excl leverprod gem,395,"17,6",2,"35,1","0,3",0.0,0,
+Saus Chinese zoetzure huishoudelijk bereid,32,"0,4","6,9","0,3","0,2",150.0,0,stuk
+Saus sate- huishoudelijk bereid m water m vet,295,"8,7",11,"23,3","3,2",150.0,200,glas
+Brooddeeg (bodem voor pizza/hartige taart) onbereid,226,"5,7","36,5","5,9","1,8",0.0,0,
+Soes ongevuld,222,6,"13,4","15,9","0,6",0.0,0,
+Room slag- geklopt m suiker,348,2,"16,5","30,4",0,150.0,0,stuk
+Vlaaibodem Limburgse,292,"7,4","40,1","10,9","1,8",0.0,0,
+Sap sinaasappel- m vruchtvlees,42,"0,7","8,7",0,"0,4",130.0,200,stuk
+Sap tomatengroenten- Appelsientje Tomatientje,14,"0,7","2,5",0,"0,8",135.0,200,stuk
+Sap tomaten- Appelsientje Zontomaat,17,"0,9","2,8",0,"0,9",100.0,200,stuk
+Noten gemengd gezouten,656,"18,3",11,"58,3","6,8",0.0,0,handje
+Kalkoenfilet,110,"24,8",0,"1,2",0,0.0,0,
+Chips tortilla naturel,480,"6,8","61,8",22,"4,3",0.0,0,
+Saus sate- op basis pakje bereid,148,"4,2","19,8","5,6",1,0.0,0,
+Kaas blauwschimmel Gorgonzola,359,"19,4","0,1","31,2",0,0.0,0,
+Zoutjes Japanse mix m pinda's,421,"10,9","75,6",8,"1,6",0.0,0,handje
+Broodje pudding-,214,"5,2",38,"4,3","1,4",0.0,0,
+Plantaardig alternatief voor vruchten-/vanilleyoghurt obv soja m suiker verrijkt m calcium en vitamines,66,"3,4","8,7","1,7","0,8",150.0,150,bakje
+Kaas Mozzarella gemaakt v koemelk,253,"18,7","0,7","19,5",0,0.0,200,glas
+Halvarineproduct Becel pro-activ,362,"0,3","0,3",40,"0,2",0.0,0,
+Vla slagroom-,120,"2,7","15,1","5,4",0,0.0,0,
+Pap karnemelkse gorte-,53,"3,6","8,1","0,5","0,3",0.0,200,glas
+Halvarineproduct Blue Band Goede Start,347,"0,3","1,1",38,0,0.0,0,
+Hagelslag chocolade- melk,455,"6,3","70,3","15,6","3,7",0.0,200,glas
+Hagelslag chocolade- puur,446,"5,8","67,4","15,3","6,6",0.0,0,
+Pasta chocolade- melk,570,"2,4",61,35,"0,5",0.0,200,glas
+Biscuit melk- Liga Milkbreak,444,"9,2",62,17,3,150.0,200,glas
+Cake m roomboter,399,"5,8","42,4","22,7","0,8",0.0,0,
+Koekje roomboter- gem,447,"5,3","60,5","20,1","1,6",0.0,0,
+Opvolgmelk Nutrilon 3 p 100 ml,66,"1,3","8,4","2,9","0,5",0.0,200,glas
+Ontbijtproduct Olvarit pap 8 granen 12+ mnd,360,"10,4",70,"1,8",11,0.0,0,
+Ontbijtproduct Frosties Kellogg's,375,"4,5",87,"0,6",2,0.0,0,
+Ontbijtproduct Coco pops Kellogg's,387,5,85,"2,5",2,0.0,0,
+Ontbijtproduct All-Bran Fruit 'n Fibre Kellogg's,380,8,69,6,9,150.0,0,stuk
+Ontbijtproduct Special K Original Kellogg's,375,9,79,"1,5","4,5",0.0,0,
+Ontbijtproduct Smacks Kellogg's,382,6,84,"1,5",4,0.0,0,
+Ontbijtproduct Honey pops Loops Kellogg's,378,9,74,"3,5",7,0.0,0,
+Taart vruchten- v zandgebak,246,"3,1","30,9","11,8","1,5",0.0,0,
+Taart vruchten- v cakedeeg,196,"2,6","24,8","9,2","1,4",0.0,0,
+Maaltijdvervanger Modifast Intensive Pudding,355,"36,8","35,6","4,9","10,6",0.0,0,
+Maaltijdvervanger milkshake Modifast Intensive,355,"36,8","35,7","4,9","10,6",0.0,0,
+Sportvoeding Isostar Actifood,204,"0,6","49,8",0,"1,4",0.0,0,
+Sportvoeding Isostar Powertabs,320,0,"79,9",0,0,0.0,0,
+Gehakt fijn- vegetarisch obv mycoproteine onbereid,95,"14,1","0,7","2,5","6,5",0.0,0,
+Stukjes vegetarisch obv mycoproteine onbereid,86,"12,6","1,5","2,1","5,5",0.0,0,
+Sportdrank AA-Drink Isotone,23,0,"5,7",0,0,0.0,0,
+Sportdrank hypertone m koolhydraten,59,0,"14,8",0,0,0.0,0,
+Gehakt fijn- vegetarisch obv soja onbereid,148,20,"5,8",3,"8,9",0.0,0,
+Pinda's dry roasted,577,24,11,47,7,0.0,0,handje
+Rijst meergranen-,351,9,74,"1,5","2,7",0.0,0,
+Ontbijtproduct Brinta Wake Up drinkontbijt,350,"5,7","72,5","1,2","13,4",0.0,0,
+Babyvoeding maaltijd 12 mnd,72,"3,6","9,6","1,7","1,6",0.0,0,
+Babyvoeding fruit 6 mnd,65,"0,6","14,5","0,2","1,4",150.0,0,stuk
+Lamsvlees <10 g vet  gem,158,"20,7",0,"8,3",0,0.0,0,
+Schapenvlees <10 g vet gem,160,"20,5",0,"8,7",0,0.0,0,
+Halvarine 40% vet <17 g verz vetz gezouten,356,"0,1","0,5","39,2","0,1",0.0,0,
+Halvarineproduct 35% vet <10g verz vetz ongezouten,320,0,"1,2",35,0,0.0,0,
+Margarine 80% vet >24 g verz vetz gezouten,719,"0,1","0,3","79,7",0,0.0,0,
+Bak- en braadvet vloeib 97% vet <17g verz vetz gezouten,878,"0,5","0,9","96,9",0,0.0,0,
+Bak- en braadvet vast 97% vet >17 g verz vetz gezouten,873,"0,3","0,5","96,7",0,0.0,0,
+Vet frituur- vloeibaar,900,0,0,100,0,0.0,0,
+Vet frituur- vast,900,0,0,100,0,0.0,0,
+Margarineproduct 60% vet <17 g verz vetz ongez,541,"0,1","0,1",60,0,0.0,0,
+Margarine vloeibaar 80% vet <17 g verz vetz gezouten,735,0,0,"81,6",0,0.0,0,
+Drinkontbijt Coolbest FruitOntbijt p 100 ml,55,"0,8","11,9","0,2",1,150.0,0,stuk
+Ontbijtproduct Cornflakes,378,7,84,"0,9",3,0.0,0,
+Mayonaiseproduct m olijfolie,642,"1,1","1,9",70,"0,1",0.0,0,
+IJsthee m suiker 5-<7 g KH,25,0,"6,2",0,0,150.0,125,kopje
+IJsthee light,2,"0,1","0,2","0,1",0,0.0,125,kopje
+IJsthee m suiker en zoetstof,18,"0,1","4,1","0,1",0,150.0,125,kopje
+Struisvogelvlees,121,"22,9","0,4","3,1",0,150.0,0,stuk
+Kip drumstick m vel,147,"19,1",0,"7,9",0,0.0,0,
+Frites bereid m hard vet,256,"3,1",28,"13,9","3,2",0.0,0,
+Frites bereid m vloeibaar vet,264,"3,1",28,"14,8","3,2",0.0,0,
+Frites bereid gem,263,"3,1",28,"14,7","3,2",0.0,0,
+Limonade vruchten- Dubbelfrisss,22,0,"5,5",0,0,0.0,0,
+Limonade vruchten- Tintelfruit m suiker,22,0,"5,4",0,0,150.0,0,stuk
+Limonade vruchten- Tintelfruit light,12,0,"2,9",0,0,150.0,0,stuk
+Mineraalwater m zoetstof,0,0,0,0,0,0.0,200,glas
+Wijn witte zoete,96,"0,2","5,9",0,0,0.0,150,glas
+Sap appel- verrijkt m vit C,45,"0,2","11,1",0,"0,1",135.0,200,stuk
+Zoutjes Japanse mix z pinda's,387,"8,5",86,"0,9","0,8",0.0,0,handje
+Sap vruchten- Coolbest Vitaday tropical,41,"0,4","9,7",0,"0,5",0.0,200,
+Sap vruchten- Coolbest Vitaday original,44,"0,3","10,4",0,"0,4",0.0,200,
+Cafe noir,420,"3,4",89,"5,4","0,8",0.0,0,
+Zoutje mais- Bugles,537,"6,3",55,32,"1,8",0.0,0,
+Chips op basis v aardappelvlokken,522,"4,2","51,8","32,5","2,6",135.0,0,stuk
+Pijnboompitten,675,"16,5","9,8","61,9","6,3",0.0,0,
+Basilicum vers,48,"3,1","5,1","0,8","3,9",0.0,0,
+Pesto groene,444,9,"4,4","42,8","2,6",0.0,0,
+Brownie m noten,446,"5,1","50,7","24,3","2,1",0.0,0,handje
+Zuigelingenvoeding Hero Baby Standaard 1 p 100 ml,67,"1,4","7,2","3,5","0,3",150.0,0,stuk
+Opvolgmelk Hero Baby Standaard 2 p 100 ml,69,"1,6","9,2","2,8","0,3",0.0,200,glas
+Opvolgmelk Hero Baby Standaard 3 p 100 ml,70,"1,8","8,8",3,"0,3",0.0,200,glas
+Sportdrank Extran Energy,43,0,"10,8",0,0,0.0,0,
+Sportdrank Extran Hydro,22,0,"5,5",0,0,0.0,0,
+Biscuit baby- en dreumes- Bolletje,428,"8,5","70,5",12,2,150.0,0,stuk
+Biscuit fourre,473,"5,5","73,2","17,1",2,150.0,0,stuk
+Koekje Scholiertje,493,"6,3","62,5","23,5","3,6",0.0,0,
+Cracker VitaLU,445,"12,3",67,"12,3","8,4",0.0,0,
+Wafel rijst- m chocolade,502,"6,8","60,3","24,9","4,6",0.0,0,
+Biscuit fruit-,396,"5,5","76,3","7,1","2,6",150.0,0,stuk
+Koek ontbijt- m rozijnen,315,"2,7","71,5","1,2","3,7",0.0,0,
+Graanreep Hero B'tween,444,"6,9",62,"17,7","4,6",0.0,0,
+Graanreep z suiker,339,"7,3","67,3","10,3","4,9",150.0,0,stuk
+Graanreep Special K Kellogg's,400,"4,6","79,5","6,5","2,6",0.0,0,
+Graanreep m melk Kellogg's,417,6,"72,3","11,3","1,1",0.0,200,glas
+Mueslireep,455,"8,2","64,8","16,8",6,0.0,0,
+Melk geiten- volle,64,"3,3","4,3","3,7",0,0.0,200,glas
+Yoghurtsnack Breaker,102,"3,4","13,3","3,5","0,6",0.0,150,bakje
+Yoghurt room- m vruchten,141,"2,9","13,7","7,8","0,9",0.0,150,bakje
+Kwark vruchten-/vanille- magere m zoetstof,47,"7,2","4,1","0,1","0,3",0.0,125,bakje
+Kwark vruchten- Danoontje,96,"6,4","9,9",3,"0,8",0.0,125,bakje
+IJs Festini,100,"0,2",24,"0,2","0,8",0.0,0,
+IJs room/vanille- m chocoladecoating,324,"4,3",34,"18,7",1,0.0,0,
+IJs room/vanille- m fruitcoating,134,"1,5",24,"3,5","0,2",150.0,0,stuk
+Yoghurtdrank m zoetstof,24,"2,7","3,4",0,0,0.0,150,bakje
+Yoghurtdrank m zoetstof Fristi,24,"1,8","3,2",0,2,0.0,150,bakje
+Drinkontbijt Goede Morgen Vifit,55,"3,4","7,9","0,8","1,1",0.0,0,
+Yoghurtdrank Actimel naturel,70,3,"10,8","1,6",0,0.0,150,bakje
+Drink soja- Groeidrink 1-3+ Alpro,60,"2,4",8,2,"0,4",0.0,0,
+Plantaardig alternatief voor room obv soja,161,"2,2","2,6","15,7","0,5",0.0,0,
+Kaas 10+,187,"32,2","0,2","6,4",0,0.0,0,
+Melkdrank Yakult Balance,58,"1,2",14,0,0,0.0,200,glas
+Chocolade witte,552,"6,4","58,1","32,6",0,0.0,0,
+Vla magere m zoetstof,47,"3,4","8,2",0,"0,4",0.0,0,
+Creme fraiche halfvolle,165,"3,1",4,15,0,0.0,0,
+Pasta glutenvrij  Schar,358,9,"73,7","2,5","2,2",0.0,0,
+Taartbodem v biscuitdeeg,261,"7,5",48,"4,2","0,6",150.0,0,stuk
+Room kook-,212,"2,4",5,"20,2","0,1",0.0,0,
+Room kook- light,101,"3,2","5,8","7,2",0,0.0,0,
+Yoghurt volle Activia m granen/muesli,104,"3,6","12,6","3,6","2,3",0.0,150,bakje
+Room kook- Blue Band Finesse voor koken,160,2,4,15,"0,3",0.0,0,
+Siroop vruchtenlimonade- m suiker en zoetstof 40-45 g KH,170,0,"42,5",0,0,150.0,0,stuk
+Siroop vruchtenlimonade- light,8,0,"1,8",0,"0,1",0.0,0,
+Kokosmelk,173,"1,4","2,5","17,4","0,5",0.0,200,glas
+Diksap verrijkt m vit C geconcentreerd,180,"0,2","44,6","0,1","0,1",0.0,200,
+Snoepje suikervrij,240,"1,1","89,3","2,1",0,150.0,0,stuk
+Tomaat in blik,24,"1,1","3,7","0,4","0,7",100.0,0,stuk
+Halvarineproduct Gouda's Glorie Lichtste Pondje,181,0,"0,3",20,0,0.0,0,
+Boterproduct 25% vet,228,"0,2","0,3",25,"0,7",0.0,0,
+Koolvis (Atlantisch),82,18,0,"1,1",0,0.0,0,
+Tonijn,101,"23,7",0,"0,7",0,0.0,0,
+Tong  (vis),76,"14,7",0,"1,9",0,0.0,0,
+Tilapia,86,"17,9",0,"1,6",0,0.0,0,
+Worst knak- magere blik/glas,136,12,6,7,"0,3",0.0,0,
+Worst cervelaat- magere,241,23,"0,1","16,5",0,0.0,0,
+Worst boterham- magere,163,"11,6","6,4","10,1",0,0.0,0,
+Yoghurtdrank Becel pro-activ,45,3,"4,5","1,5",1,0.0,150,bakje
+Breezer,74,0,"9,9",0,0,0.0,0,
+Roti v bloem (sada roti),311,"7,3","50,1","8,7","1,4",0.0,0,
+Pomtajer bereid z vet,99,"3,4","17,2","0,3","7,2",0.0,0,
+Tajerblad bereid z vet,38,"4,6","0,9","1,1","3,4",0.0,0,
+Bruine bonen m rijst Surinaams,147,"7,7","16,6","4,8","3,3",150.0,0,stuk
+Roti v bloem en aardappel,220,"5,1","36,7","5,6","1,5",135.0,0,stuk
+Saus m gele spilterwten Dahl Surinaams,151,"7,7","17,5","4,2","6,2",0.0,0,
+Ovenschotel m pomtajer Pom Surinaams,119,"8,4","6,8","5,9","2,4",0.0,0,
+Groente-vlees schotel Moksi-alesi Surinaams,123,"7,8","14,2","3,4","1,9",0.0,0,
+Aardappelpuree instant- bereid m halfvolle melk,96,"4,1","16,5","1,3","1,1",135.0,200,glas
+Aardappelpuree instant- bereid m water,71,"1,7","11,8","1,6",1,135.0,200,glas
+Aardappelpuree vers bereid m halfvolle melk z vet,74,"2,3","14,1","0,6","1,2",135.0,200,glas
+Aardappelkroketten diepvries onbereid,169,"2,7","24,8",6,"2,1",135.0,0,stuk
+Koek ontbijt- minder suiker,287,"3,2","59,2","1,5",12,150.0,0,stuk
+Gehakt  gem,222,"19,3","0,2","15,9","0,2",0.0,0,
+Gehaktbal half-om-half m ei en paneermeel,238,"18,4","5,3","15,8","0,6",0.0,0,
+Vlees gem excl lever,182,"19,9",1,"10,9","0,2",0.0,0,
+Rundvlees gem,201,"19,1","1,3","13,2","0,3",0.0,0,
+Gehaktbal runder- m ei en paneermeel,231,"18,2","5,2","15,2","0,6",0.0,0,
+Vink runder-,209,"16,6","3,2","14,2","0,8",0.0,0,
+Varkensschnitzel gepaneerd,142,"20,6","8,1","2,8",1,0.0,0,
+Kipfilet gepaneerd,132,"21,6","5,7","2,5","0,4",0.0,0,
+Kipfilet omhuld m beslag,115,21,"3,1",2,"0,1",0.0,0,
+Pudding gelatine-,59,"1,8",13,0,0,0.0,0,
+Varkens cordon bleu,155,"20,5","5,9","5,3","0,4",0.0,0,
+Pinda's suiker-,536,"15,1","47,1",31,"4,1",150.0,0,handje
+Sla gem,16,"1,6",1,"0,3","1,4",0.0,0,
+Tarwebrood volkoren gem v fijn en grof m pompoenpitten,275,"13,4","34,7","7,6","6,9",0.0,0,
+Meergranenbrood gem v wit en bruin m zaden m extra lijnzaad,286,"13,1","35,9","7,9","9,6",150.0,0,stuk
+Meergranenbrood gem v wit en bruin m zaden,261,"12,3",39,"4,8","6,3",150.0,0,stuk
+Tarwebrood wit gem v melk- en waterwit,249,"9,1","47,8","1,8","2,5",0.0,200,glas
+Tarwekrentenbrood wit m spijs,303,"8,2","51,7","6,1","4,3",0.0,0,
+Tarwemueslibrood bruin/volkoren,295,"10,6","42,5","7,6","6,9",150.0,0,stuk
+Tarwenotenbrood volkoren,298,"12,2","34,5","10,9","6,7",0.0,0,handje
+Tarwesuikerbrood wit,305,8,"60,4","2,9","2,6",150.0,0,stuk
+Tarwestokbrood wit m kaas en uien,242,"10,1","35,8",6,"2,2",150.0,0,stuk
+Tarwebrood volkoren gem v fijn en grof m zonnebloempitten,283,"11,9","35,9","8,7","6,8",0.0,0,
+Tarwebrood wit gem v melk- en waterwit m zonnebloempitten,296,"10,2","43,7","8,3","3,1",0.0,200,glas
+Wrap/tortilla naturel,316,"9,5","52,5","6,9",3,0.0,0,
+Wafel rijst- m karamel,394,"5,5",87,"2,4","1,4",0.0,0,
+Frikandel diepvries onbereid,235,"13,1","6,1","17,2","1,7",0.0,0,
+Gehakt cordon bleu,272,"14,9","10,8","18,6","0,7",0.0,0,
+Kipschnitzel gepaneerd,157,"19,3","5,7","6,3","0,4",0.0,0,
+Kip cordon bleu,151,"22,1","4,5","4,9","0,3",0.0,0,
+Muesli krokante naturel/m fruit,438,"8,3","64,6","14,8","6,7",150.0,0,stuk
+Pindakaas light,535,18,"13,7","39,6","25,8",0.0,0,handje
+Soepstengel,401,"12,5","71,3","6,6","3,3",0.0,250,kom
+Zoutje luchtig mais/tarwebasis,518,"7,5","60,7",27,"1,1",0.0,0,
+Tiramisu,248,"4,5","30,7","10,6","0,7",0.0,0,
+Rozijnen omhuld m chocolade melk-,429,5,"61,8","17,3","3,2",0.0,200,glas
+After eight,419,"2,1","74,6","12,2",1,0.0,0,
+Chocolade melk- m rozijnen,501,"6,2","55,9","27,4",3,0.0,200,glas
+Chocolade puur m hazelnoten,565,9,"36,2",41,"7,6",0.0,0,handje
+Chocolade melk- m gepofte rijst,531,"7,1","55,2","30,7","2,9",0.0,200,glas
+"Tomaat gedroogd in olie blik/glas, uitgelekt",197,"4,4","9,4",14,8,150.0,0,stuk
+Tomaat zongedroogd,331,"14,1","55,8",3,"12,3",100.0,0,stuk
+Rozijnen gedroogd geweekt,258,"2,5","59,5","0,4","3,1",0.0,0,
+Toffee m chocolade,427,"1,8","77,8","11,7","1,5",0.0,0,
+Pate smeer- magere,187,"9,7",10,12,"0,3",0.0,0,
+Tarwebrood bruin m zonnebloempitten,285,"10,8","39,4","8,2","5,3",150.0,0,stuk
+Noga m chocolade,489,"7,2","64,2","21,8","3,3",0.0,0,
+Drop m pepermunt,375,"2,8","90,4","0,1","0,3",0.0,0,
+Salmiakkogel/-lolly,375,"1,2","92,3",0,"0,3",0.0,0,
+Noga,469,"6,5","72,1","16,7","2,1",0.0,0,
+Popcorn zoete gepoft z olie,389,"9,9","78,7",3,"3,8",0.0,0,
+Siroop vruchtenlimonade- Albert Heijn,164,"0,1",41,0,"0,1",0.0,0,
+Cake marmer-,394,"5,7","44,4","21,2","1,4",0.0,0,
+Cake appel- z roomboter,259,"3,5","30,1","13,5","1,1",135.0,0,stuk
+Cake rozijnen-,382,"5,3","46,6","19,1","1,2",0.0,0,
+Soes bananen-,244,"3,5","15,9","18,4","0,6",0.0,0,
+Soes slagroom- m chocolade,302,"4,3","17,4","23,8","0,9",0.0,0,
+Taart chocolade- m slagroom,337,"4,8","32,9","20,4","1,5",0.0,0,
+Koek ontbijt- m noten,337,4,"66,2","5,4","3,9",0.0,0,handje
+Koek ontbijt- m kandij,312,"2,8","71,5",1,"2,6",0.0,0,
+Spekkoek,421,"5,3",25,"33,3","0,2",0.0,0,
+Croissant chocolade-,434,"8,9","44,4","23,9","2,7",0.0,0,
+Koek m gelei/appelvulling,398,"3,3","65,5","13,3","1,5",135.0,0,stuk
+Kappertjes,43,"2,4","4,9","0,9","3,2",0.0,0,
+Koek Glace-,427,"3,6","59,5","19,2","0,8",0.0,0,
+Koekje chocolate chip cookie,501,"6,3","60,6","25,3","2,9",0.0,0,
+Koekje kinder- gem,450,"7,6","70,6","14,8","2,2",0.0,0,
+Sprits m chocolade,541,"4,7","61,5","30,3","1,7",0.0,0,
+Schuimzoenen,438,"2,2","71,2","15,3","3,3",150.0,0,stuk
+Kletskop,490,"5,7","58,7","25,4","1,8",0.0,0,
+Mergpijpje gevuld m cake en creme,457,"2,7","62,7","21,6","0,6",0.0,0,
+IJs room- stracciatella,248,"3,3","26,8","13,9","1,2",0.0,0,
+Koek oranje-,375,"4,7","66,3","9,7","1,8",0.0,0,
+Saus warm vloeibaar kant-en-klaar <12% vet,91,"1,3","6,4","6,6","0,1",0.0,0,
+Saus kaas- op basis roux bereid,126,"5,5","5,5","9,1","0,2",0.0,0,
+Saus warm vloeibaar kant-en-klaar >12% vet,195,"1,2","5,2","18,8","0,2",0.0,0,
+Halvarineproduct Becel Omega-3 Plus,353,"0,3","2,6",38,0,0.0,0,
+Halvarineproduct Blue Band Idee,357,"0,3","1,2",39,0,0.0,0,
+Hagelslag chocolade- wit,455,"5,5","78,4","13,2",0,0.0,0,
+Wafel galette-,480,"6,9","65,2","20,9",2,0.0,0,
+Schuddebuikjes Bolletje,486,5,70,20,3,150.0,0,stuk
+Wafel melk-hazelnootchocolade Knoppers,548,"8,8",52,"33,3","2,5",0.0,200,glas
+Cake m noten,447,"8,2","35,5","29,8",2,0.0,0,handje
+Beignet banaan-,281,"2,9","20,3","20,6","1,3",150.0,0,stuk
+Taart slagroom- omhuld m marsepein,342,"4,8","39,6",18,"1,2",0.0,0,
+Taart noten-,464,"7,7",46,"27,2","2,2",0.0,0,handje
+Drink rijst- z suiker verrijkt m calcium en vitamines,53,"0,3","11,3","0,7","0,2",150.0,0,stuk
+Frisdrank m suiker en zoetstof 2-<5 g KH z cafeine,12,0,"2,9",0,0,150.0,200,stuk
+Limonade vruchten- m suiker en zoetstof 4-6 g KH,18,0,"4,6",0,0,150.0,0,stuk
+Limonade vruchten- Capri-Sun Multivitamin,20,0,"4,9",0,0,0.0,0,
+Siroop vruchtenlimonade- bereid 1 op 7,28,0,7,0,0,0.0,0,
+Thee kruiden- oplos gezoet bereid,19,0,"4,7",0,0,150.0,125,kopje
+Saus boter-,180,"0,6",3,"18,3","0,1",0.0,0,
+Saus v halfvolle melk en maizena,57,"3,2","7,9","1,4",0,0.0,200,glas
+Jus 25% vet ongebonden bereid m juspoeder,230,1,"4,8","22,9","0,2",0.0,0,
+Jus 50% vet ongebonden bereid m juspoeder,431,"1,1","4,9","45,1","0,2",0.0,0,
+Jus 25% vet gebonden bereid m juspoeder,233,1,7,"22,3","0,2",0.0,0,
+Jus 25% vet gebonden bereid z juspoeder,223,"0,1","2,8","23,5",0,0.0,0,
+Jus 50% vet gebonden bereid z juspoeder,436,"0,2",3,"47,1",0,0.0,0,
+Jus 75% vet gebonden bereid z juspoeder,650,"0,4","3,2","70,6",0,0.0,0,
+Saus Aardappel Anders gem,171,"1,5","3,9","16,6","0,2",135.0,0,stuk
+Jus 5% vet gebonden bereid z juspoeder,53,0,"2,6","4,7",0,0.0,0,
+Saus sate huishoudelijk bereid m hv melk z vet,297,"10,2","12,8",22,"3,3",150.0,200,glas
+Saus sate huishoudelijk bereid m water z vet,280,"8,9","11,1","21,4","3,3",150.0,200,glas
+Jus 50% vet ongebonden bereid z juspoeder,439,"0,3","0,4","48,5",0,0.0,0,
+Jus 75% vet ongebonden bereid z juspoeder,658,"0,4","0,6","72,7",0,0.0,0,
+Jus 50% vet gebonden bereid m juspoeder,429,"1,1","7,2","43,9","0,2",0.0,0,
+Jus 5% vet ongebonden bereid z juspoeder,44,0,0,"4,8",0,0.0,0,
+Dressing vinaigrette-,593,"0,6","0,4","64,8","0,1",0.0,0,
+Saus frites- ca 13% olie,158,"0,3","9,4","13,1","0,8",0.0,0,
+Dressing honing/mosterd-,299,"1,2",15,26,0,0.0,0,
+Saus frites- 5% olie,100,"0,8","9,8","5,3",5,0.0,0,
+Mayonaiseproduct ca 35% olie,338,"0,5","10,5","32,7",0,0.0,0,
+Olie wok-,900,0,0,100,0,0.0,0,
+Pasta kruiden-/boemboe,306,4,"25,6","20,4","1,7",150.0,0,stuk
+Koffie cappuccino vers bereid,31,"1,8","2,3","1,7",0,0.0,125,kopje
+Koffie cappuccino oplos- bereid,37,"1,2","4,7","1,3","0,3",0.0,125,kopje
+Koffie cappuccino oplos- poeder,407,"13,9","52,4","14,9","3,8",0.0,125,kopje
+Energydrink Golden Power/Bullit/Freeway,44,"0,2","10,7",0,0,0.0,0,
+Vruchtendrank ACE,44,"0,2","10,9",0,"0,1",0.0,0,
+Soep op groente- en vleesbasis kant-en-klaar blik/zak/pak,41,2,"5,3","1,2","0,7",0.0,250,kom
+Soep op groente- en vleesbasis bereid pakje,18,"0,6","2,7","0,5","0,3",0.0,250,kom
+Pasta speculoos-,579,"3,2","56,6","37,5",1,0.0,0,
+Vruchtendrank multivit 12vr nectar light,23,"0,2","5,4",0,"0,2",0.0,0,
+Vruchtendrank m zoetstof 5-<8 g KH,28,"0,1","6,9",0,"0,2",0.0,0,
+Aardappelpureepoeder z melkpoeder z vet,364,"7,9","78,4","0,5",7,135.0,200,glas
+Melk chocolade- m halfvolle melk en gezoete cacaopoeder,78,"3,5","12,2","1,6","0,6",0.0,200,glas
+Zuiveldrank Fruitmelk Campina,54,"3,3","9,2","0,5",0,150.0,200,glas
+Tomaat gezeefd pak,39,"1,8","6,3","0,3",2,100.0,0,stuk
+Aardappelpureepoeder m melkpoeder m vet,373,"9,2",62,"8,6","5,5",135.0,200,glas
+Yoghurt vruchten- halfvolle,79,"4,2","11,6","1,5","0,1",0.0,150,bakje
+Yoghurt Griekse volle,122,"3,8","3,8",10,0,0.0,150,bakje
+Kwark vruchten- volle,125,"5,7","13,3","5,1","0,5",0.0,125,bakje
+Fruit gedroogd op brandewijn,201,"0,6","27,2","0,1","1,3",150.0,150,glas
+Sap multivruchten-,47,"0,4","10,7","0,1","0,3",0.0,200,
+Cider,55,"0,1","6,4",0,0,0.0,0,
+Diksap bereid,39,0,"9,7",0,"0,1",0.0,200,
+Vruchtendrank multivit nectar light Surango,21,"0,2",5,0,"0,1",0.0,0,
+Kaas smeer- 15+ Balans ERU,132,"17,3","3,3","5,5",0,0.0,0,
+Kaas smeer- Kids ERU,169,15,"2,3","11,1",0,0.0,0,
+Kaas geiten- hard,396,"22,4","0,1","32,5",0,0.0,0,
+Vla halfvolle alle smaken,85,"2,3","15,1","1,7","0,4",0.0,0,
+Pudding luchtige,179,"4,2",22,"8,1","0,9",0.0,0,
+Pap lammetjes- bereid m volle melk,83,"3,9","9,6","3,2","0,3",0.0,200,glas
+Vlaflip dubbel- Campina,96,"2,9",15,"2,6","0,3",0.0,0,
+Peper Spaanse,30,"1,8","4,2","0,3","1,8",0.0,0,
+Vet frituur- horeca,900,0,0,100,0,0.0,0,
+Biscuit hartig Sultana Crunchers,413,"8,5","70,5","10,3","2,2",150.0,0,stuk
+Croutons,491,"11,8","58,6","22,3",4,0.0,0,
+Chips oven-,411,"6,4","72,8","9,3","5,1",0.0,0,
+Maltesers,500,"8,3","61,5","24,3","1,2",0.0,0,
+Vlokken chocolade- gem,452,"5,5","71,6","14,9","3,9",0.0,0,
+Drop suikervrij,167,1,61,"0,2",1,150.0,0,stuk
+Winegum m drop,334,"3,5","79,6","0,2",0,0.0,0,
+Cacaopoeder gezoet Nesquik,376,5,79,3,"6,5",150.0,0,stuk
+Vlaflip v vla en yoghurt,77,"3,4","12,3","1,5",0,0.0,150,bakje
+Pudding huishoudelijk bereid m hv melk,91,"2,9",17,"1,2",0,150.0,200,glas
+Vla zacht & luchtig,142,"2,9",16,"7,4","0,2",0.0,0,
+Soep noodle- bereid,86,"1,7","11,7","3,4","0,7",0.0,250,kom
+Worst boterham- vegetarisch verrijkt m ijzer en vit B12,181,"6,6","4,6","14,7","1,8",0.0,0,
+Bamibal/bamischijf diepvries onbereid,165,"5,8",29,"2,8","0,5",0.0,0,
+Kroket vlees- diepvries onbereid,187,"7,6","18,9","8,7","1,5",0.0,0,
+Loempia diepvries onbereid,152,"6,1","21,2","4,5","1,3",0.0,0,
+Croissant ham-kaas-,377,"11,2","35,7","20,6","2,1",0.0,0,
+Kipkorn diepvries onbereid,295,"11,5","16,8","19,7",2,0.0,0,
+Broodje kaas- v bladerdeeg,580,"9,2","34,4","44,7","1,2",0.0,0,
+Viandel onbereid Mora,301,"9,5",17,"21,3","1,5",0.0,0,
+Biscuit meergranen- LU Time Out,484,"7,6","64,3","20,8","4,8",150.0,0,stuk
+Margarine 80% vet >24 g verz vetz ongezouten,724,"0,2","0,3","80,2",0,0.0,0,
+Margarine vlb 80% vet <17 g verz vetz ongezouten,738,0,"0,1",82,0,0.0,0,
+Halvarineproduct Bewust light 30% vet <10g verz vetz ongezouten,275,"0,1","1,1",30,"0,3",0.0,0,
+Appelflap m bladerdeeg z roomboter,360,"3,5",35,"22,4","1,5",135.0,0,stuk
+Soep gebonden z vulling,40,"0,6","2,7",3,"0,1",0.0,250,kom
+Bak- en braadvet vlb 97% vet <17g verz vetz ongezouten,883,"0,4","0,5","97,7",0,0.0,0,
+Bak- en braadvet vast 97% vet >17 g verz vetz ongezouten,880,"0,4","0,7","97,3",0,0.0,0,
+Margarine 80% vet <24 g verz vetz ongezouten,720,0,0,80,0,0.0,0,
+Halvarine 40% vet <17g verz vetz ongezouten,360,0,0,40,"0,1",0.0,0,
+Halvarineproduct Albert Heijn smeerbaar cholesterol verlagend,317,0,"0,2",35,"0,4",0.0,0,
+Vlaai kruimel- m pudding,283,"5,3","42,4",10,1,150.0,0,stuk
+Koek ontbijt- m noten en vruchten,343,"4,5","63,7","6,9","3,9",0.0,0,handje
+Vlaai pudding- m vruchten,145,"2,9","24,4","3,6","1,2",0.0,0,
+Cake bitterkoekjes-,396,"5,8","44,8","21,3","0,9",0.0,0,
+Saus knoflook- 20-<30% olie,246,"0,8","13,4",21,0,0.0,0,teentje
+Aardappelpuree vers bereid m volle melk en margarine,87,"2,2","13,9","2,3","1,2",135.0,200,glas
+Cake appel- m roomboter,261,"3,6","30,2","13,7","1,1",135.0,0,stuk
+Jus 5% vet gebonden bereid m juspoeder,76,"0,9","6,8",5,"0,2",0.0,0,
+Pannenkoek volkoren huishoudelijk bereid m vloeibare margarine,175,"7,3","21,1","6,1","3,3",150.0,0,stuk
+Pannenkoek volkoren huishoudelijk bereid m margarine,175,"7,3","21,1",6,"3,3",150.0,0,stuk
+Koek pinda-,513,"10,6","51,8","28,4","3,6",0.0,0,handje
+Jus 25% vet ongebonden bereid z juspoeder,219,"0,1","0,2","24,2",0,0.0,0,
+Candybar KitKat,520,"7,1",59,"27,7",3,0.0,0,
+Dressing olijfolie-azijn,607,"0,4","0,5","66,4","0,1",0.0,0,
+Mix voor marinade poeder onbereid,285,"8,4","50,5","4,3","5,1",0.0,0,
+Koekje m noten en chocolade,517,"7,5","55,5","28,7","3,3",0.0,0,handje
+Koekje m noten,509,"6,6","64,9","24,1",3,0.0,0,handje
+Wijn rose,71,"0,1","2,5",0,0,0.0,150,glas
+Saus Joppie-,346,"0,8","22,8",28,0,0.0,0,
+Tapenade v olijven,324,"1,8","5,2","32,2","3,3",0.0,0,
+Mix seasoning Mexicaans onbereid,318,12,"48,8","5,7","11,5",0.0,0,
+Salsa tomatendipsaus,45,"0,9","9,3","0,2","1,6",0.0,0,
+Azijn,22,"0,4","0,6",0,0,0.0,0,
+Broodje bapao vlees,251,"8,9","38,1","6,6","1,9",0.0,0,
+Berenklauw,155,"11,4","5,4","9,4","1,4",0.0,0,
+Taart appel- v zandtaartdeeg m roomboter,223,"2,4","31,6","9,2","1,5",135.0,0,stuk
+Koffie oplos- poeder,114,"7,8","3,1","0,2","34,1",0.0,125,kopje
+Vruchtendrank 2 of meer vruchten verrijkt m vit C,48,"0,2","11,4","0,1","0,2",0.0,0,
+Smoothie vruchten,56,"0,7","12,3","0,2","1,3",0.0,0,
+Smoothie vruchten m zuivel,51,"1,3","10,3","0,1","1,2",150.0,0,stuk
+Frisdrank m suiker en zoetst 2-<5 g KH m cafeine,11,0,"2,6",0,0,150.0,200,stuk
+Vruchtendrank Roosvicee 50/50,17,"0,1",4,0,"0,1",0.0,0,
+Sportdrank Aquarius,29,0,"7,1",0,0,0.0,0,
+Koffie automaat- m suiker en melk,28,"0,2","5,3","0,7",0,150.0,125,kopje
+Koffie automaat- m melk,12,"0,2","1,3","0,7",0,100.0,125,kopje
+Thee kruiden- oplos gezoet poeder,372,0,"92,9",0,"0,1",150.0,125,kopje
+Jus z vet bereid m juspoeder,28,"0,9","4,6","0,7","0,2",0.0,0,
+Saus cocktail/party/tafel- >25% olie,374,"1,2","15,9","33,9","0,3",0.0,0,
+Wafel rijst- gekruid,402,"7,9","74,4","7,7","1,7",150.0,0,stuk
+Kipfilet (vleeswaar),125,"17,5","3,4","4,4",0,0.0,0,
+Yoghurt 0% vet Activia m vruchten,53,"4,6","7,5","0,1","0,6",0.0,150,bakje
+Hagelslag chocolade- mix wit en puur,449,"3,2","73,9","14,7","4,3",0.0,0,
+Pasta duo- m chocolade,576,"1,8","59,5","36,5","1,3",0.0,0,
+Pasta duo- z chocolade,567,"0,8","62,5","34,9","0,1",0.0,0,
+Snoep schuim-/gum-,336,"4,9","78,5","0,2","0,1",150.0,0,stuk
+Winegum m schuimlaag,333,"4,8","78,5",0,0,150.0,0,stuk
+Wafel Luikse-,446,"5,7","57,1","21,3","1,5",150.0,0,stuk
+Wafel zachte/suiker-/flash-,493,"7,6","53,8","27,3","0,9",150.0,0,stuk
+Frisdrank m suiker en zoetst 5-<8 g KH m cafeine,27,"0,3","6,5",0,0,150.0,200,stuk
+Dressing sla- 20% olie m yoghurt,258,"1,2","12,3","22,7",0,0.0,150,bakje
+Mix voor nasi/bami onbereid,300,11,"45,8","5,8","10,6",0.0,0,
+Energydrink Red Bull,44,0,11,0,0,0.0,0,
+Energydrink Red Bull sugarfree,0,0,0,0,0,0.0,0,
+Muesli krokante m noten,479,"8,5",61,21,6,0.0,0,handje
+Muesli krokante m chocolade,458,"8,5",64,"17,1","7,3",0.0,0,
+Muesli krokante m noten en chocolade,469,"8,8","63,5","18,6","6,4",0.0,0,handje
+Zuivelspread naturel/kruiden,248,"5,1","3,1","23,9","0,1",150.0,0,stuk
+Zuivelspread naturel/kruiden light,175,"8,1","4,2","13,8","0,3",150.0,0,stuk
+Mix kruiden- Wereldgerechten onbereid,312,"11,8","50,4","5,1","8,5",150.0,0,stuk
+Ontbijtproduct Coco pops Chocos Kellogg's,381,9,78,"2,5",5,0.0,0,
+Ontbijtproduct Special K chocolade Kellogg's,400,"8,1",76,"6,2",4,0.0,0,
+Abrikozen gedroogd geweekt,159,"2,8",33,0,"8,1",40.0,0,
+Appelmoes z suiker m zoetstof blik/glas,48,"0,2",11,0,1,150.0,0,stuk
+Kruidnoten m chocolade puur,482,"6,1","63,4","21,7","4,3",150.0,0,handje
+Kruidnoten m chocolade melk-,490,"6,4","65,8","21,8","2,3",150.0,200,handje
+Kauwbonbon fruitsmaak,395,1,"82,9","6,6","0,1",150.0,0,stuk
+Koekje bitter-,411,7,"68,7","11,5","2,3",0.0,0,
+Suiker light,395,0,"98,9",0,0,150.0,0,stuk
+Cake chocolade- z roomboter,394,"5,7",46,"20,3","2,1",0.0,0,
+Frou frou,534,"4,3","60,4","30,5","0,7",0.0,0,
+Biscuit Sultana Yofruit,412,"5,1","74,1","10,1","2,2",150.0,0,stuk
+Kruidnoten m chocolade witte,491,"6,1","68,5","21,2","1,1",150.0,0,handje
+Tarwebrood volkoren gem v fijn en grof m zaden,274,"12,5","35,5","7,4","7,9",0.0,0,
+Tarwebrood bruin m zaden,276,"11,3","38,9","6,9","6,4",150.0,0,stuk
+Ontbijtproduct All-Bran flakes Kellogg's,356,11,66,2,15,0.0,0,
+Chips/Kroepoek cassave,474,"1,4","67,5","21,4","2,7",0.0,0,
+Tarwemaisbrood wit m zonnebloempitten,307,"11,8","40,5","9,8",5,0.0,0,
+Sla rode,18,"1,3","2,3","0,2","0,9",0.0,0,
+Kool rode m appeltjes blik/glas,58,"0,8","11,9","0,3","2,2",135.0,0,stuk
+Margarineproduct Albert Heijn Balans,405,0,0,45,0,0.0,0,
+Margarineproduct vloeibaar <60% vet <17 g verz vetz ongezouten,507,"0,3","0,3",56,"0,5",0.0,0,
+Margarineproduct vloeibaar <60% vet <17 g verz vetz gezouten,507,"0,3","0,3",56,"0,5",0.0,0,
+Biscuit meergranen- Evergreen crunchy,395,"6,6","59,7","12,3","9,5",150.0,0,stuk
+Meringue,382,"0,5",95,0,0,0.0,0,
+Donut m glazuur,358,"5,4","40,8",19,1,0.0,0,
+Wafel Luikse m chocolade,457,"5,8","55,8","22,9","2,3",150.0,0,stuk
+IJsthee m suiker 4-<5 g KH,18,0,"4,5",0,0,150.0,125,kopje
+Wortel bospeen,31,"0,9",5,"0,3","2,5",95.0,0,stuk
+Wortel winterpeen,34,"0,6","5,7","0,3","3,3",95.0,0,stuk
+Tomaat tros-,22,"0,7",3,"0,5","1,2",100.0,0,stuk
+Tomaat kers-,30,"0,9","3,9","0,8","1,9",100.0,0,stuk
+Tomaat vlees-,19,"0,6","2,3","0,5","1,3",100.0,0,stuk
+Tomaat  gem,25,"0,8","3,4","0,6","1,6",100.0,0,stuk
+Sla rucola,22,"3,6",0,"0,4","1,9",0.0,0,
+Ui sla-,31,"1,5","4,2","0,4","2,4",150.0,0,stuk
+Komkommer m schil,13,"0,7","1,3","0,4","0,6",400.0,0,stuk
+Paprika gele,25,"0,7","3,9","0,2","2,5",150.0,0,stuk
+Paprika  gem,25,"0,8","4,2","0,1","1,9",150.0,0,stuk
+Peer m schil,55,"0,2","11,7","0,3","2,2",140.0,0,stuk
+Druiven blauwe m schil,75,"0,6","16,8","0,1","2,1",5.0,0,stuk
+Druiven witte m schil,76,"0,5","16,9","0,4","1,4",5.0,0,stuk
+Appel Elstar m schil,55,"0,3",12,"0,2","1,9",135.0,0,stuk
+Appel Elstar z schil,55,"0,2","12,4","0,2","1,5",135.0,0,stuk
+Appel Jonagold m schil,55,"0,2","12,1","0,2",2,135.0,0,stuk
+Appel Jonagold z schil,52,"0,2","11,6","0,1","1,7",135.0,0,stuk
+Sap sinaasappel- vers geperst,44,"0,6","9,1","0,1","0,3",130.0,200,stuk
+Kaas Goudse 48+ jong,364,"22,8",0,"29,6",0,0.0,0,
+Kaas Goudse 48+ jong belegen,370,"22,7",0,"29,9",0,0.0,0,
+Kaas Goudse 48+ belegen,377,"22,5",0,"30,8",0,0.0,0,
+Kaas Goudse 48+ oud,414,"24,6","0,1","33,7",0,0.0,0,
+Melk chocolade- automaat,66,3,"10,8",1,"1,2",100.0,200,glas
+Koek gevulde m roomboter,415,"7,1","58,7","16,5","1,9",0.0,0,
+Koek gevulde z roomboter,406,"5,2","61,7","14,9","2,1",0.0,0,
+Speculaas m roomboter,484,"5,5","65,2","21,7",3,0.0,0,
+Speculaas z roomboter,467,5,"65,1","20,1",3,0.0,0,
+Pangasius bereid in magnetron z toev,89,"18,6",0,"1,6",0,0.0,0,
+Worst ossen-,166,"18,6","1,1","9,4","1,2",0.0,0,
+Ei kippen- scharrel,132,"12,3","0,2","9,1",0,0.0,0,
+Ei kippen- biologisch,135,"12,3","0,2","9,5",0,0.0,0,
+Ei kippen- mais,129,"12,2","0,2","8,8",0,0.0,0,
+Biscuit tarwe-/digestive- m chocolade,488,"6,5","63,8","22,2","3,3",150.0,0,stuk
+Vlaai appelkruimel-,304,"3,9","45,6","11,4","1,9",150.0,0,stuk
+Vlaai wener bodem m bakkersroom,295,"4,1",33,16,"1,6",0.0,0,
+Vlaai zachte bodem m bakkersroom,253,"3,5","30,8","12,5","1,4",0.0,0,
+Tarwebrood volkoren grof,235,"11,3","38,6","2,5","6,8",0.0,0,
+Meergranenbrood wit m zaden,267,"12,5","40,4",5,"5,4",0.0,0,
+Meergranenbrood bruin m zaden,254,"12,2","37,5","4,6","7,2",150.0,0,stuk
+Tarwemaisbrood wit,262,"10,9","44,2","3,5","4,7",0.0,0,
+Tarwebrood gem v bruin en volkoren m pompoenpitten,254,"13,9","33,3","5,5","7,8",150.0,0,stuk
+Tarwebrood gem v bruin en volkoren m zonnebloempitten,272,"12,5",36,"6,7","8,7",150.0,0,stuk
+Tarwedesembrood volkoren,235,"9,3","40,5","2,6",6,0.0,0,
+Tarwe ciabatta wit ongevuld,255,"9,1","48,9","1,8","3,3",0.0,0,
+Tarwebrood wit pita,245,"8,6","50,1","0,7","2,1",0.0,0,
+Stol m spijs z noten,276,"7,7","53,8","2,4","3,9",0.0,0,handje
+Stol m spijs m noten,288,"7,8","51,9","4,3","4,8",0.0,0,handje
+Tarwestokbrood wit,269,"9,8","53,4","1,2","2,8",0.0,0,
+Tarwestokbrood bruin,258,"9,8","49,8","1,4","3,8",150.0,0,stuk
+Tarwebroodje wit hard,277,10,"54,4","1,5","2,8",0.0,0,
+Tarwebroodje bruin hard,278,11,"52,8","1,5","4,9",150.0,0,stuk
+Tarwebroodje bruin zacht,258,11,"41,9","3,9","5,3",150.0,0,stuk
+Tarwebroodje volkoren zacht,247,"11,3","39,4","3,3","7,5",0.0,0,
+Meergranenbroodje bruin hard,294,"12,9","43,8","5,9","6,8",150.0,0,stuk
+Meergranenbroodje bruin zacht,283,"13,4","38,7","6,8","6,4",150.0,0,stuk
+Croissant roomboter-,414,"9,5","42,3","22,3","2,7",0.0,0,
+Croissant z roomboter,392,"9,8","42,3","19,9","2,2",0.0,0,
+Tarwekrentenbol wit,268,"8,4","50,9","2,5","4,2",0.0,0,
+Tarwemueslibol bruin/volkoren,290,"10,7","43,9","6,6","5,8",150.0,0,stuk
+Maanzaad,455,"19,2","2,4","35,6",24,0.0,0,
+Pompoenpitten,574,"30,3","2,7","47,2","8,5",0.0,0,
+Spijs gem,434,"9,9","44,8",22,"8,6",0.0,0,
+Muesli vruchten-,357,"9,7","64,5","4,8","8,5",0.0,0,
+Wafel stroop- z roomboter,483,"3,6","71,5","19,9","1,9",0.0,0,
+Tarwebrood volkoren fijn,233,"10,9","39,3","2,1","6,6",0.0,0,
+Tarwekrenten/rozijnenbrood wit gem m spijs,303,"8,2","51,3","6,2","4,6",0.0,0,
+Tarwekrenten/rozijnenbrood wit gem,272,"7,8","52,8","2,6","3,6",0.0,0,
+Tarwerozijnenbrood wit m spijs,303,"8,1","50,8","6,4","4,8",0.0,0,
+Tarwebrood bruin tijger-,241,"9,8","43,9","1,8","4,9",150.0,0,stuk
+Tarwebrood wit tijger-,251,9,"48,4","1,7","2,6",0.0,0,
+Stol m spijs gem m en z noten,282,"7,7","52,8","3,4","4,4",0.0,0,handje
+Croissant gem,403,"9,6","42,3","21,1","2,5",0.0,0,
+Zout z toegevoegd jodium,0,0,0,0,0,0.0,0,
+Wafel stroop- m roomboter,462,"3,9",69,"18,6","1,3",0.0,0,
+Tarwebrood bruin m pompoenpitten,277,"12,3","38,2","7,1","5,4",150.0,0,stuk
+Yoghurt vuchten-/vanille magere m zoetstof,35,"3,4","4,8",0,"0,1",0.0,150,bakje
+Yoghurt stracciatella- volle,128,"3,3","15,4","5,6","0,3",0.0,150,bakje
+Kipschnitzel saté gepaneerd,211,"15,1","16,8","8,9","1,7",0.0,0,
+Varkensschnitzel sate gepaneerd,236,"13,6",17,"12,2","1,8",0.0,0,
+Likeur m room 15-25 vol% alc,294,"2,7","22,7","11,8",0,0.0,0,
+Chocoladereep gevuld Kinder,567,"8,9","52,1","35,7","1,3",0.0,0,
+Croissant kaas-,400,"10,6","39,1","21,8","2,3",0.0,0,
+Siroop vruchtenlimonade- m suiker en zoetstof 10-15 g KH,47,0,"11,7",0,0,150.0,0,stuk
+Cake chocolade- m roomboter,398,"5,8","46,2","20,6","2,1",0.0,0,
+Aardappelbolletjes/-wafeltjes ed diepvries onbereid,175,"2,6","24,3","6,9","2,8",135.0,0,stuk
+IJskoffie,72,"2,7","10,2","2,3",0,0.0,125,kopje
+Worst grill- m kaas,331,"14,3","2,7","29,3",0,0.0,0,
+Bier m vruchtensmaak,52,"0,3",6,0,"0,5",0.0,250,glas
+Kool rode m appeltjes huishoudelijk bereid,52,"0,9","8,3","1,1","2,4",150.0,0,stuk
+Ananas op eigen sap blik/glas,59,"0,4","13,9","0,1","0,8",0.0,200,
+Noten macadamia- ongezouten,753,"7,8","5,4","76,1",8,0.0,0,handje
+Vruchtendrank m zuivel Taksi m zoetstof,10,"0,1","2,3",0,"0,1",150.0,0,stuk
+Sap vruchten- mild multifruit m vit C,49,"0,4","11,7","0,1","0,2",150.0,200,stuk
+Drink soja- light verrijkt m calcium en vitamines Alpro,29,"2,1","1,8","1,2","1,1",0.0,0,
+Pannenkoek kaas- huishoudelijk bereid,237,"11,3","23,3","10,8","0,5",150.0,0,stuk
+Pannenkoek appel-rozijnen- huishoudelijk bereid,197,"7,3","30,2",5,"0,9",150.0,0,stuk
+Taart appel-noten,344,"5,5","38,8","18,1","1,8",135.0,0,handje
+Koek stroop- m chocolade,497,4,"63,7","24,9","1,4",0.0,0,
+Pannenkoek huishoudelijk bereid m vloeibare margarine,178,6,"25,1","5,9","0,6",150.0,0,stuk
+Beignet appel-,264,"2,5","16,7","20,5","1,1",135.0,0,stuk
+Candybar Lion,493,"5,5","65,5","22,9","1,3",0.0,0,
+Dessertsaus karamel-,302,"2,7","63,9","3,9",0,0.0,0,
+Fruitsnack Knijpfruit/Slurpfruit,63,"0,4","14,2","0,2","1,6",150.0,0,stuk
+Brioche,338,"8,5",50,11,"2,5",0.0,0,
+Koffie wiener melange oplos poeder,427,"9,4","65,9","13,6","1,8",0.0,125,kopje
+Koffie wiener melange oplos bereid,46,1,"7,1","1,5","0,2",0.0,125,kopje
+Runderrookvlees licht gezouten,116,"22,8","0,7","2,5",0,0.0,0,
+Suiker riet-,400,"0,5","99,5",0,0,150.0,0,stuk
+Cranberrycompote gezoet,172,"0,4","41,9","0,1","1,2",0.0,0,
+Noten cashew- gezouten,615,"21,2","20,8","48,9","3,8",0.0,0,handje
+Noten amandelen z vliesje gezouten,631,"21,7","7,1","55,8",7,0.0,0,handje
+Plantaardig alternatief voor yoghurt obv soja m suiker verrijkt m calcium en vitamines,47,"3,7","3,6","1,9","0,6",150.0,150,bakje
+Cranberry gedroogd gezoet,335,"0,5","77,6","1,4",5,0.0,0,
+Koek jode-,505,"4,5","65,2","24,9","1,2",0.0,0,
+Wafel penny-,562,"5,8",47,"38,5",2,0.0,0,
+Cake Indische,313,"4,3","60,8","5,7","0,7",0.0,0,
+Biscuit digestive-,492,"6,7","65,4","21,8","3,6",150.0,0,stuk
+Halvarineproduct AH omega-3,345,0,"0,8",38,0,0.0,0,
+Limonade vruchten- Ocean Spray Cranberry classic,37,0,"9,3",0,0,0.0,0,
+Paardenrookvlees,103,"21,7","0,9","1,4",0,0.0,0,
+Balkenbrij,166,"5,8","16,1","8,4","1,3",0.0,0,
+Mais blik/glas,91,"2,9","14,8","1,5","3,2",0.0,0,
+Runderbraadworst gebakken,228,"23,8","0,3","14,6","0,1",0.0,0,
+Runderborstlappen bereid,217,"36,8",0,"7,7",0,0.0,0,
+Vink runder- gebakken,223,"22,4","0,5","14,5",0,0.0,0,
+Runder T-bone steak bereid,254,"33,6",0,"13,3",0,0.0,0,
+Runder ribeye steak bereid,214,"29,6",0,"10,6",0,0.0,0,
+Shoarmavlees varkens- bereid,239,"28,2","0,6","13,8","0,1",0.0,0,
+Spek rook- mager bereid,379,"23,1",0,"31,9",0,0.0,0,
+Spareribs varkens- bereid,249,"29,5","0,1","14,5","0,1",0.0,0,
+Varkenspoulet bereid,280,"37,4",0,"14,5","0,1",0.0,0,
+Kalfsvleesreepjes gebakken,185,"27,1",0,"8,5","0,2",0.0,0,
+Kalfssukadelappen bereid,158,27,0,"5,5","0,1",0.0,0,
+Kalfsbraadworst gebakken,237,"22,9","0,4",16,0,0.0,0,
+Kalfsriblappen bereid,197,27,0,"9,9",0,0.0,0,
+Kalfslappen mager bereid,142,"28,4",0,"3,1","0,1",0.0,0,
+Kalfsoester bereid,143,"28,8",0,"3,1","0,1",0.0,0,
+Cracker VitaLU verrijkt m calcium,419,12,"67,5","9,2",9,0.0,0,
+Yoghurtdrank 7-9g KH,39,"1,8","7,8",0,0,0.0,150,bakje
+Chips naturel,541,"6,4","51,3","33,5","4,1",0.0,0,
+Chips paprika ea smaken,536,"6,3","53,1","32,3",4,150.0,0,stuk
+Kaas Mascarpone,455,"7,6","0,3",47,0,0.0,0,
+Chips light paprika ea smaken,481,"7,2","63,5",21,"4,6",150.0,0,stuk
+Fritessticks naturel,515,"6,5",61,"26,6",3,0.0,0,
+Fritessticks paprika,529,"6,5",60,"28,5","3,5",150.0,0,stuk
+Chips Lays Sensations diverse smaken,511,"6,8",58,"27,1","3,9",0.0,0,
+Pasta chocolade- wit,592,"4,6",53,40,"0,6",0.0,0,
+Soep 1-kops bereid,40,1,"5,4","1,6","0,2",0.0,250,kom
+Koek eier- volkoren/meergranen,305,8,"59,3","3,2","3,8",0.0,0,
+Halvarineproduct Becel pro-activ calorie light,216,"0,3",2,23,"0,2",0.0,0,
+Yoghurt volle Activia naturel,68,"3,9","4,7","3,5",0,0.0,150,bakje
+Yoghurtdrank Activia,64,3,"10,8","0,9","0,5",0.0,150,bakje
+Toast Melba naturel,398,"12,7","79,3","2,4","4,1",0.0,0,
+Toast Melba overige soorten,403,"15,4","64,9","7,2","8,2",0.0,0,
+Plantaardig alternatief voor roomijs/yoghurtijs obv kokos,195,"1,4","21,8","11,2","0,7",0.0,150,bakje
+Pizza m kaas en groenten diepvries onbereid,233,"9,3","25,9","9,7","1,9",0.0,0,
+Pizza m vlees diepvries onbereid,228,"9,2","26,5",9,2,0.0,0,
+Pizza m vis diepvries onbereid,225,"9,6","25,3",9,"1,9",0.0,0,
+Pizza salami diepvries onbereid,259,"9,9","27,4","11,8",2,0.0,0,
+Pizza hawaii diepvries onbereid,221,"8,5","27,4","8,2","1,8",0.0,0,
+Rolmops,182,16,"0,5","12,8","0,5",0.0,0,
+Salade ei- maaltijd,193,"4,3","11,7","14,1","1,4",0.0,0,
+Salade zalm- maaltijd,199,"3,1","15,9","13,2","2,1",0.0,0,
+Salade vlees- maaltijd,168,"3,8","14,2","10,2","2,3",0.0,0,
+Kruidnoten m chocolade gem,488,"6,2","65,9","21,6","2,6",150.0,0,handje
+Zout zee-,0,0,0,0,0,0.0,0,
+Appeltjes gedroogd geweekt,85,"0,6","18,9","0,1","2,8",135.0,0,stuk
+Peren gedroogd geweekt,83,"0,6","18,9",0,"2,8",0.0,0,
+Pruimen gedroogd geweekt,57,"0,5","13,9","0,1","1,5",150.0,0,stuk
+Tuttifrutti gedroogd geweekt,96,1,"21,2","0,1","3,4",0.0,0,
+Dreumesmelk Nutrilon 4 p 100 ml,65,"1,5","8,5","2,6","0,8",0.0,200,glas
+Peutermelk Nutrilon 5 p 100 ml,50,"1,3","6,5","1,9","0,8",0.0,200,glas
+Kaas smeer- 45+,231,"14,3",1,"18,9",0,0.0,0,
+Worst Chorizo,358,"20,7","3,4","29,1",0,0.0,0,
+Worst grill-,310,"13,2","3,1","27,2",0,0.0,0,
+Kalkoenfilet (vleeswaar),113,"19,8","3,2","2,4",0,0.0,0,
+Spek katen-,309,14,"1,2","27,6",0,0.0,0,
+Worst knak- runder blik/glas,180,13,7,11,"0,3",0.0,0,
+Tarwebrood bruin koolhydraat verlaagd,241,"17,2",21,"8,9","3,8",150.0,0,stuk
+Shandy,42,0,"9,7",0,0,0.0,0,
+Kalfsschnitzel ongepaneerd,104,"22,4",0,"1,6",0,0.0,0,
+Gehakt kalfs-,214,19,"0,3","15,1","0,3",0.0,0,
+Kalfsoester,108,"22,9",0,"1,9",0,0.0,0,
+Kalfslappen mager,104,"21,8",0,"1,9",0,0.0,0,
+Kalfsriblappen,167,"20,6",0,"9,4",0,0.0,0,
+Kalfsbraadworst,217,"17,2","0,5","16,1","0,5",0.0,0,
+Kalfssukadelappen,117,"17,7",0,"5,1",0,0.0,0,
+Kalfsvleesreepjes,98,22,0,"1,1",0,0.0,0,
+Varkenspoulet,123,"21,5",0,"4,1",0,0.0,0,
+Spek rook- mager,325,"15,3",0,"29,4",0,0.0,0,
+Speklap bereid in eigen vet,435,"29,1",0,"35,4",0,0.0,0,
+Shoarmavlees varkens-,146,"19,9","0,6",7,"0,6",0.0,0,
+Runderborstlappen,152,"22,3",0,7,0,0.0,0,
+Gehakt kalfs- rul gebakken,286,"27,1","0,2","19,6","0,1",0.0,0,
+Runderbraadworst,207,"18,1",1,"14,6",0,0.0,0,
+Spareribs varkens-,200,"20,4","0,1",13,"0,4",0.0,0,
+Runder ribeye steak,170,"21,2",0,"9,4",0,0.0,0,
+Runder T-bone steak,189,22,0,"11,2",0,0.0,0,
+Gehakt mager runder-,182,20,"0,3","11,1","0,5",0.0,0,
+Gehakt mager runder- rul gebakken,293,"29,6","0,4","19,1","0,5",0.0,0,
+Jus 75% vet gebonden bereid m juspoeder,625,"1,2","7,4","65,6","0,2",0.0,0,
+Jus 75% vet ongebonden bereid m juspoeder,632,"1,2","5,1","67,4","0,2",0.0,0,
+Jus 5% vet ongebonden bereid m juspoeder,69,"0,9","4,6","5,1","0,2",0.0,0,
+Kalfsschnitzel ongepaneerd bereid,144,"29,4",0,"2,9","0,1",0.0,0,
+Schnitzel vegetarisch obv melk gevuld m kaas onbereid,218,"14,8","16,6","9,6",3,0.0,200,glas
+Schnitzel vegetarisch obv melk gevuld diverse smaken onbereid,206,"11,4","19,8","8,3","3,8",0.0,200,glas
+Pizza Turkse z toevoegingen,204,"7,6","33,7","3,7","2,8",0.0,0,
+Yoghurt Turkse 4% vet,69,"3,9","3,3","4,2",0,0.0,150,bakje
+Kaas Turkse 60+ obv koemelk blik,287,"12,7","0,4",26,0,0.0,200,glas
+Kaas schapen-/geiten- Turkse 50+ blik,297,"15,5","0,1","26,1",0,0.0,0,
+Tarwebrood bruin Turks,248,"10,6","44,2","1,7",7,150.0,0,stuk
+Yoghurt Turkse 10% vet,119,"3,5","3,1","10,1",0,0.0,150,bakje
+Paprika oranje,28,"0,8","4,7","0,3","1,7",150.0,0,stuk
+Bonen witte blik/glas,105,"6,9",14,"0,8","7,1",0.0,0,
+Pap havermout- bereid m halfvolle melk ongezoet,80,"4,4","10,7","2,1","0,8",0.0,200,glas
+Olie lijnzaad-,900,0,0,100,0,0.0,0,
+Boterproduct melange ongezouten,676,"0,7","0,9","74,3",0,0.0,0,
+Tarwebrood bruin natriumarm,236,"9,8","42,9","1,7",5,150.0,0,stuk
+Zemelen haver-,367,"17,3","50,8",7,"15,4",0.0,0,
+Appelflap m bladerdeeg m roomboter,360,"3,5",35,"22,4","1,5",135.0,0,stuk
+Siroop ahorn-,269,0,"67,2","0,1",0,0.0,0,
+Stroop appel- verrijkt m ijzer,287,"1,6","67,6",0,"5,2",135.0,0,stuk
+Room spuitbus minder vet m suiker,222,"2,6","11,3","18,5","0,1",150.0,0,stuk
+Snoepje room- hard,414,"0,5","83,9","8,6","0,1",0.0,0,
+Tonijn bereid z vet,122,"29,2",0,"0,6",0,0.0,0,
+Tilapia bereid z vet,128,"26,2",0,"2,7",0,0.0,0,
+Gefrituurde peulvruchtensnack Bara Surinaams,287,"7,6","40,8","9,7","3,4",0.0,0,
+Yoghurt volle Activia m vruchten/vanille,94,"3,8","12,2",3,"0,6",0.0,150,bakje
+Kaassouffle bereid m vlb frituurvet,359,"7,3","29,8","23,1",1,0.0,0,
+"Bladerdeeg m roomboter, bereid",614,7,40,47,"1,4",0.0,0,
+Knackebrod glutenvrij Fette Croccanti Schar,368,"7,4","79,1","1,9","2,3",0.0,0,
+Vleeswaren 10-20 g vet excl leverprod gem,200,"15,3","3,3",14,"0,1",0.0,0,
+Peutermelk Hero Baby 4 p 100 ml,64,"1,5","8,2","2,7","0,2",0.0,200,glas
+Peutermelk Hero Baby 5 p 100 ml,64,"1,5","8,2","2,7","0,2",0.0,200,glas
+Pastinaak,71,"1,8",11,"1,1","4,7",0.0,0,
+Dreumesmelk Nestle groeimelk 1+ p 100 ml,70,"1,9","8,5","3,1",,0.0,200,glas
+Dreumesmelk Nestle groeimelk 2+ p 100 ml,71,"2,1","9,9","2,5",,0.0,200,glas
+Saus ketjap-,253,"1,6",61,"0,1",1,0.0,0,
+Gehakt kippen-,147,"21,5",0,"6,8",0,0.0,0,
+Margarineproduct 60% vet >17g verz vetz gezouten,532,"0,2","0,2",59,0,0.0,0,
+Quinoa,354,"14,1","57,2","6,1",7,150.0,0,stuk
+Kaas 30+ jong,280,"30,1",0,"17,7",0,0.0,0,
+Zuigelingenvoeding Kruidvat Standaard 1 p 100 ml,67,"1,3","7,6","3,3","0,6",150.0,0,stuk
+Opvolgmelk Kruidvat Standaard 2 p 100 ml,69,"1,4","8,9",3,"0,6",150.0,200,glas
+Opvolgmelk Kruidvat Standaard 3 p 100 ml,71,"1,5",9,"3,1","0,6",150.0,200,glas
+Kaas 30+ jong belegen,278,"29,3",0,"17,9",0,0.0,0,
+Kaas 30+ belegen,306,"31,9",0,"19,8",0,0.0,0,
+Kaas 30+ oud,307,"31,7",0,20,0,0.0,0,
+Kaasproduct m plantaardige vetten Kees jong belegen,387,29,0,"30,1",0,0.0,0,
+Kaasproduct m plantaardige vetten Kees oud,403,31,0,31,0,0.0,0,
+Spread sandwich- overige smaken,186,"1,6","14,9","13,2","0,9",0.0,0,
+Salade coleslaw,191,"1,4","7,1","16,9","1,9",0.0,0,
+Plantaardig alternatief voor room obv soja Alpro Cuisine Light,61,2,"2,5","4,7","0,4",150.0,0,stuk
+Drink soja- z suiker verrijkt m calcium en vitamines,34,"3,4","0,6","1,8","0,6",150.0,0,stuk
+Bonen kidney- rode blik/glas,116,"8,2","15,1","0,7","8,5",0.0,0,
+Erwten kikker- blik/glas,140,"7,9","17,9","2,5","7,2",0.0,0,
+Tarwebrood volkoren verrijkt m vit D en vezel Vollerkoren,231,"10,6","35,6",3,"9,4",0.0,0,
+Pasta vezelrijk Honig,336,11,64,"1,5",11,0.0,0,
+Bouillon 1-kops bereid,6,"0,3","0,9","0,1","0,1",150.0,250,kom
+Meergranenbrood bruin m zaden verrijkt m ijzer en vitamines Vikorn Vitaminebrood,265,"11,4","39,9","5,5",5,150.0,0,stuk
+Meergranenbrood bruin m zaden verrijkt m ijzer en vitamines Vikorn Volvezel,268,"11,1","39,4","5,8","6,8",150.0,0,stuk
+Mispel,50,"0,5","10,6","0,2","1,7",0.0,0,
+Ansjovis,125,"20,4",0,"4,8",0,0.0,0,
+Yoghurtdrank Ayran Turks,33,"2,3",2,"1,6",0,0.0,150,bakje
+Rundvlees gezouten gedroogd gekruid Pastirma Turks,155,30,2,3,0,150.0,0,stuk
+Gehakt runder- ambachtelijke slagerij,180,20,"0,3","10,9","0,5",0.0,0,
+Hummus naturel,320,"7,7","11,3","25,8","5,4",0.0,0,
+Zeekraal,14,"0,7","1,1","0,2","2,5",0.0,0,
+Tarwebrood volkoren fijn m zaden,273,"12,3","35,8","7,3","7,8",0.0,0,
+Tarwebrood volkoren fijn m zonnebloempitten,282,"11,7","36,2","8,6","6,7",0.0,0,
+Tarwebrood volkoren grof m zaden,275,"12,6","35,1","7,5",8,0.0,0,
+Tarwebrood volkoren grof m zonnebloempitten,284,"12,1","35,6","8,9","6,9",0.0,0,
+Tarwebrood volkoren grof m pompoenpitten,276,"13,6","34,4","7,8",7,0.0,0,
+Bier wit,47,"0,5","3,7",0,"0,3",0.0,250,glas
+Wodka,234,0,0,0,0,0.0,0,
+Vruchtendrank appelnectar,37,0,"9,1",0,0,135.0,0,stuk
+Kiwi gele,66,1,"12,4","0,3","1,4",75.0,0,stuk
+Asperge groene,28,3,"2,8","0,1","2,1",0.0,0,
+Olijven zwart in water blik/glas,162,"0,9","1,7",14,"12,5",0.0,200,glas
+Pesto rode,368,5,7,35,"2,4",0.0,0,
+Worst grill- kip,209,"13,8","4,4",15,"0,3",0.0,0,
+Zeewier nori gedroogd,254,"31,5","10,5","1,5","36,3",0.0,0,
+Noodles instant bereid,227,"3,4","27,8","11,1","1,4",0.0,0,
+Salade kip-sate- lunch/borrel,262,"9,6","16,5","17,3",1,0.0,0,
+Salade zalm- lunch/borrel,338,"9,3","5,2",31,"0,4",0.0,0,
+Salade tonijn- lunch/borrel,288,"11,4","6,2","24,1","0,3",0.0,0,
+Salade krab- lunch/borrel,282,"5,2","11,5",24,"0,1",0.0,0,
+Salade garnalen- lunch/borrel,299,"6,7","5,9","27,6","0,3",0.0,0,
+Popcorn zoute gepoft z olie,377,"12,7","70,3","3,9","4,9",0.0,0,
+Tarwestokbrood wit m kruidenboter kant-en-klaar,303,"7,8","39,4","12,2","2,3",150.0,0,stuk
+Oliebol ongevuld,241,"6,6","31,2","9,6","1,5",0.0,0,
+Brownie ongevuld,420,"4,4","55,1","19,8","1,6",0.0,0,
+Taai-taai,353,"5,3","79,9","0,9","2,1",0.0,0,
+Melk halfvolle lactosevrij,44,"3,4","4,4","1,5",0,0.0,200,glas
+Boter kruiden-,623,"1,2","2,1","67,7","0,5",150.0,0,stuk
+Stroop schenk-,288,0,72,0,0,0.0,0,
+Olie kokos-,892,0,0,"99,1",0,0.0,0,
+Fudge/karamel zachte,435,"1,9","70,8",16,"0,3",0.0,0,
+Muisjes gestampte/roze&witte/blauwe&witte,402,2,92,"2,4","2,2",150.0,0,stuk
+Vlokken chocolade- mix wit en puur,450,"3,2","75,2","14,4","3,5",0.0,0,
+Siroop vruchtenlimonade- m suiker en zoetstof 20-25 g KH,94,"0,1","23,3",0,0,150.0,0,stuk
+Siroop vruchtenlimonade- m 45-50 mg vit C,238,0,"59,6",0,0,0.0,0,
+Mentos,387,0,"92,5","1,9",0,0.0,0,
+Surimi,122,"6,8","15,5","3,6","0,3",0.0,0,
+Chips tortilla overige smaken,487,"6,6","56,6",25,"4,6",0.0,0,
+Sardines gegrild,171,"25,3",0,"7,8",0,0.0,0,
+Vis vet >5 g vet gem bereid in magnetron z toev,202,"24,7",0,"11,5",0,0.0,0,
+Filodeeg onbereid,286,8,"57,9","1,9","2,4",0.0,0,
+Melkdrank Yakult Plus,45,"1,3","10,2",0,"3,1",0.0,200,glas
+Bier Radler,39,"0,4","6,5",0,"0,1",0.0,250,glas
+Bier bok-,61,"0,6","5,2",0,"0,3",0.0,250,glas
+Yoghurt halfvolle lactosevrij,42,"4,5",2,"1,5",0,0.0,150,bakje
+Yoghurtdrank Actimel vruchten,72,"2,7","11,7","1,5","0,5",0.0,150,bakje
+Koolvis (Alaska),72,"16,4",0,"0,7",0,0.0,0,
+Koolvis (Alaska) gestoomd,120,"27,4",0,"1,2",0,0.0,0,
+Tongschar,73,"16,7",0,"0,7",0,0.0,0,
+Pangasius,74,"14,9",0,"1,6",0,0.0,0,
+Rostirondjes diepvries onbereid,178,2,"24,5","7,3","3,4",0.0,0,
+Vleeswaren natriumarm,179,"16,1","3,5","11,1","0,2",0.0,0,
+Wafel rijst- naturel z zout,390,"6,6","81,8",3,"4,7",0.0,0,
+Tarwebrood volkoren fijn m pompoenpitten,274,"13,2",35,"7,5","6,8",0.0,0,
+Tarwebrood gem v bruin en volkoren,235,"10,5",41,2,"5,8",150.0,0,stuk
+Tarwebrood gem v bruin en volkoren m zaden,275,"11,9","37,2","7,1","7,2",150.0,0,stuk
+Halvarineproduct Vita d'Or Goed begin,347,0,"1,1",38,"0,1",0.0,0,
+Artisjokharten blik/glas,27,"2,1","1,5","0,4","4,8",0.0,0,
+Sla romaine,17,"1,2","1,2","0,3","2,1",0.0,0,
+Olie rijst-,900,0,0,100,0,0.0,0,
+Olie frituur-,900,0,0,100,0,0.0,0,
+Olijven gem in water blik/glas,122,"0,9","0,8","11,6","5,6",0.0,200,glas
+Halvarine 40% vet <17 g verz vetz verrijkt m vit E gezouten,360,0,0,40,0,0.0,0,
+Meloen cantaloupe,38,"0,8","7,9","0,2","0,9",0.0,0,
+Bak- en braadvet Vita d'Or Vlees&jus vloeibaar,878,"0,3","0,9",97,0,0.0,0,
+Saus chili-,149,"0,3","35,8","0,3","0,7",0.0,0,
+Saus knoflook- 30-<40% olie,378,1,12,"36,2","0,2",0.0,0,teentje
+Runderrosbief (vleeswaar),156,"27,2","0,2","5,1",0,0.0,0,
+Saus bolognese- kant-en-klaar glas,101,"4,3","8,5","5,3","0,8",0.0,0,
+Hagelslag chocolade- extra puur,424,"7,8","53,7","18,3","6,6",0.0,0,
+Marmelade,260,"0,3","63,9","0,2","0,8",0.0,0,
+Soeppoeder,372,"9,6","54,2","12,1",4,0.0,250,kom
+Zoutje luchtig mais- Organix Goodies,452,"8,2","73,2","13,7","1,6",0.0,0,
+Vlokken chocolade- wit,458,"5,9",77,14,0,0.0,0,
+Kaas Heks'n-,356,"1,9","9,7","34,3","0,4",0.0,0,
+Siroop gember-,215,0,"52,2","0,4","1,2",0.0,0,
+Schuimpje,366,"2,1","89,2","0,1",0,150.0,0,stuk
+Kokoswater naturel,18,0,"4,5",0,0,0.0,200,glas
+Stroop appel- peren,253,"1,1","60,3",0,"3,8",135.0,0,stuk
+Kaas Feta,274,"16,6","0,6","22,8",0,0.0,0,
+Nasischijf diepvries onbereid,197,"5,3","31,4","5,4","0,7",0.0,0,
+Yoghurtdrank verrijkt m calcium,55,"1,8","11,7",0,0,0.0,150,bakje
+Vruchtendrank m zuivel m suiker en zoetstof,32,"0,1","7,8",0,0,150.0,0,stuk
+Kroket oven- vlees diepvries onbereid,247,"8,1","21,5",14,"1,2",0.0,0,
+Kaas room- m kruiden 25-30 g vet,291,"5,3","3,4","28,4",0,150.0,0,stuk
+IJs sorbet-,126,"0,2","30,8","0,1","0,9",0.0,0,
+Kaas witte 45+,247,"17,1","0,6","19,6",0,0.0,0,
+Bitterbal oven- diepvries onbereid,246,"7,9","21,3","14,1","1,2",0.0,0,
+Halvarineproduct Vita d'Or Bewust light,270,0,0,30,"0,1",0.0,0,
+Broodje frikandel- bladerdeegbasis,327,8,"25,4","21,2","0,9",0.0,0,
+Focaccia,266,"7,7","38,4","8,7","1,7",0.0,0,
+Zoutje bladerdeeg-,501,10,53,27,"2,9",0.0,0,
+Olie sesam-,898,"0,2",0,"99,7",0,0.0,0,
+Kaas Ricotta,141,8,"3,9","10,3",0,0.0,0,
+Pinda's omhuld m melkchocolade,568,"16,1","35,5","39,1","4,8",0.0,200,handje
+Dreumesmelk Kruidvat 4 p 100 ml,68,"1,5","8,9","2,8","0,6",150.0,200,glas
+Peutermelk Kruidvat 5 p 100 ml,51,"1,2","6,9","1,9","0,6",150.0,200,glas
+Ontbijtproduct Tresor Kellogg's,448,"7,4","67,3","15,7","3,8",0.0,0,
+Ontbijtproduct Honey pops Kellogg's,389,5,88,1,4,0.0,0,
+Bessen goji- gedroogd,343,"14,3","64,1","0,4",13,0.0,0,
+Hennepzaad,592,"31,6","4,7","48,8",4,0.0,0,
+Chiazaad gedroogd,443,"16,5","7,7","30,7","34,4",0.0,0,
+Bessen moerbei-,45,"1,4","8,1","0,4","1,7",0.0,0,
+Olie koolzaad-/raapzaad-,899,0,0,"99,9",0,0.0,0,
+Munt vers,49,"3,8","5,1","0,7","3,5",0.0,0,
+Olie palm-,899,0,0,"99,9",0,0.0,0,
+Koffie latte macchiato vers bereid,46,"2,5","3,4","2,5",0,0.0,125,kopje
+Tarwebrood volkoren tijger-,238,"10,8","40,5","2,2","6,4",0.0,0,
+Olie plantaardig gem,898,"0,1",0,"99,7",0,0.0,0,
+Drop m schuim,334,"6,1","76,6","0,3","0,6",150.0,0,stuk
+Tarwemaisbrood wit m zaden,298,"12,3","40,1","8,5","6,1",0.0,0,
+Tarwebrood wit gem v melk- en waterwit m zaden,287,"10,7","43,2","6,9","4,3",0.0,200,glas
+Noten amandelen m vliesje ongezouten,622,"25,4",5,"53,4","10,2",0.0,0,handje
+Noten para- gezouten,687,"14,3","2,6","67,1","7,5",0.0,0,handje
+Biscuit melk- AH/Jumbo,488,"9,9",62,21,"5,5",150.0,200,glas
+Thee automaat- m suiker,15,0,"3,7",0,0,150.0,125,kopje
+Koffie automaat- m suiker,16,"0,2","3,8",0,0,150.0,125,kopje
+Soep tomaten- m vermicelli,24,"0,8","3,6","0,6","0,8",0.0,250,kom
+Biscuit ontbijt- Liga Belvita,446,"7,7","67,7","14,8","5,5",150.0,0,stuk
+Kikkers/muizen fondant m chocolade,393,1,"84,7","5,3","0,9",150.0,0,stuk
+Sap vruchten- Healthy People Cranberry,49,"0,1",12,0,0,0.0,200,
+Bier Radler alcoholvrij,34,"0,2","8,3",0,0,0.0,250,glas
+"Rijst noten-  m geconfijt fruit, noten en zaden",385,"7,9","51,7","15,1","5,6",150.0,0,handje
+Salade kaas- lunch/borrel,422,9,"6,8","39,4","0,4",0.0,0,
+Perzik m schil,40,1,"7,2","0,1",2,150.0,0,
+Vruchtendrank sap m water,22,"0,2",5,0,"0,1",0.0,200,glas
+Koek ontbijt- m chocolade,316,"2,8","67,1","3,3","3,5",0.0,0,
+Pap Nestle Pyjamapapje kant-en-klaar,83,"2,3","12,3","2,7","0,4",0.0,0,
+Gehakt rul vegetarisch obv soja onbereid verrijkt m ijzer en vit B12 De Vegetarische Slager,125,24,"2,9","0,5","6,4",0.0,0,
+Suiker poeder-,396,0,99,0,0,150.0,0,stuk
+Chocolade gevuld m karamel Rolo,477,"4,4","68,4","20,4","1,2",0.0,0,
+Varkensrollade (vleeswaar),129,"19,7","1,1","5,1","0,1",0.0,0,
+Cracker mini- naturel,442,"10,9","69,3","12,9","2,7",0.0,0,
+Cracker mini- m smaakje,435,"10,4","68,3","12,6","3,5",0.0,0,
+Aardappelschijfjes/-partjes ed gekruid diepvries onbereid,134,"2,5","21,2","3,8","2,5",150.0,0,stuk
+Tapenade v tomaten,291,"3,1","12,2","24,7",4,0.0,0,
+Drink rijst- z suiker,65,"0,3","13,7",1,"0,3",150.0,0,stuk
+Aioli,726,"1,5","2,9","78,6","0,1",0.0,0,
+Knackebrod Oerknack Bolletje,427,15,"60,3","12,3","7,5",0.0,0,
+Beschuit boeren-,440,16,56,15,"8,5",150.0,0,stuk
+Noten wal- gezouten,706,"15,9","5,1","68,1","4,6",0.0,0,handje
+Noten macadamia gezouten,753,"7,8","5,4","76,1",8,0.0,0,handje
+Noten pistache ongezouten,592,"23,8","10,8","48,3","9,5",0.0,0,handje
+Noten amandelen m vliesje gezouten,622,"25,4",5,"53,4","10,2",0.0,0,handje
+Drink amandel- m suiker verrijkt m calcium en vitamines,23,"0,4","2,9","1,1","0,2",150.0,0,stuk
+Drink amandel- z suiker verrijkt m calcium en vitamines,13,"0,3","0,5","1,1","0,2",150.0,0,stuk
+Kiwi gem,64,1,"11,4","0,6",2,75.0,0,stuk
+Guacamole,153,"1,7","2,5","14,5","2,6",0.0,0,
+Glazuur suiker-,354,0,"88,4",0,0,150.0,0,stuk
+Ontbijtproduct Cornflakes Plus/1 de Beste,381,8,"83,1","1,1","3,3",0.0,0,
+Boterproduct melange gezouten,675,"0,7","0,9","74,3",0,0.0,0,
+Ontbijtproduct Choco moons Crownfield,382,"11,7","71,9","3,3","9,1",0.0,0,
+Ontbijtproduct Honey hoops Crownfield,379,"6,3","80,1","2,2","6,7",0.0,0,
+Ontbijtproduct Chocoschelpjes G'woon,402,"9,5",77,"4,8","6,3",0.0,0,
+Ontbijtproduct Choco chocos Plus,392,"8,3","80,9","3,1","3,5",0.0,0,
+Siroop vruchtenlimonade- m zoetstof Karvan Cevitam,25,"0,2","5,9",0,"0,1",0.0,0,
+Wafel rijst- m vruchtensmaak Organix,390,"6,8",88,"1,1","0,3",0.0,0,
+Tzatziki,156,4,"4,1","13,4","0,6",0.0,0,
+Cake madeleine cakereepjes Lotus,424,"6,2","49,4","21,4","4,5",0.0,0,
+Kruidnoten,442,"5,8","77,1","11,8",2,150.0,0,handje
+Chocolade extra puur,578,"9,2","27,2","45,4","11,8",0.0,0,
+Bakmix voor pannenkoeken  meergranen-,340,"11,3","67,5","1,5",6,0.0,0,
+IJs room- m karamel en noten,243,"3,2","29,8","12,3","0,3",0.0,0,handje
+Saus oester-,105,"1,5","24,3","0,2","0,3",0.0,0,
+Anijszaad,384,"17,6","35,4","15,9","14,6",0.0,0,
+Noten pecan- gebrand m olie gezouten,750,"9,2","4,3","75,2","9,5",0.0,0,handje
+Gehaktbal varkens- m ei en paneermeel,189,"19,2","5,2","10,1","0,3",0.0,0,
+Ontbijtproduct Honingringetjes 1 de Beste,374,"9,7","73,6","3,1","6,3",0.0,0,
+Worst met-,484,"22,3","2,7","42,5","0,8",0.0,0,
+Bonen black eyed blik/glas,126,"7,8","18,9","0,9","5,7",0.0,0,
+Linzen bruine blik/glas,112,"7,6","15,6","0,8","5,8",150.0,0,stuk
+Bonen cannellini blik/glas,113,"7,1",15,"1,1","7,1",0.0,0,
+Bonen chili- blik/glas,106,"6,3","15,8","0,8","5,1",0.0,0,
+Kapucijners jonge blik/glas,93,"5,7","13,2","0,7","5,5",0.0,0,
+Bonen zwarte blik/glas,113,"7,9","14,1",1,8,0.0,0,
+Soep erwten- m vlees,77,"4,9","6,3",3,"2,8",0.0,250,kom
+Berenklauw bereid m vloeibaar frituurvet,214,"10,4",5,"16,7","1,1",0.0,0,
+Kipkorn bereid m vloeibaar vet,382,"11,5","16,8","29,7","0,6",0.0,0,
+Vet kippen-,900,0,0,100,0,0.0,0,
+Olie palmpit-,899,0,0,"99,9",0,0.0,0,
+Peuterplusmelk Nutrilon 6 p 100 ml,46,"1,2",6,"1,7","0,8",0.0,200,glas
+Zuigelingenvoeding Hero Baby Nutrasense Standaard 1 p 100 ml,66,"1,3","7,2","3,5","0,3",150.0,0,stuk
+Opvolgmelk Hero Baby Nutrasense Standaard 2 p 100 ml,70,"1,4","9,5","2,9","0,2",0.0,200,glas
+Peutermelk Hero Baby Nutrasense 3 p 100 ml,62,"1,3","8,2","2,6","0,2",0.0,200,glas
+Peutermelk Hero Baby Nutrasense 4 p 100 ml,50,"1,1","6,7","2,1","0,1",0.0,200,glas
+Zuigelingenvoeding Hipp Biologisch Combiotik 1 p 100 ml,66,"1,3","7,3","3,5","0,3",150.0,0,stuk
+Opvolgmelk Hipp Biologisch Combiotik 2 p 100 ml,70,"1,5","7,9","3,5","0,4",0.0,200,glas
+Opvolgmelk Hipp Biologisch Combiotik 3 p 100 ml,66,"1,4",8,3,"0,5",0.0,200,glas
+Zuigelingenvoeding Jumbo Standaard 1 p 100 ml,67,"1,4","7,4","3,4","0,6",150.0,0,stuk
+Opvolgmelk Jumbo Standaard 2 p 100 ml,69,"1,4","8,8",3,"0,6",0.0,200,glas
+Opvolgmelk Jumbo Standaard 3 p 100 ml,70,"1,5","8,8","3,1","0,6",0.0,200,glas
+Dreumesmelk Jumbo Standaard 4 p 100 ml,66,"1,5","8,4","2,8","0,8",0.0,200,glas
+Peutermelk Jumbo Standaard 5 p 100 ml,62,"1,2","8,2","2,5","0,8",0.0,200,glas
+Zuigelingenvoeding Albert Heijn Standaard 1 p 100 ml,66,"1,4",7,"3,5","0,4",150.0,0,stuk
+Opvolgmelk Albert Heijn Standaard 2 p 100 ml,65,"1,6","7,9","2,9","0,4",0.0,200,glas
+Opvolgmelk Albert Heijn Standaard 3 p 100 ml,69,"1,9","8,4",3,"0,4",0.0,200,glas
+Dreumesmelk Albert Heijn Standaard 4 p 100 ml,69,"1,6","8,8",3,"0,3",0.0,200,glas
+Zuigelingenvoeding Albert Heijn Biologisch Standaard 1 p 100 ml,67,"1,5","7,2","3,6",0,150.0,0,stuk
+Opvolgmelk Albert Heijn Biologisch Standaard 2 p 100 ml,68,"1,7","7,5","3,5",,0.0,200,glas
+Opvolgmelk Albert Heijn Biologisch Standaard 3 p 100 ml,69,"1,9","7,7","3,4",0,0.0,200,glas
+Zuigelingenvoeding Bonbebe Standaard 1 p 100 ml,67,"1,3","7,6","3,3","0,6",150.0,0,stuk
+Opvolgmelk Bonbebe Standaard 2 p 100 ml,69,"1,4","8,9",3,"0,6",0.0,200,glas
+Opvolgmelk Bonbebe Standaard 3 p 100 ml,71,"1,5",9,"3,1","0,6",0.0,200,glas
+Dreumesmelk Bonbebe Standaard 4 p 100 ml,68,"1,5","8,9","2,8","0,8",0.0,200,glas
+Zuigelingenvoeding Etos Standaard 1 p 100 ml,66,"1,4",7,"3,5","0,4",150.0,0,stuk
+Opvolgmelk Etos Standaard 2 p 100 ml,65,"1,6","7,9","2,9","0,4",0.0,200,glas
+Opvolgmelk Etos Standaard 3 p 100 ml,69,"1,9","8,4",3,"0,4",0.0,200,glas
+Dreumesmelk Etos Standaard 4 p 100 ml,69,"1,6","8,8",3,"0,3",0.0,200,glas
+Zuigelingenvoeding Etos Biologisch Standaard 1 p 100 ml,67,"1,5","7,2","3,6",0,150.0,0,stuk
+Opvolgmelk Etos Biologisch Standaard 2 p 100 ml,68,"1,7","7,5","3,5",0,0.0,200,glas
+Opvolgmelk Etos Biologisch Standaard 3 p 100 ml,69,"1,9","7,7","3,4",0,0.0,200,glas
+Kaas Danish Blue,350,"20,5",0,"29,5",0,0.0,0,
+Melk halfvolle verrijkt m calcium en vit D,47,"3,5","4,7","1,6",0,0.0,200,glas
+Taart appel- zandtaardeeg gem,224,"2,9","31,6","9,1","1,5",135.0,0,stuk
+Cake naturel gem,396,"5,7","42,2","22,5","0,8",0.0,0,
+Bladerdeeg gem bereid,614,7,40,47,"1,4",0.0,0,
+Cake appel- gem,259,"3,5","30,2","13,5","1,1",135.0,0,stuk
+Appelflap gem,360,"3,5",35,"22,4","1,5",135.0,0,stuk
+Irish coffee,166,"0,7","6,7","8,7",0,0.0,0,
+Cake chocolade- gem,394,"5,7",46,"20,4","2,1",0.0,0,
+Kaasfondue huishoudelijk bereid,323,"21,4","1,8","24,2",0,150.0,0,stuk
+Melk chocolade- halfvolle m zoetstof,48,"3,3","4,5","1,7","0,5",0.0,200,glas
+Wijn alcoholvrij,23,"0,1","5,3","0,1",0,0.0,150,glas
+Plantaardig alternatief voor yoghurt obv soja z suiker verrijkt m calcium en vitamines,39,4,0,"2,3","0,9",150.0,150,bakje
+Cheesecake,319,"5,4",24,"22,3","0,5",0.0,0,
+Popcorn zoute kant-en-klaar (gepoft m olie),505,"8,4","52,3","27,1",9,0.0,0,
+Popcorn zoete kant-en-klaar (gepoft m olie),419,"4,7","84,7","5,8","4,6",0.0,0,
+Azijn balsamico,123,"0,7","25,3",0,0,0.0,0,
+Carrotcake,358,"4,5","37,2",21,"1,2",0.0,0,
+Bananenbrood,300,"4,8","39,4","13,2","1,6",0.0,0,
+Paneermeel kruiden-,378,13,"71,3","3,5","4,6",150.0,0,stuk
+Peper zoete gevuld m roomkaas,161,"3,6","2,2","15,2","0,9",0.0,0,
+Hagelslag chocolade- mix wit en melk,452,"5,8","74,2","14,1","2,4",0.0,200,glas
+Vlokken chocolade- mix wit en melk,456,"5,9","74,5","14,5","1,8",0.0,200,glas
+Skyr m vruchten magere,71,"9,3","7,9",0,"0,1",0.0,0,
+Bakmix voor cake naturel,367,"5,1","84,6","0,6","1,6",0.0,0,
+Bamigroenten,27,"1,8","3,5","0,1","2,2",0.0,0,
+Cracker luchtige naturel,380,13,72,"3,5","4,2",0.0,0,
+Tonijn m groente en tomatensaus in blik,98,"11,7","4,8","3,5","0,6",0.0,0,
+Zeevruchten bereid,112,"16,9","4,6","2,9","0,1",0.0,0,
+Groente roerbak- champignon,25,"1,7","2,8","0,3","2,3",0.0,0,
+Groente roerbak- Hollandse,27,"1,5","3,5","0,3","2,5",0.0,0,
+Groente roerbak- Italiaanse,28,"1,2","4,2","0,2","2,4",0.0,0,
+Groente roerbak- oosterse,29,"1,7","3,9","0,2","2,5",0.0,0,
+Yoghurt Griekse magere,56,"8,2",5,"0,1",0,0.0,150,bakje
+Koek ontbijt- z suiker,238,"2,9","53,2","1,2",17,150.0,0,stuk
+Fruitreep m noten,424,"7,8","47,6","20,9","6,5",150.0,0,handje
+Pindakaas 100% pinda's ongezouten,611,"26,5","11,6","49,1","8,6",0.0,0,handje
+Vet dierlijk gem,897,0,0,"99,7",0,0.0,0,
+Vruchten bos- gem,39,"0,9",6,"0,1","2,6",0.0,0,
+Kalfsvlees gem,127,"21,3",0,"4,7",0,0.0,0,
+Zout bakkers- m toegevoegd jodium,0,0,0,0,0,0.0,0,
+Cacaopoeder magere,332,"23,4","12,4",11,45,0.0,0,
+Pasta noten- 100% noten ongezouten,639,"19,8","10,9","55,9","6,6",0.0,0,handje
+IJs yoghurt- m vruchten,165,"2,6","23,9","6,4","0,9",0.0,150,bakje
+Skyr naturel magere,60,"10,6","3,7",0,0,0.0,0,
+Bakmix voor chocoladecake,377,"6,4","77,8","3,6","4,3",0.0,0,
+Bakmix voor appeltaart,341,"9,4",72,"1,1","2,9",135.0,0,stuk
+Frites groente- voorgebakken diepvries onbereid,142,"2,2",15,7,"5,2",0.0,0,
+Soeppoeder 1-kops soep,372,"9,6","54,2","12,1",4,0.0,250,kom
+Melk volle lactosevrij,64,"3,4","4,6","3,6",0,0.0,200,glas
+Zoetstof intensief obv koolhydraten als vulmiddel,358,"2,8","85,7","0,2","1,1",0.0,0,
+Witlof m ham en kaas uit de oven,101,"8,1","1,8","6,5","0,7",150.0,0,stuk
+Ratatouille bereid z vlees,56,"1,1","3,3","3,9","1,7",150.0,0,stuk
+Bonenschotel m groente in tomatensaus blik/glas/zak,71,"3,4",9,"1,4","4,2",0.0,0,
+Stoofperen bereid m gezoet kookvocht,58,"0,2","13,5","0,1","1,1",0.0,0,
+Omelet/roerei,161,"10,2","0,7","13,1",0,0.0,0,
+Omelet ham-kaas,209,"11,5","0,8","17,6",0,0.0,0,
+Omelet m aardappel Spaanse tortilla,137,6,"8,1","8,8",1,135.0,0,stuk
+"Omelet m aardappel, groente en spek Spaanse tortilla",126,"6,5","4,4","8,9","1,1",135.0,0,stuk
+Bobotie z rijst,129,7,"5,5","8,5","1,1",0.0,0,
+Mosselen,67,"11,1","1,9","1,7",0,0.0,0,
+Saus carbonara- huishoudelijk bereid,284,"13,5",1,"25,1",0,150.0,0,stuk
+Hachee,98,"8,1","4,5","5,1","0,6",0.0,0,
+Knoflook bereid z vet,127,"5,6","23,8","0,3","2,7",0.0,0,teentje
+Paprika gevuld m gehakt,145,"5,8","6,5","10,4","1,4",150.0,0,stuk
+Yoghurt geiten- volle,74,"3,7","3,6","4,7",0,0.0,150,bakje
+IJs room- chocolade,226,"3,5","28,6","10,4","1,9",0.0,0,
+Shaslick spies varkensvlees m groente bereid,75,"12,8","1,5","1,8","0,7",0.0,0,
+Viscuisine koolvis m paneermeel-kruidenkorst bereid,220,"16,5","10,6","12,2","0,8",150.0,0,stuk
+IJs room- vanille,220,3,"24,9",12,"0,6",0.0,0,
+IJs vanille-,212,"2,9","25,8","10,7","0,4",0.0,0,
+IJs room- m vruchten,194,"2,7","27,1","8,1","0,9",0.0,0,
+IJs room/vanille- cornet m vruchten,269,"3,1","40,5","10,3","0,9",0.0,0,
+Bakmix voor pannenkoeken volkoren-,352,13,"59,4","5,1","8,2",0.0,0,
+Broodje gezond v witbrood,217,"11,7","25,6",7,"1,5",0.0,0,
+Mousse chocolade- kant-en-klaar,189,"5,3","23,9","7,5","2,3",0.0,0,
+Tosti ham-kaas v witbrood,252,"12,7","27,6","9,7","1,4",0.0,0,
+Broodje hamburger huishoudelijk bereid,213,"10,8","13,6","12,6","1,3",150.0,0,stuk
+Frikandel speciaal,230,"10,2","9,2","16,5","1,7",0.0,0,
+Salade Griekse z dressing,81,"4,7","2,3","5,6","1,3",0.0,0,
+Risotto bereid,196,"5,8","25,6","7,6","0,7",0.0,0,
+Sushi m zalm en komkommer,133,"5,5","22,8","1,8","1,2",400.0,0,stuk
+Wrap m kip,171,"13,5","17,1","5,1","1,5",0.0,0,
+Aardpeer,75,2,"13,4","0,5","4,3",140.0,0,stuk
+Meloen gem,31,"0,5","6,9",0,"0,5",0.0,0,
+Candybar gem,478,"5,4","65,1","21,5","1,5",0.0,0,
+Pindarotsjes,582,"15,8",31,"42,6","5,9",0.0,0,handje
+Snoepmix,328,"5,8","75,3","0,3","0,5",0.0,0,
+Siroop vruchtenlimonade- m suiker en zoetstof 30-35 g KH,134,0,"33,4",0,0,150.0,0,stuk
+Wentelteefje v wit tarwebrood,199,"5,9","24,6","8,3",1,0.0,0,
+Pannenkoek spek- koelvers,208,"6,7","18,1","11,9","0,8",0.0,0,
+Salade nicoise m dressing,75,"4,4","2,5","4,8","2,1",0.0,0,
+Pastagerecht carbonara huishoudelijk bereid,182,"7,5","20,2","7,6",1,150.0,0,stuk
+Frites speciaal,249,"2,6","25,6","14,5","2,8",0.0,0,
+Frites m sauzen en uitjes,255,"3,1","25,3","15,1","2,8",150.0,0,stuk
+Frites kapsalon,216,"9,6","8,8","15,6","1,2",0.0,0,
+Quiche Lorraine,328,"11,5","12,5","25,4","0,7",150.0,0,stuk
+Stamppot boerenkool m rookworst en spekjes,137,"5,2","9,4","8,4","1,6",0.0,0,
+Stamppot e andijvie m gehaktbal en spekjes,101,"5,2","11,3","3,6","1,4",0.0,0,
+Zaden en pitten gem,562,"19,1","10,5","44,8","20,5",0.0,0,
+Spread fruit-,162,"0,5",38,"0,1","1,8",150.0,0,stuk
+Vruchtendrank Dubbeldrank,45,"0,2","10,8",0,"0,3",0.0,0,
+Margarineproduct 60% vet <17g verz vetz gezouten,536,0,"0,2","59,5",0,0.0,0,
+Halvarine Blue Band,357,"0,3","1,1",39,"0,1",0.0,0,
+Glutenvrij brood donker,205,"4,1",35,"3,6","8,3",0.0,0,
+Glutenvrij brood licht,212,"4,1","38,9","3,1","6,1",0.0,0,
+Glutenvrij brood meerzaden,236,5,"33,5",7,"9,7",0.0,0,
+Glutenvrij brood zuurdesem,266,"4,3",49,"4,2","7,7",0.0,0,
+Kruiden tuin- vers gem,43,"3,3","4,1","0,7","3,2",150.0,0,stuk
+Margarineproduct 45% vet <17 g verz vetz ongezouten,406,"0,2","0,2",45,0,0.0,0,
+Gnocchi onbereid,174,"3,9","37,9","0,3","1,9",0.0,0,
+Limonade vruchten- m suiker en zoetstof 7-9 g KH,31,0,"7,7",0,0,150.0,0,stuk
+Halvarineproduct Albert Heijn light,270,0,0,30,0,0.0,0,
+Halvarineproduct Albert Heijn Goed Begin,351,0,0,39,0,0.0,0,
+Halvarineproduct Jumbo Goed Begin,347,"0,1","1,1",38,0,0.0,0,
+Halvarine Jumbo,356,"0,1","1,2",39,0,0.0,0,
+Smeltjus bereid,260,"0,4","1,6",28,0,0.0,0,
+Yoghurtdrank m zoetstof Linessa,28,3,"3,5","0,1","0,5",0.0,150,bakje
+Drink haver- z suiker verrijkt m calcium en vitamines,44,"0,5","6,7","1,5",1,150.0,0,stuk
+Bonen bruine blik/glas geen zout toegevoegd,118,8,"15,9","0,9","7,2",150.0,0,stuk
+Linzen blik/glas geen zout toegevoegd,93,"7,7","12,5","0,5","3,8",0.0,0,
+Erwten kikker- blik/glas geen zout toegevoegd,117,"6,8","13,5","2,5","6,5",0.0,0,
+Bonen kidney- rode blik/glas geen zout toegevoegd,102,"7,7",13,"0,7","6,6",0.0,0,
+Pizza m mozzarella Margherita,200,"7,6","22,3","8,6","1,4",0.0,0,
+Pizza quattro formaggi,230,"9,3","22,6","11,1","1,4",0.0,0,
+Zuigelingenvoeding Nestle Little steps 1 p 100ml,68,"1,5","8,2","3,2",,150.0,0,stuk
+Opvolgmelk Nestle Little steps 2 p 100ml,67,"1,5",8,"3,2",,0.0,200,glas
+Dreumesmelk Nestle Little steps 3 p 100ml,67,"1,5","8,6",3,,0.0,200,glas
+Groente hutspot-,35,"0,9","5,9","0,2","3,1",0.0,0,
+Groente roerbak- Mexicaanse,51,"2,7","7,1","0,5","3,6",0.0,0,
+Taco m gehakt en bonen,152,"7,4","12,8","7,2","3,2",0.0,0,
+Burrito m gehakt,208,"9,6","12,8","12,8","1,4",0.0,0,
+Lasagne groenten- koelverse maaltijd,112,"3,3","10,6","5,9","1,2",0.0,0,
+Ui rode,37,"1,3","5,6","0,4","2,5",150.0,0,stuk
+Broodje cheeseburger kant-en-klaar,240,"12,7","20,6","11,4","1,9",0.0,0,
+Wafel mais- naturel m zout,385,"7,4",85,"1,1","2,5",0.0,0,
+Drink haver- z suiker,40,"0,3","7,1","1,1","0,5",150.0,0,stuk
+Drink amandel- z suiker,26,"0,9","0,6","2,2","0,2",150.0,0,stuk
+Plantaardig alternatief voor Goudse kaas obv kokosolie,268,"0,3","17,4","21,5","1,7",0.0,0,
+Plantaardig alternatief voor Goudse kaas obv kokosolie verrijkt m Ca en Vit B12,286,"0,1","22,7","21,3","1,7",0.0,0,
+Hummus m groente,251,"5,3",11,"19,1",7,0.0,0,
+Soepstengel volkoren,385,"14,1","61,9","6,5","11,3",0.0,250,kom
+Saus sate- geconcentreerd,437,"13,5","36,5","25,5","3,3",0.0,0,
+Saus soja-,40,"5,5","4,4",0,"0,1",0.0,0,
+Saus wok- teriyaki,164,"1,9","38,2","0,3","0,5",0.0,0,
+Zoutje luchtig aardappelbasis,514,"3,6","59,7","28,4","2,5",135.0,0,stuk
+Drink kokos- m suiker verrijkt m calcium en vitamines,25,"0,2","2,4","1,6","0,1",150.0,0,stuk
+Kipschnitzel krokant,265,"13,6","19,2","14,6","1,2",0.0,0,
+Worst boterham- vegetarisch,173,"8,7","3,5","12,9","4,2",0.0,0,
+Pate/smeerworst vegetarisch obv soja/erwt,235,"6,8","5,5","19,9","3,6",0.0,0,
+Wrap/tortilla volkoren,288,"9,3","47,7",5,8,0.0,0,
+Reepjes/stukjes vegetarisch obv soja/tarwe onbereid,171,"20,3","4,4","6,6","6,8",0.0,0,
+Margarineproduct Becel Romig 60% vet,544,"0,5","0,5",60,0,0.0,0,
+Halvarineproduct 20% vet <10g verz vetz gezouten,180,0,0,20,0,0.0,0,
+Muesli krokante m fruit verrijkt m vezel,430,"8,2","59,2","15,1","12,3",150.0,0,stuk
+Noten gemengd m cranberry ongezouten,555,15,"29,5","40,4","6,3",0.0,0,handje
+Muesli krokante m noten verrijkt m vezel,456,"9,8","53,6","19,8","12,2",0.0,0,handje
+Muesli krokante m chocolade verrijkt m vezel,448,"9,4","55,8","18,1","12,3",0.0,0,
+Kokos geraspt gedroogd,674,"7,1","8,6","64,8","14,4",0.0,0,
+Seroendeng,609,"12,9","19,6","50,9","10,3",0.0,0,
+Peulvruchten gem gedroogd,335,"23,1","43,6","3,9","16,4",0.0,0,
+Eiwitreep m pinda,506,"22,2","30,3","30,7","9,8",0.0,0,handje
+Eiwitreep m chocola m zoetstof,369,"36,7","26,7","14,8","8,5",0.0,0,
+Saus wok- zoetzure,169,"1,1",38,"1,2","0,8",0.0,0,
+Koek ontbijt- verrijkt m vezel,285,"2,8","62,4","0,9","8,1",0.0,0,
+Graanreep Sultana Good Morning,451,"7,7","66,4","16,3","4,2",0.0,0,
+Mueslireep verrijkt m vezel,444,"9,4","59,3",16,"12,7",0.0,0,
+Biscuit fruit- verrijkt m vezel,388,"6,9","72,5","7,1","6,1",150.0,0,stuk
+"Biscuit meergranen- diverse smaken verrijkt m vezel, vit en min",389,8,"65,6","8,5","9,2",150.0,0,stuk
+Groenteballetjes/-burgers vegetarisch obv soja onbereid verrijkt m ijzer en vit B12,146,"14,9","7,4",5,"5,8",0.0,0,
+Kaas komijne- 48+ gem,370,"22,9","0,4","30,5","0,1",0.0,0,
+Meel Johannesbroodpit-,187,"3,2","3,3","1,3","74,7",0.0,0,
+Couscous volkoren,342,"12,1",65,"1,9","8,4",0.0,0,
+Tofu onbereid,119,"12,4","1,5","6,6",2,0.0,0,
+Knolraap,31,"0,9","4,8","0,3","2,7",0.0,0,
+Varkensvlees gem,201,19,"1,2","13,3","0,2",0.0,0,
+Vis mager <5 g vet gem bereid in magnetron z toevoegingen,112,"23,4",0,2,0,0.0,0,
+Saus bolognese- huishoudelijk bereid,126,"7,4","4,1","8,6","1,3",150.0,0,stuk
+Spaghetti bolognese m kaas huishoudelijk bereid,149,"7,7","15,1","6,1","1,3",150.0,0,stuk
+"Salade maaltijd- m kip, pasta en dressing",127,"5,1","10,6","6,8",1,0.0,0,
+Salade aardappel-,180,"1,4",15,"12,5","1,1",135.0,0,stuk
+Tosti ham-kaas v bruin/volkoren brood,245,"13,5","23,7","9,9","3,3",150.0,0,stuk
+Pepers in zuur in blik/glas,14,"0,8","1,9","0,1","0,8",0.0,0,
+Kwark magere lactosevrij,57,"9,8","3,8","0,2",0,0.0,125,bakje
+Strooigoed,411,"5,2","78,9",8,"1,4",0.0,0,
+Drink soja- vruchten/vanille m suiker verrijkt m calcium en vitamines,55,"2,8","7,6","1,4","0,6",150.0,0,stuk
+Drink kokos- z suiker,26,"0,3","1,3","1,9",1,150.0,0,stuk
+Jackfruit in water blik,18,1,"0,8","0,2","4,9",150.0,200,glas
+Plantaardig alternatief voor yoghurt obv kokos z suiker,150,"1,5","3,2","14,4","0,5",150.0,150,bakje
+Tofureepjes/-blokjes gekruid onbereid,213,"15,7","1,4","15,6","2,3",150.0,0,stuk
+Falafel onbereid,231,"9,1",24,9,"8,8",0.0,0,
+Kaasschnitzel vegetarisch onbereid,291,"11,4",26,"15,2","2,4",0.0,0,
+Balletjes/burgers vegetarisch obv soja/tarwe onbereid,177,"19,6","4,7","7,5",6,0.0,0,
+Vissticks vegetarisch obv rijst/tarwe onbereid,223,"4,9","28,7","9,3","2,9",0.0,0,
+Balletjes/burgers vegetarisch obv soja/tarwe onbereid verrijkt m ijzer en vit B12,190,"16,9","8,5","8,7","5,1",0.0,0,
+Balletjes/burgers vegetarisch obv erwt onbereid,209,"15,6","3,2","14,3","2,3",0.0,0,
+Groenteballetjes/-burgers vegetarisch obv soja onbereid,194,"10,4","12,6","10,2","5,2",0.0,0,
+Reepjes/stukjes vegetarisch obv soja/tarwe onbereid verrijkt m ijzer en vit B12,178,"20,4",3,"8,4","4,6",0.0,0,
+Nuggets vegetarisch obv tarwe/erwt diepvries onbereid,288,"8,4","26,5","15,7","3,6",0.0,0,
+Filet americain vegetarisch obv melk verrijkt m ijzer,275,"7,8","6,3","23,6","3,2",0.0,200,glas
+Kroket oven- vegetarisch diepvries onbereid,261,"5,2",24,"15,4","3,1",0.0,0,
+Dextrose tabletten niet verrijkt,369,0,91,"0,5",,0.0,0,
+Rempejek pindakoekje,576,"14,5","24,7","45,7",4,0.0,0,handje
+Bitterbal bereid m vloeibaar frituurvet,362,"9,9","20,7","26,2","1,7",0.0,0,
+Gehakt rul vegetarisch obv soja onbereid verrijkt m ijzer en vit B12,110,"21,8","1,2","0,2","8,4",0.0,0,
+Margarine 80% vet >24 g verz vetz gezouten in NEVO recepten,719,"0,1","0,3","79,7",0,0.0,0,
+Worst braad- vegetarisch obv erwt onbereid,237,16,"1,6","17,6","4,3",0.0,0,
+Worst braad- vegetarisch obv soja/tarwe onbereid verrijkt m ijzer en vit B12,178,"14,1","5,1",11,1,0.0,0,
+Schnitzel/burger vegetarisch obv melk onbereid verrijkt m ijzer,172,"11,4","12,1","7,9","3,9",0.0,200,glas
+Burger vegetarisch gevuld m groente en kaas onbereid,216,9,"19,1","10,8","3,1",0.0,0,
+Cracker luchtige volkoren,355,10,"64,3","3,6","12,7",0.0,0,
+Plantaardig alternatief voor room obv haver,136,"0,8","8,1",11,"0,4",0.0,0,
+Drink soja- chocolade m suiker verrijkt m calcium en vitamines,60,3,"7,6","1,7","0,9",150.0,0,stuk
+Spekjes vegetarisch onbereid,185,15,"6,1","10,5","2,7",0.0,0,
+Tempeh onbereid,128,"17,6","0,4","4,7","6,2",0.0,0,
+Bakmix voor oliebollen,367,11,77,1,"2,9",0.0,0,
+Kaas 35+,302,"27,3",0,"20,4",0,0.0,0,
+Bloem spelt-,348,"13,2","67,4","1,7","5,1",0.0,0,
+Meel volkoren spelt-,332,"14,4",56,"2,3","15,3",0.0,0,
